@@ -1,0 +1,1 @@
+curl -l https://www.dati.lombardia.it/resource/jrbq-nyaa.csv?COMUNE=Milano > Beni_culturali_Bella_Lombardia.csv

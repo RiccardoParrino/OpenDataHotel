@@ -1,0 +1,226 @@
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix cmo: <https://www.comune.milano.it/ontology> .
+
+<https://www.comune.milano.it/ontology> a owl:Ontology ;
+	rdfs:isDefinedBy <https://www.comune.milano.it/ontology> .
+
+#################################################################
+#
+#    Classes
+#
+#################################################################
+
+cmo:Bar a owl:Class ;
+	rdfs:label "Bar"@en, 
+		"Bar"@it ;
+	rdfs:comment: "Classe che rappresenta un bar";
+	rdfs:isDefinedBy <https://www.comune.milano.it/ontology>;
+	rdfs:subClassOf cmo:LocalBusiness .
+
+cmo:Pub a owl:Class ;
+	rdfs:label "Pub"@en, 
+		"Pub"@it ;
+	rdfs:comment: "Classe che rappresenta un pub";
+	rdfs:isDefinedBy <https://www.comune.milano.it/ontology>;
+	rdfs:subClassOf cmo:LocalBusiness .
+
+cmo:Parking a owl:Class;
+	rdfs:label "Parking"@en, 
+		"Parcheggio"@it ;
+	rdfs:comment: "Classe che rappresenta un servizio di parcheggio";
+	rdfs:isDefinedBy <https://www.comune.milano.it/ontology>;
+	rdfs:subClassOf cmo:LocalBusiness .
+
+cmo:TransportBusiness a owl:Class;
+	rdfs:label "Transport Business"@en,
+		"Commercio dei trasporti"@it;
+	rdfs:comment "Classe che rappresenta un possibile business nel mondo dei trasporti, motorizzati e non";
+	rdfs:isDefinedBy <https://www.comune.milano.it/ontology>;
+	rdfs:subClassOf cmo:LocalBusiness .
+
+cmo:SharingTransportBusiness a owl:Class;
+	rdfs:label "Sharing Transport Business"@en,
+		"Commercio dei trasporti a condivisione"@it;
+	rdfs:comment "Classe che rappresenta un possibile business nel mondo dei trasporti basati su condivisione, motorizzati e non";
+	rdfs:isDefinedBy <https://www.comune.milano.it/ontology> .
+
+cmo:CarSharing a owl:Class;
+	rdfs:label "Car Sharing"@en,
+		"Noleggio auto"@it;
+	rdfs:comment "Classe che rappresenta una postazione per il servizio di car sharing";
+	rdfs:isDefinedBy <https://www.comune.milano.it/ontology> .
+
+cmo:RentalTransportBusiness a owl:Class;
+	rdfs:label "Rental"@en, 
+		"Noleggio"@it ;
+	rdfs:comment: "Classe che rappresenta un servizio di Noleggio di mezzi di trasporto";
+	rdfs:isDefinedBy <https://www.comune.milano.it/ontology> ;
+	rdfs:subClassOf cmo:TransportBusiness .
+
+cmo:BikeRental a owl:Class;
+	rdfs:label "BikeRental"@en, 
+		"Bici noleggio"@it ;
+	rdfs:comment: "Classe che rappresenta noleggio bici";
+	rdfs:isDefinedBy <https://www.comune.milano.it/ontology> .
+
+cmo:CarRental a owl:Class;
+	rdfs:label "Car Rental"@en, 
+		"Noleggio auto"@it ;
+	rdfs:comment: "Classe che rappresenta un'azienda di noleggi auto";
+	rdfs:isDefinedBy <https://www.comune.milano.it/ontology> .
+
+cmo:LocalBusiness a owl:Class;
+	rdfs:label "Local Business"@en,
+		"Attività commerciale"@it ;
+	rdfs:comment: "Classe che rappresenta un'attività commerciale di tipo generico";
+	rdfs:isDefinedBy <https://www.comune.milano.it/ontology> .
+
+#################################################################
+#
+#    Data properties
+#
+#################################################################
+
+cmo:localBusinessWebsite a owl:DatatypeProperty ;
+	rdfs:label "Sito web di un' attività commerciale"@it ,
+		"Web site of a local business" @en ;
+	rdfs:comment "Proprietà che specifica il sito web di un' attività commerciale'"@it;
+	rdfs:domain cmo:LocalBusiness;
+	rdfs:range xsd:string .
+
+cmo:localBusinessPostalCode a owl:DatatypeProperty ;
+	rdfs:label "Codice postale di un'attività commerciale"@it,
+		"Postal code of a local business"@en;
+	rdfs:comment "Proprietà che specifica il codice postale di un'attività commerciale"@it;
+	rdfs:domain cmo:LocalBusiness;
+	rdfs:range xsd:string .
+
+cmo:latitude a owl:DatatypeProperty;
+	rdfs:label "Latitudine"@it,
+		"Latitude"@en;
+	rdfs:comment "Proprietà che specifica la latitudine fisica"@it;
+	rdfs:domain schema:Place;
+	rdfs:range xsd:double .
+
+cmo:longitude a owl:DatatypeProperty;
+	rdfs:label "Longitudine"@it,
+		"Longitude"@en;
+	rdfs:comment "Proprietà che specifica la longitudine fisica"@it;
+	rdfs:domain schema:Place;
+	rdfs:range xsd:float .
+
+cmo:deliveryFastFood a owl:DatatypeProperty;
+	rdfs:label "Delivery Fast Food"@it,
+		"Servizio a domicilio di un fast food"@en;
+	rdfs:comment "Proprietà che specifica se un fast food dispone del servizio di consegna a domicilio"@it;
+	rdfs:domain schema:FastFoodRestaurant;
+	rdfs:range xsd:string .
+
+cmo:takeawayFastFood a owl:DatatypeProperty;
+	rdfs:label "Takeaway Fast Food"@it,
+		"Servizio di cibo di asporto di un fast food"@en;
+	rdfs:comment "Proprietà che specifica se un fast food prepara cibo da asporto"@it;
+	rdfs:domain schema:FastFoodRestaurant;
+	rdfs:range xsd:string .
+
+cmo:category a owl:DatatypeProperty ;
+	rdfs:label "Categoria dell'hotel"@it,
+		"Cotageory of hotel"@en;
+	rdfs:comment "Proprietà che specifica il tipo di hotel"@it;
+	rdfs:domain schema:Hotel;
+	rdfs:range xsd:string .
+
+cmo:parkingCapacity a owl:DatatypeProperty;
+	rdfs:label "Capacità di un parcheggio"@it,
+		"Capacity of a parking"@en;
+	rdfs:comment "Proprietà che specifica il numero di postazioni auto"@it;
+	rdfs:domain cmo:Parking;
+	rdfs:range xsd:positiveInteger .
+
+cmo:parkingCharge a owl:DatatypeProperty;
+	rdfs:label "Costo del parcheggio"@it,
+		"Charge of a parking"@en;
+	rdfs:comment "Proprietà che specifica il costo del parcheggio"@it;
+	rdfs:domain cmo:Parking;
+	rdfs:range xsd:double .
+
+cmo:parkingType a owl:DatatypeProperty;
+	rdfs:label "Tipo di parcheggio"@it,
+		"Type of a parking"@en;
+	rdfs:comment "Proprietà che specifica il tipo di parcheggio"@it;
+	rdfs:domain cmo:Parking;
+	rdfs:range xsd:string .
+
+cmo:touristAttractionAuthor a owl:DatatypeProperty ;
+	rdfs:label "Author"@en ,
+		"Autore"@it;
+	rdfs:comment "Proprietà che specifica l'autore di un monumento";
+	rdfs:domain schema:TouristAttraction;
+	rdfs:range xsd:string .
+
+cmo:touristAttractionDefinition a owl:DatatypeProperty ;
+	rdfs:label "Tourist Attraction definition"@en ,
+		"Definizione dell' attrazione turistica"@it;
+	rdfs:comment "Proprietà che specifica il tipo di un attrazione turistica"@it;
+	rdfs:domain schema:TouristAttraction;
+	rdfs:range xsd:string .
+
+cmo:touristAttractionAbstract a owl:DatatypeProperty ;
+	rdfs:label "Tourist Attraction descrizione"@en ,
+		"Definizione dell' attrazione turistica"@it;
+	rdfs:comment "Proprietà che specifica il tipo di un attrazione turistica"@it;
+	rdfs:domain schema:TouristAttraction;
+	rdfs:range xsd:string .
+
+cmo:lineOfPublicTransportSystemStation a owl:DatatypeProperty ;
+	rdfs:label "Linea"@it,
+		"Line"@en;
+	rdfs:comment "Proprietà che specifica la linea di una stazione di un sistema di trasporto pubblico"@it;
+	rdfs:domain [ owl:unionOf ( schema:SubwayStation schema:TrainStation schema:BusStation ) ];
+	rdfs:range xsd:string .
+
+cmo:organizationOfTransportSystem a owl:DatatypeProperty;
+	rdfs:label "Gestore di un sistema di trasporto"@it,
+		"Transport system operator"@en;
+	rdfs:comment "Proprietà che specifica il gestore di un sistema di trasporto"@it;
+	rdfs:domain [ owl:unionOf ( schema:SubwayStation schema:TrainStation schema:BusStation cmo:CarSharing cmo:CarRental cmo:BikeRantal) ];
+	rdfs:range xsd:string .
+
+cmo:addressOfTransportSystemStation a owl:DatatypeProperty;
+	rdfs:label "Indirizzo"@it,
+		"Address"@en;
+	rdfs:comment "Proprietà che specifica l'indirizzo fisico di una fermata o di una stazione di un sistema di trasporto"@it;
+	rdfs:domain [ owl:unionOf ( schema:SubwayStation schema:TrainStation schema:BusStation cmo:CarSharing cmo:CarRental cmo:BikeRantal) ];
+	rdfs:range xsd:string .
+
+cmo:parkType a owl:DatatypeProperty ;
+	rdfs:label "Tipo di parco"@it,
+		"Park type"@en;
+	rdfs:comment "Proprietà che specifica il tipo di un parco"@it;
+	rdfs:domain schema:Park;
+	rdfs:range xsd:string .
+
+cmo:hasValutation a owl:DatatypeProperty ;
+	rdfs:label "Valutation of an Hotel"@en ,
+		"Valutazione Hotel"@it;
+	rdfs:comment "Proprietà che specifica il valore di un hotel";
+	rdfs:domain schema:Hotel;
+	rdfs:range xsd:float .
+
+#################################################################
+#
+#    Object properties
+#
+#################################################################
+
+cmo:hasClose a owl:ObjectProperty ;
+	rdfs:label "ha vicino"@it, 
+		"has close"@en ;
+	rdfs:comment "Proprietà che esprime il fatto che una struttura dista da un hotel meno di 100 metri ";
+	rdfs:domain schema:Hotel ;
+	rdfs:range owl:Thing .
+

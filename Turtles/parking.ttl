@@ -1,0 +1,3733 @@
+@prefix cmo: <http://www.comune.milano.it/ontology/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://comune.milano.it/resource/parking/adige_parking> a cmo:Parking ;
+    rdfs:label "Adige Parking" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "void" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/adige_parking_1> a cmo:Parking ;
+    rdfs:label "Adige Parking" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "void" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/area_est_esterna> a cmo:Parking ;
+    rdfs:label "Area Est Esterna" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/area_est_esterna_1> a cmo:Parking ;
+    rdfs:label "Area Est Esterna" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/atm_cascina_gobba_mm2> a cmo:Parking ;
+    rdfs:label "ATM Cascina Gobba MM2" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "1373"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "multi-storey" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/atm_cascina_gobba_mm2_1> a cmo:Parking ;
+    rdfs:label "ATM Cascina Gobba MM2" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "1373"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "multi-storey" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/atm_cascina_gobba_mm2_2> a cmo:Parking ;
+    rdfs:label "ATM Cascina Gobba MM2" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "1373"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "multi-storey" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/atm_cascina_gobba_mm2_3> a cmo:Parking ;
+    rdfs:label "ATM Cascina Gobba MM2" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "1373"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "multi-storey" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/autorimessa_leone> a cmo:Parking ;
+    rdfs:label "Autorimessa Leone" ;
+    cmo:latitude "45.4524043"^^xsd:float ;
+    cmo:longitude "9.1504773"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "void" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/autorimessa_leone_1> a cmo:Parking ;
+    rdfs:label "Autorimessa Leone" ;
+    cmo:latitude "45.4524043"^^xsd:float ;
+    cmo:longitude "9.1504773"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "void" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/autorimessa_sarca> a cmo:Parking ;
+    rdfs:label "Autorimessa Sarca" ;
+    cmo:latitude "45.5068097"^^xsd:float ;
+    cmo:longitude "9.2032698"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "underground" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/autorimessa_sarca_1> a cmo:Parking ;
+    rdfs:label "Autorimessa Sarca" ;
+    cmo:latitude "45.5068097"^^xsd:float ;
+    cmo:longitude "9.2032698"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "underground" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/autorimessa_smeraldo> a cmo:Parking ;
+    rdfs:label "Autorimessa Smeraldo" ;
+    cmo:latitude "45.4800125"^^xsd:float ;
+    cmo:longitude "9.180364"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "multi-storey" ;
+    schema:address "Via Guercino" .
+
+<http://comune.milano.it/resource/parking/autorimessa_smeraldo_1> a cmo:Parking ;
+    rdfs:label "Autorimessa Smeraldo" ;
+    cmo:latitude "45.4800125"^^xsd:float ;
+    cmo:longitude "9.180364"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "multi-storey" ;
+    schema:address "Via Guercino" .
+
+<http://comune.milano.it/resource/parking/autosilo_galileo> a cmo:Parking ;
+    rdfs:label "Autosilo Galileo" ;
+    cmo:latitude "45.4803273"^^xsd:float ;
+    cmo:longitude "9.1950955"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "underground" ;
+    schema:address "Via Galileo Galilei" .
+
+<http://comune.milano.it/resource/parking/autosilo_galileo_1> a cmo:Parking ;
+    rdfs:label "Autosilo Galileo" ;
+    cmo:latitude "45.4803273"^^xsd:float ;
+    cmo:longitude "9.1950955"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "underground" ;
+    schema:address "Via Galileo Galilei" .
+
+<http://comune.milano.it/resource/parking/autosilo_san_barnaba> a cmo:Parking ;
+    rdfs:label "Autosilo San Barnaba" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "underground" ;
+    schema:address "Via San Barnaba" .
+
+<http://comune.milano.it/resource/parking/autosilo_san_barnaba_1> a cmo:Parking ;
+    rdfs:label "Autosilo San Barnaba" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "underground" ;
+    schema:address "Via San Barnaba" .
+
+<http://comune.milano.it/resource/parking/bell_garage> a cmo:Parking ;
+    rdfs:label "Bell Garage" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "multi-storey" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/bell_garage_1> a cmo:Parking ;
+    rdfs:label "Bell Garage" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "multi-storey" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/bertoni> a cmo:Parking ;
+    rdfs:label "Bertoni" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "void" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/bertoni_1> a cmo:Parking ;
+    rdfs:label "Bertoni" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "void" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/borromeo_parking> a cmo:Parking ;
+    rdfs:label "Borromeo Parking" ;
+    cmo:latitude "45.4634379"^^xsd:float ;
+    cmo:longitude "9.1828001"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "underground" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/borromeo_parking_1> a cmo:Parking ;
+    rdfs:label "Borromeo Parking" ;
+    cmo:latitude "45.4634379"^^xsd:float ;
+    cmo:longitude "9.1828001"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "underground" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/bovisa_via_bovisa_corrispondenza_linea_interscambio_con_fnm> a cmo:Parking ;
+    rdfs:label "Bovisa Via Bovisa corrispondenza linea interscambio con Fnm" ;
+    cmo:latitude "45.5021163"^^xsd:float ;
+    cmo:longitude "9.160924"^^xsd:float ;
+    cmo:parkingCapacity "1200"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "void" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/bovisa_via_bovisa_corrispondenza_linea_interscambio_con_fnm_1> a cmo:Parking ;
+    rdfs:label "Bovisa Via Bovisa corrispondenza linea interscambio con Fnm" ;
+    cmo:latitude "45.5021163"^^xsd:float ;
+    cmo:longitude "9.160924"^^xsd:float ;
+    cmo:parkingCapacity "1200"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "void" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/brico_io> a cmo:Parking ;
+    rdfs:label "Brico Io" ;
+    cmo:latitude "45.5206523"^^xsd:float ;
+    cmo:longitude "9.2276503"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/brico_io_1> a cmo:Parking ;
+    rdfs:label "Brico Io" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/brico_io_2> a cmo:Parking ;
+    rdfs:label "Brico Io" ;
+    cmo:latitude "45.5206523"^^xsd:float ;
+    cmo:longitude "9.2276503"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/brico_io_3> a cmo:Parking ;
+    rdfs:label "Brico Io" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/bricocenter> a cmo:Parking ;
+    rdfs:label "Bricocenter" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/bricocenter_1> a cmo:Parking ;
+    rdfs:label "Bricocenter" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/car_sharing> a cmo:Parking ;
+    rdfs:label "Car sharing" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "void" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/car_sharing_1> a cmo:Parking ;
+    rdfs:label "Car sharing" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "void" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/carducci_parking> a cmo:Parking ;
+    rdfs:label "Carducci Parking" ;
+    cmo:latitude "45.4615125"^^xsd:float ;
+    cmo:longitude "9.1721932"^^xsd:float ;
+    cmo:parkingCapacity "180"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "underground" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/carducci_parking_1> a cmo:Parking ;
+    rdfs:label "Carducci Parking" ;
+    cmo:latitude "45.4615125"^^xsd:float ;
+    cmo:longitude "9.1721932"^^xsd:float ;
+    cmo:parkingCapacity "180"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "underground" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/carrefour> a cmo:Parking ;
+    rdfs:label "Carrefour" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/carrefour_1> a cmo:Parking ;
+    rdfs:label "Carrefour" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/carrefour_market> a cmo:Parking ;
+    rdfs:label "Carrefour Market" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/carrefour_market_1> a cmo:Parking ;
+    rdfs:label "Carrefour Market" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/carrefour_market_2> a cmo:Parking ;
+    rdfs:label "Carrefour Market" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/carrefour_market_3> a cmo:Parking ;
+    rdfs:label "Carrefour Market" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/carrefour_market_4> a cmo:Parking ;
+    rdfs:label "Carrefour Market" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/carrefour_market_5> a cmo:Parking ;
+    rdfs:label "Carrefour Market" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/carrefour_market_6> a cmo:Parking ;
+    rdfs:label "Carrefour Market" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/carrefour_market_7> a cmo:Parking ;
+    rdfs:label "Carrefour Market" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/cascina_gobba_via_cascina_gobba_corrispondenza_linea_mm2> a cmo:Parking ;
+    rdfs:label "CASCINA GOBBA VIA CASCINA GOBBA CORRISPONDENZA  LINEA MM2" ;
+    cmo:latitude "45.5090649"^^xsd:float ;
+    cmo:longitude "9.2608686"^^xsd:float ;
+    cmo:parkingCapacity "1373"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "void" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/cascina_gobba_via_cascina_gobba_corrispondenza_linea_mm2_1> a cmo:Parking ;
+    rdfs:label "CASCINA GOBBA VIA CASCINA GOBBA CORRISPONDENZA  LINEA MM2" ;
+    cmo:latitude "45.5090649"^^xsd:float ;
+    cmo:longitude "9.2608686"^^xsd:float ;
+    cmo:parkingCapacity "1373"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "void" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/caterina_da_forli_via_caterina_da_forli_corrispondenza_linea_mm1> a cmo:Parking ;
+    rdfs:label "CATERINA DA FORLI' VIA CATERINA DA FORLI' CORRISPONDENZA LINEA MM1" ;
+    cmo:latitude "45.460462"^^xsd:float ;
+    cmo:longitude "9.139004"^^xsd:float ;
+    cmo:parkingCapacity "399"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "void" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/caterina_da_forli_via_caterina_da_forli_corrispondenza_linea_mm1_1> a cmo:Parking ;
+    rdfs:label "CATERINA DA FORLI' VIA CATERINA DA FORLI' CORRISPONDENZA LINEA MM1" ;
+    cmo:latitude "45.460462"^^xsd:float ;
+    cmo:longitude "9.139004"^^xsd:float ;
+    cmo:parkingCapacity "399"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "void" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/centro> a cmo:Parking ;
+    rdfs:label "Centro" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/centro_1> a cmo:Parking ;
+    rdfs:label "Centro" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "320"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/centro_2> a cmo:Parking ;
+    rdfs:label "Centro" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/centro_3> a cmo:Parking ;
+    rdfs:label "Centro" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "320"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/city_center> a cmo:Parking ;
+    rdfs:label "City Center" ;
+    cmo:latitude "45.5407526"^^xsd:float ;
+    cmo:longitude "9.1885519"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "garage_boxes" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/city_center_1> a cmo:Parking ;
+    rdfs:label "City Center" ;
+    cmo:latitude "45.5403572"^^xsd:float ;
+    cmo:longitude "9.1888496"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "garage_boxes" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/city_center_2> a cmo:Parking ;
+    rdfs:label "City Center" ;
+    cmo:latitude "45.5407526"^^xsd:float ;
+    cmo:longitude "9.1885519"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "garage_boxes" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/city_center_3> a cmo:Parking ;
+    rdfs:label "City Center" ;
+    cmo:latitude "45.5403572"^^xsd:float ;
+    cmo:longitude "9.1888496"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "garage_boxes" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/comasina_m3_parking_milan> a cmo:Parking ;
+    rdfs:label "Comasina M3 Parking Milan" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "void" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/comasina_m3_parking_milan_1> a cmo:Parking ;
+    rdfs:label "Comasina M3 Parking Milan" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "void" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/consorzio_autostazione_merci_di_milano> a cmo:Parking ;
+    rdfs:label "Consorzio Autostazione Merci di Milano" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "void" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/consorzio_autostazione_merci_di_milano_1> a cmo:Parking ;
+    rdfs:label "Consorzio Autostazione Merci di Milano" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "void" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/coop_ps> a cmo:Parking ;
+    rdfs:label "COOP P.S." ;
+    cmo:latitude "45.4579972"^^xsd:float ;
+    cmo:longitude "9.2040444"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/coop_ps_1> a cmo:Parking ;
+    rdfs:label "COOP P.S." ;
+    cmo:latitude "45.4579972"^^xsd:float ;
+    cmo:longitude "9.2040444"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/crescenzago_linea_mm2> a cmo:Parking ;
+    rdfs:label "Crescenzago Linea MM2" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "600"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/crescenzago_linea_mm2_1> a cmo:Parking ;
+    rdfs:label "Crescenzago Linea MM2" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "600"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/decathlon> a cmo:Parking ;
+    rdfs:label "Decathlon" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/decathlon_1> a cmo:Parking ;
+    rdfs:label "Decathlon" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/deposito_autoveicoli_rimossi> a cmo:Parking ;
+    rdfs:label "Deposito autoveicoli rimossi" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "void" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/deposito_autoveicoli_rimossi_1> a cmo:Parking ;
+    rdfs:label "Deposito autoveicoli rimossi" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "void" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/dibit_1> a cmo:Parking ;
+    rdfs:label "DIBIT 1" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "40"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/dibit_1_1> a cmo:Parking ;
+    rdfs:label "DIBIT 1" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "40"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/dimer> a cmo:Parking ;
+    rdfs:label "DiMeR" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "147"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/dimer_1> a cmo:Parking ;
+    rdfs:label "DiMeR" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "147"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/duomo_parking> a cmo:Parking ;
+    rdfs:label "Duomo Parking" ;
+    cmo:latitude "45.4592583"^^xsd:float ;
+    cmo:longitude "9.1855495"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "void" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/duomo_parking_1> a cmo:Parking ;
+    rdfs:label "Duomo Parking" ;
+    cmo:latitude "45.4592583"^^xsd:float ;
+    cmo:longitude "9.1855495"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "void" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/einaudi> a cmo:Parking ;
+    rdfs:label "Einaudi" ;
+    cmo:latitude "45.4832137"^^xsd:float ;
+    cmo:longitude "9.1940846"^^xsd:float ;
+    cmo:parkingCapacity "727"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "underground" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/einaudi_1> a cmo:Parking ;
+    rdfs:label "Einaudi" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/einaudi_2> a cmo:Parking ;
+    rdfs:label "Einaudi" ;
+    cmo:latitude "45.4832137"^^xsd:float ;
+    cmo:longitude "9.1940846"^^xsd:float ;
+    cmo:parkingCapacity "727"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "underground" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/einaudi_3> a cmo:Parking ;
+    rdfs:label "Einaudi" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/esselunga> a cmo:Parking ;
+    rdfs:label "Esselunga" ;
+    cmo:latitude "45.5067381"^^xsd:float ;
+    cmo:longitude "9.136947"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "underground" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/esselunga_1> a cmo:Parking ;
+    rdfs:label "Esselunga" ;
+    cmo:latitude "45.4171619"^^xsd:float ;
+    cmo:longitude "9.2597902"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "underground" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/esselunga_10> a cmo:Parking ;
+    rdfs:label "Esselunga" ;
+    cmo:latitude "45.4987791"^^xsd:float ;
+    cmo:longitude "9.1957602"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "multi-storey" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/esselunga_11> a cmo:Parking ;
+    rdfs:label "Esselunga" ;
+    cmo:latitude "45.4207165"^^xsd:float ;
+    cmo:longitude "9.1781303"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "multi-storey" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/esselunga_12> a cmo:Parking ;
+    rdfs:label "Esselunga" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/esselunga_13> a cmo:Parking ;
+    rdfs:label "Esselunga" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/esselunga_14> a cmo:Parking ;
+    rdfs:label "Esselunga" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/esselunga_15> a cmo:Parking ;
+    rdfs:label "Esselunga" ;
+    cmo:latitude "45.5067381"^^xsd:float ;
+    cmo:longitude "9.136947"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "underground" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/esselunga_16> a cmo:Parking ;
+    rdfs:label "Esselunga" ;
+    cmo:latitude "45.4171619"^^xsd:float ;
+    cmo:longitude "9.2597902"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "underground" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/esselunga_17> a cmo:Parking ;
+    rdfs:label "Esselunga" ;
+    cmo:latitude "45.5062761"^^xsd:float ;
+    cmo:longitude "9.1393592"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "underground" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/esselunga_18> a cmo:Parking ;
+    rdfs:label "Esselunga" ;
+    cmo:latitude "45.5357427"^^xsd:float ;
+    cmo:longitude "9.1957795"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "underground" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/esselunga_19> a cmo:Parking ;
+    rdfs:label "Esselunga" ;
+    cmo:latitude "45.5118282"^^xsd:float ;
+    cmo:longitude "9.1730422"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "underground" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/esselunga_2> a cmo:Parking ;
+    rdfs:label "Esselunga" ;
+    cmo:latitude "45.5062761"^^xsd:float ;
+    cmo:longitude "9.1393592"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "underground" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/esselunga_20> a cmo:Parking ;
+    rdfs:label "Esselunga" ;
+    cmo:latitude "45.5118476"^^xsd:float ;
+    cmo:longitude "9.1736328"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "underground" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/esselunga_21> a cmo:Parking ;
+    rdfs:label "Esselunga" ;
+    cmo:latitude "45.5185045"^^xsd:float ;
+    cmo:longitude "9.2043654"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "underground" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/esselunga_22> a cmo:Parking ;
+    rdfs:label "Esselunga" ;
+    cmo:latitude "45.5369425"^^xsd:float ;
+    cmo:longitude "9.2305447"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "underground" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/esselunga_23> a cmo:Parking ;
+    rdfs:label "Esselunga" ;
+    cmo:latitude "45.4610169"^^xsd:float ;
+    cmo:longitude "9.1559561"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "underground" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/esselunga_24> a cmo:Parking ;
+    rdfs:label "Esselunga" ;
+    cmo:latitude "45.4596168"^^xsd:float ;
+    cmo:longitude "9.1683507"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "rooftop" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/esselunga_25> a cmo:Parking ;
+    rdfs:label "Esselunga" ;
+    cmo:latitude "45.4987791"^^xsd:float ;
+    cmo:longitude "9.1957602"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "multi-storey" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/esselunga_26> a cmo:Parking ;
+    rdfs:label "Esselunga" ;
+    cmo:latitude "45.4207165"^^xsd:float ;
+    cmo:longitude "9.1781303"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "multi-storey" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/esselunga_27> a cmo:Parking ;
+    rdfs:label "Esselunga" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/esselunga_28> a cmo:Parking ;
+    rdfs:label "Esselunga" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/esselunga_29> a cmo:Parking ;
+    rdfs:label "Esselunga" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/esselunga_3> a cmo:Parking ;
+    rdfs:label "Esselunga" ;
+    cmo:latitude "45.5357427"^^xsd:float ;
+    cmo:longitude "9.1957795"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "underground" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/esselunga_4> a cmo:Parking ;
+    rdfs:label "Esselunga" ;
+    cmo:latitude "45.5118282"^^xsd:float ;
+    cmo:longitude "9.1730422"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "underground" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/esselunga_5> a cmo:Parking ;
+    rdfs:label "Esselunga" ;
+    cmo:latitude "45.5118476"^^xsd:float ;
+    cmo:longitude "9.1736328"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "underground" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/esselunga_6> a cmo:Parking ;
+    rdfs:label "Esselunga" ;
+    cmo:latitude "45.5185045"^^xsd:float ;
+    cmo:longitude "9.2043654"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "underground" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/esselunga_7> a cmo:Parking ;
+    rdfs:label "Esselunga" ;
+    cmo:latitude "45.5369425"^^xsd:float ;
+    cmo:longitude "9.2305447"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "underground" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/esselunga_8> a cmo:Parking ;
+    rdfs:label "Esselunga" ;
+    cmo:latitude "45.4610169"^^xsd:float ;
+    cmo:longitude "9.1559561"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "underground" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/esselunga_9> a cmo:Parking ;
+    rdfs:label "Esselunga" ;
+    cmo:latitude "45.4596168"^^xsd:float ;
+    cmo:longitude "9.1683507"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "rooftop" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/expo_2015_parcheggio_disabili_pl1_merlata> a cmo:Parking ;
+    rdfs:label "EXPO 2015 parcheggio disabili PL1 Merlata" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/expo_2015_parcheggio_disabili_pl1_merlata_1> a cmo:Parking ;
+    rdfs:label "EXPO 2015 parcheggio disabili PL1 Merlata" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/expo_2015_parcheggio_ncc_pl2> a cmo:Parking ;
+    rdfs:label "EXPO 2015 parcheggio NCC PL2" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/expo_2015_parcheggio_ncc_pl2_1> a cmo:Parking ;
+    rdfs:label "EXPO 2015 parcheggio NCC PL2" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/famagosta> a cmo:Parking ;
+    rdfs:label "Famagosta" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "2200"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "multi-storey" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/famagosta_1> a cmo:Parking ;
+    rdfs:label "Famagosta" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "2200"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "multi-storey" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/forlanini_vle_forlanini_corrispondenza_linea_tram_27_bus_73_e_45> a cmo:Parking ;
+    rdfs:label "FORLANINI VLE FORLANINI CORRISPONDENZA LINEA TRAM 27, BUS 73 e 45" ;
+    cmo:latitude "45.4630683"^^xsd:float ;
+    cmo:longitude "9.238929"^^xsd:float ;
+    cmo:parkingCapacity "400"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "void" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/forlanini_vle_forlanini_corrispondenza_linea_tram_27_bus_73_e_45_1> a cmo:Parking ;
+    rdfs:label "FORLANINI VLE FORLANINI CORRISPONDENZA LINEA TRAM 27, BUS 73 e 45" ;
+    cmo:latitude "45.4630683"^^xsd:float ;
+    cmo:longitude "9.238929"^^xsd:float ;
+    cmo:parkingCapacity "400"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "void" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/garage_elite> a cmo:Parking ;
+    rdfs:label "Garage Elite" ;
+    cmo:latitude "45.4662953"^^xsd:float ;
+    cmo:longitude "9.1987536"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "underground" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/garage_elite_1> a cmo:Parking ;
+    rdfs:label "Garage Elite" ;
+    cmo:latitude "45.4662953"^^xsd:float ;
+    cmo:longitude "9.1987536"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "underground" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/garage_internazionale> a cmo:Parking ;
+    rdfs:label "Garage Internazionale" ;
+    cmo:latitude "45.4575124"^^xsd:float ;
+    cmo:longitude "9.1640352"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "garage" ;
+    schema:address "Via Valparaiso" .
+
+<http://comune.milano.it/resource/parking/garage_internazionale_1> a cmo:Parking ;
+    rdfs:label "Garage Internazionale" ;
+    cmo:latitude "45.4575124"^^xsd:float ;
+    cmo:longitude "9.1640352"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "garage" ;
+    schema:address "Via Valparaiso" .
+
+<http://comune.milano.it/resource/parking/garage_meravigli> a cmo:Parking ;
+    rdfs:label "Garage Meravigli" ;
+    cmo:latitude "45.4662434"^^xsd:float ;
+    cmo:longitude "9.1837973"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "multi-storey" ;
+    schema:address "Via Manfredo Camperio" .
+
+<http://comune.milano.it/resource/parking/garage_meravigli_1> a cmo:Parking ;
+    rdfs:label "Garage Meravigli" ;
+    cmo:latitude "45.4662434"^^xsd:float ;
+    cmo:longitude "9.1837973"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "multi-storey" ;
+    schema:address "Via Manfredo Camperio" .
+
+<http://comune.milano.it/resource/parking/garage_pordenone> a cmo:Parking ;
+    rdfs:label "Garage Pordenone" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "multi-storey" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/garage_pordenone_1> a cmo:Parking ;
+    rdfs:label "Garage Pordenone" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "multi-storey" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/garage_san_michele> a cmo:Parking ;
+    rdfs:label "Garage San Michele" ;
+    cmo:latitude "45.4609819"^^xsd:float ;
+    cmo:longitude "9.1699509"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "multi-storey" ;
+    schema:address "Via Gian Battista Vico" .
+
+<http://comune.milano.it/resource/parking/garage_san_michele_1> a cmo:Parking ;
+    rdfs:label "Garage San Michele" ;
+    cmo:latitude "45.4609819"^^xsd:float ;
+    cmo:longitude "9.1699509"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "multi-storey" ;
+    schema:address "Via Gian Battista Vico" .
+
+<http://comune.milano.it/resource/parking/garage_sangallo> a cmo:Parking ;
+    rdfs:label "Garage Sangallo" ;
+    cmo:latitude "45.4713155"^^xsd:float ;
+    cmo:longitude "9.2289695"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "multi-storey" ;
+    schema:address "Via Sangallo" .
+
+<http://comune.milano.it/resource/parking/garage_sangallo_1> a cmo:Parking ;
+    rdfs:label "Garage Sangallo" ;
+    cmo:latitude "45.4713155"^^xsd:float ;
+    cmo:longitude "9.2289695"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "multi-storey" ;
+    schema:address "Via Sangallo" .
+
+<http://comune.milano.it/resource/parking/garage_velasca> a cmo:Parking ;
+    rdfs:label "Garage Velasca" ;
+    cmo:latitude "45.4596891"^^xsd:float ;
+    cmo:longitude "9.1909902"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "multi-storey" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/garage_velasca_1> a cmo:Parking ;
+    rdfs:label "Garage Velasca" ;
+    cmo:latitude "45.4596891"^^xsd:float ;
+    cmo:longitude "9.1909902"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "multi-storey" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/gran_garage> a cmo:Parking ;
+    rdfs:label "Gran garage" ;
+    cmo:latitude "45.4516539"^^xsd:float ;
+    cmo:longitude "9.1811469"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "void" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/gran_garage_1> a cmo:Parking ;
+    rdfs:label "Gran garage" ;
+    cmo:latitude "45.4697319"^^xsd:float ;
+    cmo:longitude "9.2260913"^^xsd:float ;
+    cmo:parkingCapacity "200"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "multi-storey" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/gran_garage_2> a cmo:Parking ;
+    rdfs:label "Gran garage" ;
+    cmo:latitude "45.4516539"^^xsd:float ;
+    cmo:longitude "9.1811469"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "void" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/gran_garage_3> a cmo:Parking ;
+    rdfs:label "Gran garage" ;
+    cmo:latitude "45.4697319"^^xsd:float ;
+    cmo:longitude "9.2260913"^^xsd:float ;
+    cmo:parkingCapacity "200"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "multi-storey" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/il_gigante> a cmo:Parking ;
+    rdfs:label "Il Gigante" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/il_gigante_1> a cmo:Parking ;
+    rdfs:label "Il Gigante" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/lampugnano_via_lampugnano_corrispondenza_linea_mm1> a cmo:Parking ;
+    rdfs:label "LAMPUGNANO VIA LAMPUGNANO CORRISPONDENZA LINEA MM1" ;
+    cmo:latitude "45.488093"^^xsd:float ;
+    cmo:longitude "9.128172"^^xsd:float ;
+    cmo:parkingCapacity "2000"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "void" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/lampugnano_via_lampugnano_corrispondenza_linea_mm1_1> a cmo:Parking ;
+    rdfs:label "LAMPUGNANO VIA LAMPUGNANO CORRISPONDENZA LINEA MM1" ;
+    cmo:latitude "45.488093"^^xsd:float ;
+    cmo:longitude "9.128172"^^xsd:float ;
+    cmo:parkingCapacity "2000"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "void" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/largo_serravalle_sesia> a cmo:Parking ;
+    rdfs:label "Largo Serravalle Sesia" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "void" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/largo_serravalle_sesia_1> a cmo:Parking ;
+    rdfs:label "Largo Serravalle Sesia" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "void" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/largo_taverna> a cmo:Parking ;
+    rdfs:label "Largo Taverna" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/largo_taverna_1> a cmo:Parking ;
+    rdfs:label "Largo Taverna" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/lidl__parcheggio> a cmo:Parking ;
+    rdfs:label "Lidl - Parcheggio" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/lidl__parcheggio_1> a cmo:Parking ;
+    rdfs:label "Lidl - Parcheggio" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/maciachini> a cmo:Parking ;
+    rdfs:label "Maciachini" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "underground" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/maciachini_1> a cmo:Parking ;
+    rdfs:label "Maciachini" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "underground" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/mcdonalds> a cmo:Parking ;
+    rdfs:label "McDonald's" ;
+    cmo:latitude "45.4863484"^^xsd:float ;
+    cmo:longitude "9.2639233"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "void" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/mcdonalds_1> a cmo:Parking ;
+    rdfs:label "McDonald's" ;
+    cmo:latitude "45.4860907"^^xsd:float ;
+    cmo:longitude "9.2634914"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "void" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/mcdonalds_2> a cmo:Parking ;
+    rdfs:label "McDonald's" ;
+    cmo:latitude "45.4863484"^^xsd:float ;
+    cmo:longitude "9.2639233"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "void" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/mcdonalds_3> a cmo:Parking ;
+    rdfs:label "McDonald's" ;
+    cmo:latitude "45.4860907"^^xsd:float ;
+    cmo:longitude "9.2634914"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "void" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/mediaworld> a cmo:Parking ;
+    rdfs:label "Mediaworld" ;
+    cmo:latitude "45.4895236"^^xsd:float ;
+    cmo:longitude "9.1519347"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/mediaworld_1> a cmo:Parking ;
+    rdfs:label "Mediaworld" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/mediaworld_2> a cmo:Parking ;
+    rdfs:label "Mediaworld" ;
+    cmo:latitude "45.4895236"^^xsd:float ;
+    cmo:longitude "9.1519347"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/mediaworld_3> a cmo:Parking ;
+    rdfs:label "Mediaworld" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/mediolanum_parking> a cmo:Parking ;
+    rdfs:label "Mediolanum Parking" ;
+    cmo:latitude "45.4649078"^^xsd:float ;
+    cmo:longitude "9.1962655"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "underground" ;
+    schema:address "Largo Corsia dei Servi" .
+
+<http://comune.milano.it/resource/parking/mediolanum_parking_1> a cmo:Parking ;
+    rdfs:label "Mediolanum Parking" ;
+    cmo:latitude "45.4649078"^^xsd:float ;
+    cmo:longitude "9.1962655"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "underground" ;
+    schema:address "Largo Corsia dei Servi" .
+
+<http://comune.milano.it/resource/parking/molinetto_di_lorenteggio> a cmo:Parking ;
+    rdfs:label "Molinetto di Lorenteggio" ;
+    cmo:latitude "45.442125"^^xsd:float ;
+    cmo:longitude "9.1173466"^^xsd:float ;
+    cmo:parkingCapacity "450"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "void" ;
+    schema:address "Via Molinetto di Lorenteggio" .
+
+<http://comune.milano.it/resource/parking/molinetto_di_lorenteggio_1> a cmo:Parking ;
+    rdfs:label "Molinetto di Lorenteggio" ;
+    cmo:latitude "45.442125"^^xsd:float ;
+    cmo:longitude "9.1173466"^^xsd:float ;
+    cmo:parkingCapacity "450"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "void" ;
+    schema:address "Via Molinetto di Lorenteggio" .
+
+<http://comune.milano.it/resource/parking/molino_dorino_via_molino_dorino_corrispondenza_linea_mm1> a cmo:Parking ;
+    rdfs:label "MOLINO DORINO VIA MOLINO DORINO CORRISPONDENZA LINEA MM1" ;
+    cmo:latitude "45.5051914"^^xsd:float ;
+    cmo:longitude "9.0950161"^^xsd:float ;
+    cmo:parkingCapacity "1700"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "void" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/molino_dorino_via_molino_dorino_corrispondenza_linea_mm1_1> a cmo:Parking ;
+    rdfs:label "MOLINO DORINO VIA MOLINO DORINO CORRISPONDENZA LINEA MM1" ;
+    cmo:latitude "45.5051914"^^xsd:float ;
+    cmo:longitude "9.0950161"^^xsd:float ;
+    cmo:parkingCapacity "1700"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "void" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/mondadori> a cmo:Parking ;
+    rdfs:label "Mondadori" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/mondadori_1> a cmo:Parking ;
+    rdfs:label "Mondadori" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/mondadori_2> a cmo:Parking ;
+    rdfs:label "Mondadori" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/mondadori_3> a cmo:Parking ;
+    rdfs:label "Mondadori" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/negrelli> a cmo:Parking ;
+    rdfs:label "Negrelli" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/negrelli_1> a cmo:Parking ;
+    rdfs:label "Negrelli" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/ovs_myauchan> a cmo:Parking ;
+    rdfs:label "OVS/myAuchan" ;
+    cmo:latitude "45.4489745"^^xsd:float ;
+    cmo:longitude "9.1803593"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "multi-storey" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/ovs_myauchan_1> a cmo:Parking ;
+    rdfs:label "OVS/myAuchan" ;
+    cmo:latitude "45.4489745"^^xsd:float ;
+    cmo:longitude "9.1803593"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "multi-storey" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/palasesto_parking> a cmo:Parking ;
+    rdfs:label "PalaSesto Parking" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/palasesto_parking_1> a cmo:Parking ;
+    rdfs:label "PalaSesto Parking" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/pam> a cmo:Parking ;
+    rdfs:label "Pam" ;
+    cmo:latitude "45.4609151"^^xsd:float ;
+    cmo:longitude "9.173242"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "multi-storey" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/pam_1> a cmo:Parking ;
+    rdfs:label "Pam" ;
+    cmo:latitude "45.539777"^^xsd:float ;
+    cmo:longitude "9.1888234"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "multi-storey" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/pam_10> a cmo:Parking ;
+    rdfs:label "Pam" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/pam_11> a cmo:Parking ;
+    rdfs:label "Pam" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/pam_12> a cmo:Parking ;
+    rdfs:label "Pam" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/pam_13> a cmo:Parking ;
+    rdfs:label "Pam" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "multi-storey" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/pam_14> a cmo:Parking ;
+    rdfs:label "Pam" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "multi-storey" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/pam_15> a cmo:Parking ;
+    rdfs:label "Pam" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/pam_16> a cmo:Parking ;
+    rdfs:label "Pam" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/pam_17> a cmo:Parking ;
+    rdfs:label "Pam" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/pam_18> a cmo:Parking ;
+    rdfs:label "Pam" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "void" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/pam_19> a cmo:Parking ;
+    rdfs:label "Pam" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/pam_2> a cmo:Parking ;
+    rdfs:label "Pam" ;
+    cmo:latitude "45.4350166"^^xsd:float ;
+    cmo:longitude "9.2017486"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/pam_20> a cmo:Parking ;
+    rdfs:label "Pam" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/pam_21> a cmo:Parking ;
+    rdfs:label "Pam" ;
+    cmo:latitude "45.4609151"^^xsd:float ;
+    cmo:longitude "9.173242"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "multi-storey" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/pam_22> a cmo:Parking ;
+    rdfs:label "Pam" ;
+    cmo:latitude "45.539777"^^xsd:float ;
+    cmo:longitude "9.1888234"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "multi-storey" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/pam_23> a cmo:Parking ;
+    rdfs:label "Pam" ;
+    cmo:latitude "45.4350166"^^xsd:float ;
+    cmo:longitude "9.2017486"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/pam_24> a cmo:Parking ;
+    rdfs:label "Pam" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "void" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/pam_25> a cmo:Parking ;
+    rdfs:label "Pam" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "multi-storey" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/pam_26> a cmo:Parking ;
+    rdfs:label "Pam" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/pam_27> a cmo:Parking ;
+    rdfs:label "Pam" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/pam_28> a cmo:Parking ;
+    rdfs:label "Pam" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/pam_29> a cmo:Parking ;
+    rdfs:label "Pam" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/pam_3> a cmo:Parking ;
+    rdfs:label "Pam" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "void" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/pam_30> a cmo:Parking ;
+    rdfs:label "Pam" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/pam_31> a cmo:Parking ;
+    rdfs:label "Pam" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/pam_32> a cmo:Parking ;
+    rdfs:label "Pam" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/pam_33> a cmo:Parking ;
+    rdfs:label "Pam" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/pam_34> a cmo:Parking ;
+    rdfs:label "Pam" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "multi-storey" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/pam_35> a cmo:Parking ;
+    rdfs:label "Pam" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "multi-storey" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/pam_36> a cmo:Parking ;
+    rdfs:label "Pam" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/pam_37> a cmo:Parking ;
+    rdfs:label "Pam" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/pam_38> a cmo:Parking ;
+    rdfs:label "Pam" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/pam_39> a cmo:Parking ;
+    rdfs:label "Pam" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "void" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/pam_4> a cmo:Parking ;
+    rdfs:label "Pam" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "multi-storey" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/pam_40> a cmo:Parking ;
+    rdfs:label "Pam" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/pam_41> a cmo:Parking ;
+    rdfs:label "Pam" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/pam_5> a cmo:Parking ;
+    rdfs:label "Pam" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/pam_6> a cmo:Parking ;
+    rdfs:label "Pam" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/pam_7> a cmo:Parking ;
+    rdfs:label "Pam" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/pam_8> a cmo:Parking ;
+    rdfs:label "Pam" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/pam_9> a cmo:Parking ;
+    rdfs:label "Pam" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/parcehggio_pubblico_ad_uso_privato> a cmo:Parking ;
+    rdfs:label "Parcehggio pubblico ad uso privato" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "void" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/parcehggio_pubblico_ad_uso_privato_1> a cmo:Parking ;
+    rdfs:label "Parcehggio pubblico ad uso privato" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "void" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/parcheggi_stazione_fs> a cmo:Parking ;
+    rdfs:label "Parcheggi Stazione FS" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/parcheggi_stazione_fs_1> a cmo:Parking ;
+    rdfs:label "Parcheggi Stazione FS" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/parcheggio> a cmo:Parking ;
+    rdfs:label "Parcheggio" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "void" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/parcheggio_1> a cmo:Parking ;
+    rdfs:label "Parcheggio" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/parcheggio_2> a cmo:Parking ;
+    rdfs:label "Parcheggio" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "void" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/parcheggio_3> a cmo:Parking ;
+    rdfs:label "Parcheggio" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/parcheggio_a_b_c> a cmo:Parking ;
+    rdfs:label "Parcheggio A-B-C" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "void" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/parcheggio_a_b_c_1> a cmo:Parking ;
+    rdfs:label "Parcheggio A-B-C" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "void" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/parcheggio_atm_sleonardo> a cmo:Parking ;
+    rdfs:label "Parcheggio ATM S.Leonardo" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "void" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/parcheggio_atm_sleonardo_1> a cmo:Parking ;
+    rdfs:label "Parcheggio ATM S.Leonardo" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "void" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/parcheggio_auto_fieramilano_rho_4> a cmo:Parking ;
+    rdfs:label "Parcheggio auto Fieramilano Rho 4" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "void" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/parcheggio_auto_fieramilano_rho_4_1> a cmo:Parking ;
+    rdfs:label "Parcheggio auto Fieramilano Rho 4" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "void" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/parcheggio_autobus> a cmo:Parking ;
+    rdfs:label "Parcheggio autobus" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "void" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/parcheggio_autobus_1> a cmo:Parking ;
+    rdfs:label "Parcheggio autobus" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "void" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/parcheggio_autosilo_medaglie_doro> a cmo:Parking ;
+    rdfs:label "Parcheggio Autosilo Medaglie d'Oro" ;
+    cmo:latitude "45.4511284"^^xsd:float ;
+    cmo:longitude "9.2010916"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "void" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/parcheggio_autosilo_medaglie_doro_1> a cmo:Parking ;
+    rdfs:label "Parcheggio Autosilo Medaglie d'Oro" ;
+    cmo:latitude "45.4511284"^^xsd:float ;
+    cmo:longitude "9.2010916"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "void" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/parcheggio_bosco_2> a cmo:Parking ;
+    rdfs:label "Parcheggio Bosco 2" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/parcheggio_bosco_2_1> a cmo:Parking ;
+    rdfs:label "Parcheggio Bosco 2" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/parcheggio_breme> a cmo:Parking ;
+    rdfs:label "Parcheggio Breme" ;
+    cmo:latitude "45.4990994"^^xsd:float ;
+    cmo:longitude "9.1389798"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "Via Ludovico di Breme" .
+
+<http://comune.milano.it/resource/parking/parcheggio_breme_1> a cmo:Parking ;
+    rdfs:label "Parcheggio Breme" ;
+    cmo:latitude "45.4990994"^^xsd:float ;
+    cmo:longitude "9.1389798"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "Via Ludovico di Breme" .
+
+<http://comune.milano.it/resource/parking/parcheggio_bus_expo_2015_roserio> a cmo:Parking ;
+    rdfs:label "Parcheggio bus EXPO 2015 Roserio" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "void" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/parcheggio_bus_expo_2015_roserio_1> a cmo:Parking ;
+    rdfs:label "Parcheggio bus EXPO 2015 Roserio" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "void" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/parcheggio_carrefour> a cmo:Parking ;
+    rdfs:label "Parcheggio Carrefour" ;
+    cmo:latitude "45.4421071"^^xsd:float ;
+    cmo:longitude "9.2191017"^^xsd:float ;
+    cmo:parkingCapacity "50"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/parcheggio_carrefour_1> a cmo:Parking ;
+    rdfs:label "Parcheggio Carrefour" ;
+    cmo:latitude "45.4421071"^^xsd:float ;
+    cmo:longitude "9.2191017"^^xsd:float ;
+    cmo:parkingCapacity "50"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/parcheggio_centrale> a cmo:Parking ;
+    rdfs:label "Parcheggio Centrale" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "void" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/parcheggio_centrale_1> a cmo:Parking ;
+    rdfs:label "Parcheggio Centrale" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "void" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/parcheggio_centro_sarca> a cmo:Parking ;
+    rdfs:label "Parcheggio Centro Sarca" ;
+    cmo:latitude "45.5294966"^^xsd:float ;
+    cmo:longitude "9.2168853"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "underground" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/parcheggio_centro_sarca_1> a cmo:Parking ;
+    rdfs:label "Parcheggio Centro Sarca" ;
+    cmo:latitude "45.5283977"^^xsd:float ;
+    cmo:longitude "9.216862"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "underground" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/parcheggio_centro_sarca_2> a cmo:Parking ;
+    rdfs:label "Parcheggio Centro Sarca" ;
+    cmo:latitude "45.5284933"^^xsd:float ;
+    cmo:longitude "9.2168842"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "multi-storey" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/parcheggio_centro_sarca_3> a cmo:Parking ;
+    rdfs:label "Parcheggio Centro Sarca" ;
+    cmo:latitude "45.5294966"^^xsd:float ;
+    cmo:longitude "9.2168853"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "underground" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/parcheggio_centro_sarca_4> a cmo:Parking ;
+    rdfs:label "Parcheggio Centro Sarca" ;
+    cmo:latitude "45.5283977"^^xsd:float ;
+    cmo:longitude "9.216862"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "underground" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/parcheggio_centro_sarca_5> a cmo:Parking ;
+    rdfs:label "Parcheggio Centro Sarca" ;
+    cmo:latitude "45.5284933"^^xsd:float ;
+    cmo:longitude "9.2168842"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "multi-storey" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/parcheggio_coop> a cmo:Parking ;
+    rdfs:label "Parcheggio Coop" ;
+    cmo:latitude "45.4825121"^^xsd:float ;
+    cmo:longitude "9.1604498"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "underground" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/parcheggio_coop_1> a cmo:Parking ;
+    rdfs:label "Parcheggio Coop" ;
+    cmo:latitude "45.4825121"^^xsd:float ;
+    cmo:longitude "9.1604498"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "underground" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/parcheggio_di_corrispondenza_bisceglie_m1> a cmo:Parking ;
+    rdfs:label "Parcheggio di corrispondenza Bisceglie M1" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "1400"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "underground" ;
+    schema:address "Via Bisceglie" .
+
+<http://comune.milano.it/resource/parking/parcheggio_di_corrispondenza_bisceglie_m1_1> a cmo:Parking ;
+    rdfs:label "Parcheggio di corrispondenza Bisceglie M1" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "1400"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "underground" ;
+    schema:address "Via Bisceglie" .
+
+<http://comune.milano.it/resource/parking/parcheggio_esselunga> a cmo:Parking ;
+    rdfs:label "Parcheggio Esselunga" ;
+    cmo:latitude "45.4427318"^^xsd:float ;
+    cmo:longitude "9.1987329"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "underground" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/parcheggio_esselunga_1> a cmo:Parking ;
+    rdfs:label "Parcheggio Esselunga" ;
+    cmo:latitude "45.4428221"^^xsd:float ;
+    cmo:longitude "9.1965362"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "underground" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/parcheggio_esselunga_2> a cmo:Parking ;
+    rdfs:label "Parcheggio Esselunga" ;
+    cmo:latitude "45.4827927"^^xsd:float ;
+    cmo:longitude "9.1912279"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "underground" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/parcheggio_esselunga_3> a cmo:Parking ;
+    rdfs:label "Parcheggio Esselunga" ;
+    cmo:latitude "45.4859702"^^xsd:float ;
+    cmo:longitude "9.1649097"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "underground" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/parcheggio_esselunga_4> a cmo:Parking ;
+    rdfs:label "Parcheggio Esselunga" ;
+    cmo:latitude "45.4427318"^^xsd:float ;
+    cmo:longitude "9.1987329"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "underground" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/parcheggio_esselunga_5> a cmo:Parking ;
+    rdfs:label "Parcheggio Esselunga" ;
+    cmo:latitude "45.4428221"^^xsd:float ;
+    cmo:longitude "9.1965362"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "underground" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/parcheggio_esselunga_6> a cmo:Parking ;
+    rdfs:label "Parcheggio Esselunga" ;
+    cmo:latitude "45.4827927"^^xsd:float ;
+    cmo:longitude "9.1912279"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "underground" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/parcheggio_esselunga_7> a cmo:Parking ;
+    rdfs:label "Parcheggio Esselunga" ;
+    cmo:latitude "45.4859702"^^xsd:float ;
+    cmo:longitude "9.1649097"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "underground" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/parcheggio_expo_2015_trenno> a cmo:Parking ;
+    rdfs:label "Parcheggio EXPO 2015 Trenno" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "void" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/parcheggio_expo_2015_trenno_1> a cmo:Parking ;
+    rdfs:label "Parcheggio EXPO 2015 Trenno" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "void" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/parcheggio_fiordaliso> a cmo:Parking ;
+    rdfs:label "Parcheggio Fiordaliso" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "multi-storey" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/parcheggio_fiordaliso_1> a cmo:Parking ;
+    rdfs:label "Parcheggio Fiordaliso" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "multi-storey" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/parcheggio_fiordaliso_2> a cmo:Parking ;
+    rdfs:label "Parcheggio Fiordaliso" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "multi-storey" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/parcheggio_fiordaliso_3> a cmo:Parking ;
+    rdfs:label "Parcheggio Fiordaliso" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "multi-storey" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/parcheggio_fiordaliso_4> a cmo:Parking ;
+    rdfs:label "Parcheggio Fiordaliso" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "multi-storey" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/parcheggio_fiordaliso_5> a cmo:Parking ;
+    rdfs:label "Parcheggio Fiordaliso" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "multi-storey" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/parcheggio_gross_market> a cmo:Parking ;
+    rdfs:label "Parcheggio Gross Market" ;
+    cmo:latitude "45.5274386"^^xsd:float ;
+    cmo:longitude "9.1121915"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "void" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/parcheggio_gross_market_1> a cmo:Parking ;
+    rdfs:label "Parcheggio Gross Market" ;
+    cmo:latitude "45.5274386"^^xsd:float ;
+    cmo:longitude "9.1121915"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "void" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/parcheggio_ins_mercato> a cmo:Parking ;
+    rdfs:label "Parcheggio IN's Mercato" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/parcheggio_ins_mercato_1> a cmo:Parking ;
+    rdfs:label "Parcheggio IN's Mercato" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/parcheggio_masaccio> a cmo:Parking ;
+    rdfs:label "Parcheggio masaccio" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "multi-storey" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/parcheggio_masaccio_1> a cmo:Parking ;
+    rdfs:label "Parcheggio masaccio" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "multi-storey" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/parcheggio_metro> a cmo:Parking ;
+    rdfs:label "Parcheggio Metro" ;
+    cmo:latitude "45.5203436"^^xsd:float ;
+    cmo:longitude "9.1170452"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "void" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/parcheggio_metro_1> a cmo:Parking ;
+    rdfs:label "Parcheggio Metro" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/parcheggio_metro_2> a cmo:Parking ;
+    rdfs:label "Parcheggio Metro" ;
+    cmo:latitude "45.5203436"^^xsd:float ;
+    cmo:longitude "9.1170452"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "void" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/parcheggio_metro_3> a cmo:Parking ;
+    rdfs:label "Parcheggio Metro" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/parcheggio_nerino_6> a cmo:Parking ;
+    rdfs:label "Parcheggio Nerino 6" ;
+    cmo:latitude "45.4616609"^^xsd:float ;
+    cmo:longitude "9.1837987"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "multi-storey" ;
+    schema:address "Via Nerino" .
+
+<http://comune.milano.it/resource/parking/parcheggio_nerino_6_1> a cmo:Parking ;
+    rdfs:label "Parcheggio Nerino 6" ;
+    cmo:latitude "45.4616609"^^xsd:float ;
+    cmo:longitude "9.1837987"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "multi-storey" ;
+    schema:address "Via Nerino" .
+
+<http://comune.milano.it/resource/parking/parcheggio_ospiti> a cmo:Parking ;
+    rdfs:label "Parcheggio ospiti" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "void" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/parcheggio_ospiti_1> a cmo:Parking ;
+    rdfs:label "Parcheggio ospiti" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "void" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/parcheggio_parco_esposizioni_di_novegro> a cmo:Parking ;
+    rdfs:label "Parcheggio Parco esposizioni di Novegro" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "void" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/parcheggio_parco_esposizioni_di_novegro_1> a cmo:Parking ;
+    rdfs:label "Parcheggio Parco esposizioni di Novegro" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "void" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/parcheggio_parco_esposizioni_di_novegro_2> a cmo:Parking ;
+    rdfs:label "Parcheggio Parco esposizioni di Novegro" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "void" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/parcheggio_parco_esposizioni_di_novegro_3> a cmo:Parking ;
+    rdfs:label "Parcheggio Parco esposizioni di Novegro" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "void" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/parcheggio_piazza_della_resistenza> a cmo:Parking ;
+    rdfs:label "Parcheggio Piazza della Resistenza" ;
+    cmo:latitude "45.5343819"^^xsd:float ;
+    cmo:longitude "9.2365566"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "underground" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/parcheggio_piazza_della_resistenza_1> a cmo:Parking ;
+    rdfs:label "Parcheggio Piazza della Resistenza" ;
+    cmo:latitude "45.5343819"^^xsd:float ;
+    cmo:longitude "9.2365566"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "underground" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/parcheggio_privato> a cmo:Parking ;
+    rdfs:label "Parcheggio privato" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/parcheggio_privato_1> a cmo:Parking ;
+    rdfs:label "Parcheggio privato" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/parcheggio_privato_palazzo_aporti> a cmo:Parking ;
+    rdfs:label "Parcheggio Privato Palazzo Aporti" ;
+    cmo:latitude "45.4877584"^^xsd:float ;
+    cmo:longitude "9.2087299"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "underground" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/parcheggio_privato_palazzo_aporti_1> a cmo:Parking ;
+    rdfs:label "Parcheggio Privato Palazzo Aporti" ;
+    cmo:latitude "45.4877584"^^xsd:float ;
+    cmo:longitude "9.2087299"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "underground" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/parcheggio_pubblico_a_pagamento> a cmo:Parking ;
+    rdfs:label "Parcheggio pubblico a pagamento" ;
+    cmo:latitude "45.4353144"^^xsd:float ;
+    cmo:longitude "9.2412025"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "void" ;
+    schema:address "Via Bruno Cassinari" .
+
+<http://comune.milano.it/resource/parking/parcheggio_pubblico_a_pagamento_1> a cmo:Parking ;
+    rdfs:label "Parcheggio pubblico a pagamento" ;
+    cmo:latitude "45.4353144"^^xsd:float ;
+    cmo:longitude "9.2412025"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "void" ;
+    schema:address "Via Bruno Cassinari" .
+
+<http://comune.milano.it/resource/parking/parcheggio_quick_washington> a cmo:Parking ;
+    rdfs:label "Parcheggio Quick Washington" ;
+    cmo:latitude "45.4603927"^^xsd:float ;
+    cmo:longitude "9.153752"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "void" ;
+    schema:address "Via Digione" .
+
+<http://comune.milano.it/resource/parking/parcheggio_quick_washington_1> a cmo:Parking ;
+    rdfs:label "Parcheggio Quick Washington" ;
+    cmo:latitude "45.4603927"^^xsd:float ;
+    cmo:longitude "9.153752"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "void" ;
+    schema:address "Via Digione" .
+
+<http://comune.milano.it/resource/parking/parcheggio_riviera_est> a cmo:Parking ;
+    rdfs:label "Parcheggio Riviera Est" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/parcheggio_riviera_est_1> a cmo:Parking ;
+    rdfs:label "Parcheggio Riviera Est" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/parcheggio_romolo_a_raso> a cmo:Parking ;
+    rdfs:label "Parcheggio Romolo a raso" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/parcheggio_romolo_a_raso_1> a cmo:Parking ;
+    rdfs:label "Parcheggio Romolo a raso" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/parcheggio_sotterraneo> a cmo:Parking ;
+    rdfs:label "Parcheggio Sotterraneo" ;
+    cmo:latitude "45.5394883"^^xsd:float ;
+    cmo:longitude "9.1599598"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "underground" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/parcheggio_sotterraneo_1> a cmo:Parking ;
+    rdfs:label "Parcheggio Sotterraneo" ;
+    cmo:latitude "45.5388598"^^xsd:float ;
+    cmo:longitude "9.1614242"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "underground" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/parcheggio_sotterraneo_10> a cmo:Parking ;
+    rdfs:label "Parcheggio Sotterraneo" ;
+    cmo:latitude "45.5388598"^^xsd:float ;
+    cmo:longitude "9.1614242"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "underground" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/parcheggio_sotterraneo_11> a cmo:Parking ;
+    rdfs:label "Parcheggio Sotterraneo" ;
+    cmo:latitude "45.4450538"^^xsd:float ;
+    cmo:longitude "9.1242407"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "void" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/parcheggio_sotterraneo_12> a cmo:Parking ;
+    rdfs:label "Parcheggio Sotterraneo" ;
+    cmo:latitude "45.4442395"^^xsd:float ;
+    cmo:longitude "9.1234005"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "void" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/parcheggio_sotterraneo_13> a cmo:Parking ;
+    rdfs:label "Parcheggio Sotterraneo" ;
+    cmo:latitude "45.4035303"^^xsd:float ;
+    cmo:longitude "9.1504489"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "void" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/parcheggio_sotterraneo_14> a cmo:Parking ;
+    rdfs:label "Parcheggio Sotterraneo" ;
+    cmo:latitude "45.4548025"^^xsd:float ;
+    cmo:longitude "9.1626482"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "void" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/parcheggio_sotterraneo_15> a cmo:Parking ;
+    rdfs:label "Parcheggio Sotterraneo" ;
+    cmo:latitude "45.4778949"^^xsd:float ;
+    cmo:longitude "9.2477247"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "underground" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/parcheggio_sotterraneo_16> a cmo:Parking ;
+    rdfs:label "Parcheggio Sotterraneo" ;
+    cmo:latitude "45.4798997"^^xsd:float ;
+    cmo:longitude "9.2468055"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "underground" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/parcheggio_sotterraneo_17> a cmo:Parking ;
+    rdfs:label "Parcheggio Sotterraneo" ;
+    cmo:latitude "45.4601279"^^xsd:float ;
+    cmo:longitude "9.1099935"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "void" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/parcheggio_sotterraneo_2> a cmo:Parking ;
+    rdfs:label "Parcheggio Sotterraneo" ;
+    cmo:latitude "45.4450538"^^xsd:float ;
+    cmo:longitude "9.1242407"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "void" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/parcheggio_sotterraneo_3> a cmo:Parking ;
+    rdfs:label "Parcheggio Sotterraneo" ;
+    cmo:latitude "45.4442395"^^xsd:float ;
+    cmo:longitude "9.1234005"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "void" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/parcheggio_sotterraneo_4> a cmo:Parking ;
+    rdfs:label "Parcheggio Sotterraneo" ;
+    cmo:latitude "45.4035303"^^xsd:float ;
+    cmo:longitude "9.1504489"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "void" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/parcheggio_sotterraneo_5> a cmo:Parking ;
+    rdfs:label "Parcheggio Sotterraneo" ;
+    cmo:latitude "45.4548025"^^xsd:float ;
+    cmo:longitude "9.1626482"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "void" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/parcheggio_sotterraneo_6> a cmo:Parking ;
+    rdfs:label "Parcheggio Sotterraneo" ;
+    cmo:latitude "45.4778949"^^xsd:float ;
+    cmo:longitude "9.2477247"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "underground" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/parcheggio_sotterraneo_7> a cmo:Parking ;
+    rdfs:label "Parcheggio Sotterraneo" ;
+    cmo:latitude "45.4798997"^^xsd:float ;
+    cmo:longitude "9.2468055"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "underground" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/parcheggio_sotterraneo_8> a cmo:Parking ;
+    rdfs:label "Parcheggio Sotterraneo" ;
+    cmo:latitude "45.4601279"^^xsd:float ;
+    cmo:longitude "9.1099935"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "void" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/parcheggio_sotterraneo_9> a cmo:Parking ;
+    rdfs:label "Parcheggio Sotterraneo" ;
+    cmo:latitude "45.5394883"^^xsd:float ;
+    cmo:longitude "9.1599598"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "underground" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/parcheggio_spettatori_casa> a cmo:Parking ;
+    rdfs:label "Parcheggio spettatori casa" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "void" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/parcheggio_spettatori_casa_1> a cmo:Parking ;
+    rdfs:label "Parcheggio spettatori casa" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "void" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/parcheggio_spettatori_ospiti> a cmo:Parking ;
+    rdfs:label "Parcheggio spettatori ospiti" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "void" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/parcheggio_spettatori_ospiti_1> a cmo:Parking ;
+    rdfs:label "Parcheggio spettatori ospiti" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "void" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/parcheggio_supermercato> a cmo:Parking ;
+    rdfs:label "Parcheggio Supermercato" ;
+    cmo:latitude "45.4417478"^^xsd:float ;
+    cmo:longitude "9.218683"^^xsd:float ;
+    cmo:parkingCapacity "50"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/parcheggio_supermercato_1> a cmo:Parking ;
+    rdfs:label "Parcheggio Supermercato" ;
+    cmo:latitude "45.4417478"^^xsd:float ;
+    cmo:longitude "9.218683"^^xsd:float ;
+    cmo:parkingCapacity "50"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/parcheggio_testata_sud> a cmo:Parking ;
+    rdfs:label "Parcheggio Testata Sud" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/parcheggio_testata_sud_1> a cmo:Parking ;
+    rdfs:label "Parcheggio Testata Sud" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/park_in_linate> a cmo:Parking ;
+    rdfs:label "Park in Linate" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/park_in_linate_1> a cmo:Parking ;
+    rdfs:label "Park in Linate" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/park_via_segantini> a cmo:Parking ;
+    rdfs:label "Park via segantini" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "underground" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/park_via_segantini_1> a cmo:Parking ;
+    rdfs:label "Park via segantini" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "underground" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/parking_mascagni> a cmo:Parking ;
+    rdfs:label "Parking Mascagni" ;
+    cmo:latitude "45.4662136"^^xsd:float ;
+    cmo:longitude "9.2028105"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "underground" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/parking_mascagni_1> a cmo:Parking ;
+    rdfs:label "Parking Mascagni" ;
+    cmo:latitude "45.4662136"^^xsd:float ;
+    cmo:longitude "9.2028105"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "underground" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/parking_quinto_alpini> a cmo:Parking ;
+    rdfs:label "Parking Quinto Alpini" ;
+    cmo:latitude "45.4723854"^^xsd:float ;
+    cmo:longitude "9.1676651"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "underground" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/parking_quinto_alpini_1> a cmo:Parking ;
+    rdfs:label "Parking Quinto Alpini" ;
+    cmo:latitude "45.4723854"^^xsd:float ;
+    cmo:longitude "9.1676651"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "underground" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/parking_rondo> a cmo:Parking ;
+    rdfs:label "Parking Rondò" ;
+    cmo:latitude "45.5338907"^^xsd:float ;
+    cmo:longitude "9.2308151"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "underground" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/parking_rondo_1> a cmo:Parking ;
+    rdfs:label "Parking Rondò" ;
+    cmo:latitude "45.5338907"^^xsd:float ;
+    cmo:longitude "9.2308151"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "underground" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/parking_sempione> a cmo:Parking ;
+    rdfs:label "Parking Sempione" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/parking_sempione_1> a cmo:Parking ;
+    rdfs:label "Parking Sempione" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/parking_smeraldo> a cmo:Parking ;
+    rdfs:label "Parking Smeraldo" ;
+    cmo:latitude "45.4810282"^^xsd:float ;
+    cmo:longitude "9.1897408"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "multi-storey" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/parking_smeraldo_1> a cmo:Parking ;
+    rdfs:label "Parking Smeraldo" ;
+    cmo:latitude "45.4810282"^^xsd:float ;
+    cmo:longitude "9.1897408"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "multi-storey" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/parking_sotterraneo_via_pichi> a cmo:Parking ;
+    rdfs:label "Parking sotterraneo via Pichi" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "underground" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/parking_sotterraneo_via_pichi_1> a cmo:Parking ;
+    rdfs:label "Parking sotterraneo via Pichi" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "underground" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/piazza_colombo> a cmo:Parking ;
+    rdfs:label "Piazza Colombo" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/piazza_colombo_1> a cmo:Parking ;
+    rdfs:label "Piazza Colombo" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/piazza_della_resistenza> a cmo:Parking ;
+    rdfs:label "Piazza della Resistenza" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/piazza_della_resistenza_1> a cmo:Parking ;
+    rdfs:label "Piazza della Resistenza" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/piazza_dellateneo_nuovo> a cmo:Parking ;
+    rdfs:label "Piazza dell'Ateneo Nuovo" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "underground" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/piazza_dellateneo_nuovo_1> a cmo:Parking ;
+    rdfs:label "Piazza dell'Ateneo Nuovo" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "underground" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/piazza_dellateneo_nuovo_2> a cmo:Parking ;
+    rdfs:label "Piazza dell'Ateneo Nuovo" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "underground" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/piazza_dellateneo_nuovo_3> a cmo:Parking ;
+    rdfs:label "Piazza dell'Ateneo Nuovo" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "underground" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/piazza_giovanni_foglia> a cmo:Parking ;
+    rdfs:label "Piazza Giovanni Foglia" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "200"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/piazza_giovanni_foglia_1> a cmo:Parking ;
+    rdfs:label "Piazza Giovanni Foglia" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "200"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/piazza_marinai_ditalia> a cmo:Parking ;
+    rdfs:label "Piazza Marinai d'Italia" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/piazza_marinai_ditalia_1> a cmo:Parking ;
+    rdfs:label "Piazza Marinai d'Italia" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/piazza_monsignor_luigi_moneta> a cmo:Parking ;
+    rdfs:label "Piazza Monsignor Luigi Moneta" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "void" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/piazza_monsignor_luigi_moneta_1> a cmo:Parking ;
+    rdfs:label "Piazza Monsignor Luigi Moneta" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "void" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/piazza_paolo_borsellino> a cmo:Parking ;
+    rdfs:label "Piazza Paolo Borsellino" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/piazza_paolo_borsellino_1> a cmo:Parking ;
+    rdfs:label "Piazza Paolo Borsellino" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/piazza_pier_giorgio_frassati> a cmo:Parking ;
+    rdfs:label "Piazza Pier Giorgio Frassati" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "void" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/piazza_pier_giorgio_frassati_1> a cmo:Parking ;
+    rdfs:label "Piazza Pier Giorgio Frassati" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "void" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/piazza_santa_maria_alla_fontana> a cmo:Parking ;
+    rdfs:label "Piazza Santa Maria alla Fontana" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "void" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/piazza_santa_maria_alla_fontana_1> a cmo:Parking ;
+    rdfs:label "Piazza Santa Maria alla Fontana" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "void" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/piazzale_aldo_moro> a cmo:Parking ;
+    rdfs:label "Piazzale Aldo Moro" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/piazzale_aldo_moro_1> a cmo:Parking ;
+    rdfs:label "Piazzale Aldo Moro" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/piazzale_antonio_gramsci> a cmo:Parking ;
+    rdfs:label "Piazzale Antonio Gramsci" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/piazzale_antonio_gramsci_1> a cmo:Parking ;
+    rdfs:label "Piazzale Antonio Gramsci" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/porta_nuova_varesine> a cmo:Parking ;
+    rdfs:label "Porta Nuova Varesine" ;
+    cmo:latitude "45.4806682"^^xsd:float ;
+    cmo:longitude "9.1954787"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "underground" ;
+    schema:address "Via Joe Colombo" .
+
+<http://comune.milano.it/resource/parking/porta_nuova_varesine_1> a cmo:Parking ;
+    rdfs:label "Porta Nuova Varesine" ;
+    cmo:latitude "45.4806682"^^xsd:float ;
+    cmo:longitude "9.1954787"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "underground" ;
+    schema:address "Via Joe Colombo" .
+
+<http://comune.milano.it/resource/parking/quarto_oggiaro> a cmo:Parking ;
+    rdfs:label "Quarto Oggiaro" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "516"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/quarto_oggiaro_1> a cmo:Parking ;
+    rdfs:label "Quarto Oggiaro" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "516"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/renargia_parking> a cmo:Parking ;
+    rdfs:label "Renargia Parking" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "multi-storey" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/renargia_parking_1> a cmo:Parking ;
+    rdfs:label "Renargia Parking" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "multi-storey" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/ripamonti_parking> a cmo:Parking ;
+    rdfs:label "Ripamonti Parking" ;
+    cmo:latitude "45.4360098"^^xsd:float ;
+    cmo:longitude "9.2013643"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "void" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/ripamonti_parking_1> a cmo:Parking ;
+    rdfs:label "Ripamonti Parking" ;
+    cmo:latitude "45.4360098"^^xsd:float ;
+    cmo:longitude "9.2013643"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "void" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/ripamonti_vle_ripamonti_corrispondenza_linea_tram_24> a cmo:Parking ;
+    rdfs:label "RIPAMONTI VLE RIPAMONTI CORRISPONDENZA LINEA TRAM 24" ;
+    cmo:latitude "45.4208336"^^xsd:float ;
+    cmo:longitude "9.2033556"^^xsd:float ;
+    cmo:parkingCapacity "140"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "void" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/ripamonti_vle_ripamonti_corrispondenza_linea_tram_24_1> a cmo:Parking ;
+    rdfs:label "RIPAMONTI VLE RIPAMONTI CORRISPONDENZA LINEA TRAM 24" ;
+    cmo:latitude "45.4208336"^^xsd:float ;
+    cmo:longitude "9.2033556"^^xsd:float ;
+    cmo:parkingCapacity "140"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "void" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/san_donato__paullese> a cmo:Parking ;
+    rdfs:label "San Donato - Paullese" ;
+    cmo:latitude "45.4299648"^^xsd:float ;
+    cmo:longitude "9.2574281"^^xsd:float ;
+    cmo:parkingCapacity "2000"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "void" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/san_donato__paullese_1> a cmo:Parking ;
+    rdfs:label "San Donato - Paullese" ;
+    cmo:latitude "45.4299648"^^xsd:float ;
+    cmo:longitude "9.2574281"^^xsd:float ;
+    cmo:parkingCapacity "2000"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "void" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/san_donato_emilia_via_san_donato_emilia_corrispondenza_linea_mm3> a cmo:Parking ;
+    rdfs:label "SAN DONATO-EMILIA VIA SAN DONATO-EMILIA CORRISPONDENZA LINEA MM3" ;
+    cmo:latitude "45.4290363"^^xsd:float ;
+    cmo:longitude "9.2583322"^^xsd:float ;
+    cmo:parkingCapacity "1000"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "void" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/san_donato_emilia_via_san_donato_emilia_corrispondenza_linea_mm3_1> a cmo:Parking ;
+    rdfs:label "SAN DONATO-EMILIA VIA SAN DONATO-EMILIA CORRISPONDENZA LINEA MM3" ;
+    cmo:latitude "45.4290363"^^xsd:float ;
+    cmo:longitude "9.2583322"^^xsd:float ;
+    cmo:parkingCapacity "1000"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "void" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/san_donato_paullese_via_san_donato_paullese_corrispondenza_linea_mm3> a cmo:Parking ;
+    rdfs:label "SAN DONATO-PAULLESE VIA SAN DONATO-PAULLESE CORRISPONDENZA  LINEA MM3" ;
+    cmo:latitude "45.429638"^^xsd:float ;
+    cmo:longitude "9.258757"^^xsd:float ;
+    cmo:parkingCapacity "1000"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "void" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/san_donato_paullese_via_san_donato_paullese_corrispondenza_linea_mm3_1> a cmo:Parking ;
+    rdfs:label "SAN DONATO-PAULLESE VIA SAN DONATO-PAULLESE CORRISPONDENZA  LINEA MM3" ;
+    cmo:latitude "45.429638"^^xsd:float ;
+    cmo:longitude "9.258757"^^xsd:float ;
+    cmo:parkingCapacity "1000"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "void" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/sesto_marelli> a cmo:Parking ;
+    rdfs:label "Sesto Marelli" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "330"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "void" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/sesto_marelli_1> a cmo:Parking ;
+    rdfs:label "Sesto Marelli" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "330"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "void" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/sesto_rondo> a cmo:Parking ;
+    rdfs:label "Sesto Rondò" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "multi-storey" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/sesto_rondo_1> a cmo:Parking ;
+    rdfs:label "Sesto Rondò" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "multi-storey" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/sillav_europarcheggio> a cmo:Parking ;
+    rdfs:label "Sillav Europarcheggio" ;
+    cmo:latitude "45.4605237"^^xsd:float ;
+    cmo:longitude "9.1924854"^^xsd:float ;
+    cmo:parkingCapacity "400"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "multi-storey" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/sillav_europarcheggio_1> a cmo:Parking ;
+    rdfs:label "Sillav Europarcheggio" ;
+    cmo:latitude "45.4605237"^^xsd:float ;
+    cmo:longitude "9.1924854"^^xsd:float ;
+    cmo:parkingCapacity "400"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "multi-storey" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/simply_market> a cmo:Parking ;
+    rdfs:label "Simply Market" ;
+    cmo:latitude "45.495212"^^xsd:float ;
+    cmo:longitude "9.1634639"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "underground" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/simply_market_1> a cmo:Parking ;
+    rdfs:label "Simply Market" ;
+    cmo:latitude "45.495212"^^xsd:float ;
+    cmo:longitude "9.1634639"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "underground" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/solo_espositori> a cmo:Parking ;
+    rdfs:label "solo espositori" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "void" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/solo_espositori_1> a cmo:Parking ;
+    rdfs:label "solo espositori" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "void" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/the_big_parking> a cmo:Parking ;
+    rdfs:label "The Big Parking" ;
+    cmo:latitude "45.4816655"^^xsd:float ;
+    cmo:longitude "9.1891998"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "underground" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/the_big_parking_1> a cmo:Parking ;
+    rdfs:label "The Big Parking" ;
+    cmo:latitude "45.4816655"^^xsd:float ;
+    cmo:longitude "9.1891998"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "underground" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/trebbianove> a cmo:Parking ;
+    rdfs:label "TrebbiaNove" ;
+    cmo:latitude "45.4479018"^^xsd:float ;
+    cmo:longitude "9.2009959"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "void" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/trebbianove_1> a cmo:Parking ;
+    rdfs:label "TrebbiaNove" ;
+    cmo:latitude "45.4479018"^^xsd:float ;
+    cmo:longitude "9.2009959"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "void" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/via_andre_marie_ampere> a cmo:Parking ;
+    rdfs:label "Via André-Marie Ampère" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "void" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/via_andre_marie_ampere_1> a cmo:Parking ;
+    rdfs:label "Via André-Marie Ampère" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "void" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/via_caviaga> a cmo:Parking ;
+    rdfs:label "Via Caviaga" ;
+    cmo:latitude "45.4287028"^^xsd:float ;
+    cmo:longitude "9.2579665"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "void" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/via_caviaga_1> a cmo:Parking ;
+    rdfs:label "Via Caviaga" ;
+    cmo:latitude "45.4287028"^^xsd:float ;
+    cmo:longitude "9.2579665"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "void" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/via_manuzio> a cmo:Parking ;
+    rdfs:label "Via Manuzio" ;
+    cmo:latitude "45.4792121"^^xsd:float ;
+    cmo:longitude "9.2009158"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "underground" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/via_manuzio_1> a cmo:Parking ;
+    rdfs:label "Via Manuzio" ;
+    cmo:latitude "45.4792121"^^xsd:float ;
+    cmo:longitude "9.2009158"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "underground" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/via_olgettina> a cmo:Parking ;
+    rdfs:label "Via Olgettina" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "41"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/via_olgettina_1> a cmo:Parking ;
+    rdfs:label "Via Olgettina" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "41"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/visitatori> a cmo:Parking ;
+    rdfs:label "Visitatori" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/visitatori_1> a cmo:Parking ;
+    rdfs:label "Visitatori" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/visitatori_2> a cmo:Parking ;
+    rdfs:label "Visitatori" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/visitatori_3> a cmo:Parking ;
+    rdfs:label "Visitatori" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/visitatori_4> a cmo:Parking ;
+    rdfs:label "Visitatori" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/visitatori_5> a cmo:Parking ;
+    rdfs:label "Visitatori" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/visitatori_6> a cmo:Parking ;
+    rdfs:label "Visitatori" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/visitatori_7> a cmo:Parking ;
+    rdfs:label "Visitatori" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/visitatori_8> a cmo:Parking ;
+    rdfs:label "Visitatori" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+
+<http://comune.milano.it/resource/parking/visitatori_9> a cmo:Parking ;
+    rdfs:label "Visitatori" ;
+    cmo:latitude "45.4775997"^^xsd:float ;
+    cmo:longitude "9.1021058"^^xsd:float ;
+    cmo:parkingCapacity "-1"^^xsd:positiveInteger ;
+    cmo:parkingCharge -1e+00 ;
+    cmo:parkingType "surface" ;
+    schema:address "void" .
+

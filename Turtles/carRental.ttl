@@ -1,0 +1,427 @@
+@prefix cmo: <http://www.comune.milano.it/ontology/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://comune.milano.it/resource/bikeRental/arval_via_antonio_gramsci_pero_mi_lom_20016_italia> a cmo:CarRental ;
+    rdfs:label "Arval, Via Antonio Gramsci, Pero, MI, LOM, 20016, Italia" ;
+    cmo:addressOfTransportSystemStation "Arval, Via Antonio Gramsci, Pero, MI, LOM, 20016, Italia" ;
+    cmo:latitude "45.5097821"^^xsd:float ;
+    cmo:longitude "9.0929468"^^xsd:float ;
+    cmo:organizationOfTransportSystem "Arval" .
+
+<http://comune.milano.it/resource/bikeRental/arval_via_antonio_gramsci_pero_mi_lom_20016_italia_1> a cmo:CarRental ;
+    rdfs:label "Arval, Via Antonio Gramsci, Pero, MI, LOM, 20016, Italia" ;
+    cmo:addressOfTransportSystemStation "Arval, Via Antonio Gramsci, Pero, MI, LOM, 20016, Italia" ;
+    cmo:latitude "45.5097821"^^xsd:float ;
+    cmo:longitude "9.0929468"^^xsd:float ;
+    cmo:organizationOfTransportSystem "Arval" .
+
+<http://comune.milano.it/resource/bikeRental/avis_duomo_via_spadari_cordusio_municipio_1_milano_mi_lom_2021_italia> a cmo:CarRental ;
+    rdfs:label "Avis, Duomo, Via Spadari, Cordusio, Municipio 1, Milano, MI, LOM, 2021, Italia" ;
+    cmo:addressOfTransportSystemStation "Duomo, Via Spadari, Cordusio, Municipio 1, Milano, MI, LOM, 2021, Italia" ;
+    cmo:latitude "45.4622799"^^xsd:float ;
+    cmo:longitude "9.1894766"^^xsd:float ;
+    cmo:organizationOfTransportSystem "Avis" .
+
+<http://comune.milano.it/resource/bikeRental/avis_duomo_via_spadari_cordusio_municipio_1_milano_mi_lom_2021_italia_1> a cmo:CarRental ;
+    rdfs:label "Avis, Duomo, Via Spadari, Cordusio, Municipio 1, Milano, MI, LOM, 2021, Italia" ;
+    cmo:addressOfTransportSystemStation "Duomo, Via Spadari, Cordusio, Municipio 1, Milano, MI, LOM, 2021, Italia" ;
+    cmo:latitude "45.4622799"^^xsd:float ;
+    cmo:longitude "9.1894766"^^xsd:float ;
+    cmo:organizationOfTransportSystem "Avis" .
+
+<http://comune.milano.it/resource/bikeRental/avis_via_eugenio_villoresi_zona_navigli_moncucco_milano_mi_lom_20143_italia> a cmo:CarRental ;
+    rdfs:label "AVIS, Via Eugenio Villoresi, Zona Navigli, Moncucco, Milano, MI, LOM, 20143, Italia" ;
+    cmo:addressOfTransportSystemStation "AVIS, Via Eugenio Villoresi, Zona Navigli, Moncucco, Milano, MI, LOM, 20143, Italia" ;
+    cmo:latitude "45.4468803"^^xsd:float ;
+    cmo:longitude "9.1633641"^^xsd:float ;
+    cmo:organizationOfTransportSystem "AVIS" .
+
+<http://comune.milano.it/resource/bikeRental/avis_via_eugenio_villoresi_zona_navigli_moncucco_milano_mi_lom_20143_italia_1> a cmo:CarRental ;
+    rdfs:label "AVIS, Via Eugenio Villoresi, Zona Navigli, Moncucco, Milano, MI, LOM, 20143, Italia" ;
+    cmo:addressOfTransportSystemStation "AVIS, Via Eugenio Villoresi, Zona Navigli, Moncucco, Milano, MI, LOM, 20143, Italia" ;
+    cmo:latitude "45.4468803"^^xsd:float ;
+    cmo:longitude "9.1633641"^^xsd:float ;
+    cmo:organizationOfTransportSystem "AVIS" .
+
+<http://comune.milano.it/resource/bikeRental/b_rent_park_in_linate_via_circonvallazione_idroscalo_segrate_mi_lom_20138_italia> a cmo:CarRental ;
+    rdfs:label "B-Rent, Park in Linate, Via Circonvallazione Idroscalo, Segrate, MI, LOM, 20138, Italia" ;
+    cmo:addressOfTransportSystemStation "Park in Linate, Via Circonvallazione Idroscalo, Segrate, MI, LOM, 20138, Italia" ;
+    cmo:latitude "45.4644036"^^xsd:float ;
+    cmo:longitude "9.2753518"^^xsd:float ;
+    cmo:organizationOfTransportSystem "B-Rent" .
+
+<http://comune.milano.it/resource/bikeRental/b_rent_park_in_linate_via_circonvallazione_idroscalo_segrate_mi_lom_20138_italia_1> a cmo:CarRental ;
+    rdfs:label "B-Rent, Park in Linate, Via Circonvallazione Idroscalo, Segrate, MI, LOM, 20138, Italia" ;
+    cmo:addressOfTransportSystemStation "Park in Linate, Via Circonvallazione Idroscalo, Segrate, MI, LOM, 20138, Italia" ;
+    cmo:latitude "45.4644036"^^xsd:float ;
+    cmo:longitude "9.2753518"^^xsd:float ;
+    cmo:organizationOfTransportSystem "B-Rent" .
+
+<http://comune.milano.it/resource/bikeRental/car2go_via_scoglio_di_quarto_zona_navigli_porta_ticinese_milano_mi_lom_20136_italia> a cmo:CarRental ;
+    rdfs:label "Car2go, Via Scoglio di Quarto, Zona Navigli, Porta Ticinese, Milano, MI, LOM, 20136, Italia" ;
+    cmo:addressOfTransportSystemStation "Car2go, Via Scoglio di Quarto, Zona Navigli, Porta Ticinese, Milano, MI, LOM, 20136, Italia" ;
+    cmo:latitude "45.4519685"^^xsd:float ;
+    cmo:longitude "9.1788834"^^xsd:float ;
+    cmo:organizationOfTransportSystem "Car2go" .
+
+<http://comune.milano.it/resource/bikeRental/car2go_via_scoglio_di_quarto_zona_navigli_porta_ticinese_milano_mi_lom_20136_italia_1> a cmo:CarRental ;
+    rdfs:label "Car2go, Via Scoglio di Quarto, Zona Navigli, Porta Ticinese, Milano, MI, LOM, 20136, Italia" ;
+    cmo:addressOfTransportSystemStation "Car2go, Via Scoglio di Quarto, Zona Navigli, Porta Ticinese, Milano, MI, LOM, 20136, Italia" ;
+    cmo:latitude "45.4519685"^^xsd:float ;
+    cmo:longitude "9.1788834"^^xsd:float ;
+    cmo:organizationOfTransportSystem "Car2go" .
+
+<http://comune.milano.it/resource/bikeRental/car_hire_with_driver_duomo_via_spadari_cordusio_municipio_1_milano_mi_lom_2021_italia> a cmo:CarRental ;
+    rdfs:label "Car Hire with driver, Duomo, Via Spadari, Cordusio, Municipio 1, Milano, MI, LOM, 2021, Italia" ;
+    cmo:addressOfTransportSystemStation "Duomo, Via Spadari, Cordusio, Municipio 1, Milano, MI, LOM, 2021, Italia" ;
+    cmo:latitude "45.4609376"^^xsd:float ;
+    cmo:longitude "9.1904471"^^xsd:float ;
+    cmo:organizationOfTransportSystem "Car Hire with driver" .
+
+<http://comune.milano.it/resource/bikeRental/car_hire_with_driver_duomo_via_spadari_cordusio_municipio_1_milano_mi_lom_2021_italia_1> a cmo:CarRental ;
+    rdfs:label "Car Hire with driver, Duomo, Via Spadari, Cordusio, Municipio 1, Milano, MI, LOM, 2021, Italia" ;
+    cmo:addressOfTransportSystemStation "Duomo, Via Spadari, Cordusio, Municipio 1, Milano, MI, LOM, 2021, Italia" ;
+    cmo:latitude "45.4609376"^^xsd:float ;
+    cmo:longitude "9.1904471"^^xsd:float ;
+    cmo:organizationOfTransportSystem "Car Hire with driver" .
+
+<http://comune.milano.it/resource/bikeRental/easy_rent_5_via_giorgio_enrico_falck_baraggia_sesto_san_giovanni_mi_lom_20099_italia> a cmo:CarRental ;
+    rdfs:label "Easy Rent, 5, Via Giorgio Enrico Falck, Baraggia, Sesto San Giovanni, MI, LOM, 20099, Italia" ;
+    cmo:addressOfTransportSystemStation "Easy Rent, 5, Via Giorgio Enrico Falck, Baraggia, Sesto San Giovanni, MI, LOM, 20099, Italia" ;
+    cmo:latitude "45.5371558"^^xsd:float ;
+    cmo:longitude "9.2378273"^^xsd:float ;
+    cmo:organizationOfTransportSystem "Easy Rent" .
+
+<http://comune.milano.it/resource/bikeRental/easy_rent_5_via_giorgio_enrico_falck_baraggia_sesto_san_giovanni_mi_lom_20099_italia_1> a cmo:CarRental ;
+    rdfs:label "Easy Rent, 5, Via Giorgio Enrico Falck, Baraggia, Sesto San Giovanni, MI, LOM, 20099, Italia" ;
+    cmo:addressOfTransportSystemStation "Easy Rent, 5, Via Giorgio Enrico Falck, Baraggia, Sesto San Giovanni, MI, LOM, 20099, Italia" ;
+    cmo:latitude "45.5371558"^^xsd:float ;
+    cmo:longitude "9.2378273"^^xsd:float ;
+    cmo:organizationOfTransportSystem "Easy Rent" .
+
+<http://comune.milano.it/resource/bikeRental/europcar_137_viale_carlo_espinasse_quartiere_varesina_municipio_8_milano_mi_lom_20156_italia> a cmo:CarRental ;
+    rdfs:label "Europcar, 137, Viale Carlo Espinasse, Quartiere Varesina, Municipio 8, Milano, MI, LOM, 20156, Italia" ;
+    cmo:addressOfTransportSystemStation "Europcar, 137, Viale Carlo Espinasse, Quartiere Varesina, Municipio 8, Milano, MI, LOM, 20156, Italia" ;
+    cmo:latitude "45.5023579"^^xsd:float ;
+    cmo:longitude "9.1384683"^^xsd:float ;
+    cmo:organizationOfTransportSystem "Europcar" .
+
+<http://comune.milano.it/resource/bikeRental/europcar_137_viale_carlo_espinasse_quartiere_varesina_municipio_8_milano_mi_lom_20156_italia_1> a cmo:CarRental ;
+    rdfs:label "Europcar, 137, Viale Carlo Espinasse, Quartiere Varesina, Municipio 8, Milano, MI, LOM, 20156, Italia" ;
+    cmo:addressOfTransportSystemStation "Europcar, 137, Viale Carlo Espinasse, Quartiere Varesina, Municipio 8, Milano, MI, LOM, 20156, Italia" ;
+    cmo:latitude "45.5023579"^^xsd:float ;
+    cmo:longitude "9.1384683"^^xsd:float ;
+    cmo:organizationOfTransportSystem "Europcar" .
+
+<http://comune.milano.it/resource/bikeRental/europcar_centrale_via_giovanni_battista_sammartini_ponte_seveso_municipio_2_milano_mi_lom_20124_italia> a cmo:CarRental ;
+    rdfs:label "Europcar, Centrale, Via Giovanni Battista Sammartini, Ponte Seveso, Municipio 2, Milano, MI, LOM, 20124, Italia" ;
+    cmo:addressOfTransportSystemStation "Centrale, Via Giovanni Battista Sammartini, Ponte Seveso, Municipio 2, Milano, MI, LOM, 20124, Italia" ;
+    cmo:latitude "45.4860489"^^xsd:float ;
+    cmo:longitude "9.2003229"^^xsd:float ;
+    cmo:organizationOfTransportSystem "Europcar" .
+
+<http://comune.milano.it/resource/bikeRental/europcar_centrale_via_giovanni_battista_sammartini_ponte_seveso_municipio_2_milano_mi_lom_20124_italia_1> a cmo:CarRental ;
+    rdfs:label "Europcar, Centrale, Via Giovanni Battista Sammartini, Ponte Seveso, Municipio 2, Milano, MI, LOM, 20124, Italia" ;
+    cmo:addressOfTransportSystemStation "Centrale, Via Giovanni Battista Sammartini, Ponte Seveso, Municipio 2, Milano, MI, LOM, 20124, Italia" ;
+    cmo:latitude "45.4860489"^^xsd:float ;
+    cmo:longitude "9.2003229"^^xsd:float ;
+    cmo:organizationOfTransportSystem "Europcar" .
+
+<http://comune.milano.it/resource/bikeRental/europcar_via_amedeo_modigliani_segrate_mi_lom_20096_italia> a cmo:CarRental ;
+    rdfs:label "Europcar, Via Amedeo Modigliani, Segrate, MI, LOM, 20096, Italia" ;
+    cmo:addressOfTransportSystemStation "Europcar, Via Amedeo Modigliani, Segrate, MI, LOM, 20096, Italia" ;
+    cmo:latitude "45.4872649"^^xsd:float ;
+    cmo:longitude "9.2937842"^^xsd:float ;
+    cmo:organizationOfTransportSystem "Europcar" .
+
+<http://comune.milano.it/resource/bikeRental/europcar_via_amedeo_modigliani_segrate_mi_lom_20096_italia_1> a cmo:CarRental ;
+    rdfs:label "Europcar, Via Amedeo Modigliani, Segrate, MI, LOM, 20096, Italia" ;
+    cmo:addressOfTransportSystemStation "Europcar, Via Amedeo Modigliani, Segrate, MI, LOM, 20096, Italia" ;
+    cmo:latitude "45.4872649"^^xsd:float ;
+    cmo:longitude "9.2937842"^^xsd:float ;
+    cmo:organizationOfTransportSystem "Europcar" .
+
+<http://comune.milano.it/resource/bikeRental/europcar_via_forlanini_segrate_mi_lom_20068_italia> a cmo:CarRental ;
+    rdfs:label "Europcar, Via Forlanini, Segrate, MI, LOM, 20068, Italia" ;
+    cmo:addressOfTransportSystemStation "Europcar, Via Forlanini, Segrate, MI, LOM, 20068, Italia" ;
+    cmo:latitude "45.4617761"^^xsd:float ;
+    cmo:longitude "9.2799797"^^xsd:float ;
+    cmo:organizationOfTransportSystem "Europcar" .
+
+<http://comune.milano.it/resource/bikeRental/europcar_via_forlanini_segrate_mi_lom_20068_italia_1> a cmo:CarRental ;
+    rdfs:label "Europcar, Via Forlanini, Segrate, MI, LOM, 20068, Italia" ;
+    cmo:addressOfTransportSystemStation "Europcar, Via Forlanini, Segrate, MI, LOM, 20068, Italia" ;
+    cmo:latitude "45.4623633"^^xsd:float ;
+    cmo:longitude "9.277935"^^xsd:float ;
+    cmo:organizationOfTransportSystem "Europcar" .
+
+<http://comune.milano.it/resource/bikeRental/europcar_via_forlanini_segrate_mi_lom_20068_italia_2> a cmo:CarRental ;
+    rdfs:label "Europcar, Via Forlanini, Segrate, MI, LOM, 20068, Italia" ;
+    cmo:addressOfTransportSystemStation "Europcar, Via Forlanini, Segrate, MI, LOM, 20068, Italia" ;
+    cmo:latitude "45.4617761"^^xsd:float ;
+    cmo:longitude "9.2799797"^^xsd:float ;
+    cmo:organizationOfTransportSystem "Europcar" .
+
+<http://comune.milano.it/resource/bikeRental/europcar_via_forlanini_segrate_mi_lom_20068_italia_3> a cmo:CarRental ;
+    rdfs:label "Europcar, Via Forlanini, Segrate, MI, LOM, 20068, Italia" ;
+    cmo:addressOfTransportSystemStation "Europcar, Via Forlanini, Segrate, MI, LOM, 20068, Italia" ;
+    cmo:latitude "45.4623633"^^xsd:float ;
+    cmo:longitude "9.277935"^^xsd:float ;
+    cmo:organizationOfTransportSystem "Europcar" .
+
+<http://comune.milano.it/resource/bikeRental/hertz_10_via_alfredo_cappellini_centrale_municipio_2_milano_mi_lom_20124_italia> a cmo:CarRental ;
+    rdfs:label "Hertz, 10, Via Alfredo Cappellini, Centrale, Municipio 2, Milano, MI, LOM, 20124, Italia" ;
+    cmo:addressOfTransportSystemStation "Hertz, 10, Via Alfredo Cappellini, Centrale, Municipio 2, Milano, MI, LOM, 20124, Italia" ;
+    cmo:latitude "45.4819641"^^xsd:float ;
+    cmo:longitude "9.2013845"^^xsd:float ;
+    cmo:organizationOfTransportSystem "Hertz" .
+
+<http://comune.milano.it/resource/bikeRental/hertz_10_via_alfredo_cappellini_centrale_municipio_2_milano_mi_lom_20124_italia_1> a cmo:CarRental ;
+    rdfs:label "Hertz, 10, Via Alfredo Cappellini, Centrale, Municipio 2, Milano, MI, LOM, 20124, Italia" ;
+    cmo:addressOfTransportSystemStation "Hertz, 10, Via Alfredo Cappellini, Centrale, Municipio 2, Milano, MI, LOM, 20124, Italia" ;
+    cmo:latitude "45.4819641"^^xsd:float ;
+    cmo:longitude "9.2013845"^^xsd:float ;
+    cmo:organizationOfTransportSystem "Hertz" .
+
+<http://comune.milano.it/resource/bikeRental/hertz_53_via_olona_pero_mi_lom_20016_italia> a cmo:CarRental ;
+    rdfs:label "Hertz, 53, Via Olona, Pero, MI, LOM, 20016, Italia" ;
+    cmo:addressOfTransportSystemStation "Hertz, 53, Via Olona, Pero, MI, LOM, 20016, Italia" ;
+    cmo:latitude "45.5073451"^^xsd:float ;
+    cmo:longitude "9.087308"^^xsd:float ;
+    cmo:organizationOfTransportSystem "Hertz" .
+
+<http://comune.milano.it/resource/bikeRental/hertz_53_via_olona_pero_mi_lom_20016_italia_1> a cmo:CarRental ;
+    rdfs:label "Hertz, 53, Via Olona, Pero, MI, LOM, 20016, Italia" ;
+    cmo:addressOfTransportSystemStation "Hertz, 53, Via Olona, Pero, MI, LOM, 20016, Italia" ;
+    cmo:latitude "45.5073451"^^xsd:float ;
+    cmo:longitude "9.087308"^^xsd:float ;
+    cmo:organizationOfTransportSystem "Hertz" .
+
+<http://comune.milano.it/resource/bikeRental/hertz_milan_certosa_27_via_giovanni_antonio_plana_cagnola_milano_mi_lom_20155_italia> a cmo:CarRental ;
+    rdfs:label "Hertz Milan Certosa, 27, Via Giovanni Antonio Plana, Cagnola, Milano, MI, LOM, 20155, Italia" ;
+    cmo:addressOfTransportSystemStation "Hertz Milan Certosa, 27, Via Giovanni Antonio Plana, Cagnola, Milano, MI, LOM, 20155, Italia" ;
+    cmo:latitude "45.4901776"^^xsd:float ;
+    cmo:longitude "9.1529676"^^xsd:float ;
+    cmo:organizationOfTransportSystem "Hertz Milan Certosa" .
+
+<http://comune.milano.it/resource/bikeRental/hertz_milan_certosa_27_via_giovanni_antonio_plana_cagnola_milano_mi_lom_20155_italia_1> a cmo:CarRental ;
+    rdfs:label "Hertz Milan Certosa, 27, Via Giovanni Antonio Plana, Cagnola, Milano, MI, LOM, 20155, Italia" ;
+    cmo:addressOfTransportSystemStation "Hertz Milan Certosa, 27, Via Giovanni Antonio Plana, Cagnola, Milano, MI, LOM, 20155, Italia" ;
+    cmo:latitude "45.4901776"^^xsd:float ;
+    cmo:longitude "9.1529676"^^xsd:float ;
+    cmo:organizationOfTransportSystem "Hertz Milan Certosa" .
+
+<http://comune.milano.it/resource/bikeRental/hertz_novate_via_bovisasca_novate_milanese_mi_lom_20026_italia> a cmo:CarRental ;
+    rdfs:label "Hertz Novate, Via Bovisasca, Novate Milanese, MI, LOM, 20026, Italia" ;
+    cmo:addressOfTransportSystemStation "Hertz Novate, Via Bovisasca, Novate Milanese, MI, LOM, 20026, Italia" ;
+    cmo:latitude "45.5223975"^^xsd:float ;
+    cmo:longitude "9.1493727"^^xsd:float ;
+    cmo:organizationOfTransportSystem "Hertz Novate" .
+
+<http://comune.milano.it/resource/bikeRental/hertz_novate_via_bovisasca_novate_milanese_mi_lom_20026_italia_1> a cmo:CarRental ;
+    rdfs:label "Hertz Novate, Via Bovisasca, Novate Milanese, MI, LOM, 20026, Italia" ;
+    cmo:addressOfTransportSystemStation "Hertz Novate, Via Bovisasca, Novate Milanese, MI, LOM, 20026, Italia" ;
+    cmo:latitude "45.5223975"^^xsd:float ;
+    cmo:longitude "9.1493727"^^xsd:float ;
+    cmo:organizationOfTransportSystem "Hertz Novate" .
+
+<http://comune.milano.it/resource/bikeRental/hertz_percorso_ciclabile_luigi_malabrocca_rondo_sesto_san_giovanni_mi_lom_20099_italia> a cmo:CarRental ;
+    rdfs:label "Hertz, Percorso ciclabile Luigi Malabrocca, Rondò, Sesto San Giovanni, MI, LOM, 20099, Italia" ;
+    cmo:addressOfTransportSystemStation "Hertz, Percorso ciclabile Luigi Malabrocca, Rondò, Sesto San Giovanni, MI, LOM, 20099, Italia" ;
+    cmo:latitude "45.5293313"^^xsd:float ;
+    cmo:longitude "9.2241479"^^xsd:float ;
+    cmo:organizationOfTransportSystem "Hertz" .
+
+<http://comune.milano.it/resource/bikeRental/hertz_percorso_ciclabile_luigi_malabrocca_rondo_sesto_san_giovanni_mi_lom_20099_italia_1> a cmo:CarRental ;
+    rdfs:label "Hertz, Percorso ciclabile Luigi Malabrocca, Rondò, Sesto San Giovanni, MI, LOM, 20099, Italia" ;
+    cmo:addressOfTransportSystemStation "Hertz, Percorso ciclabile Luigi Malabrocca, Rondò, Sesto San Giovanni, MI, LOM, 20099, Italia" ;
+    cmo:latitude "45.5293313"^^xsd:float ;
+    cmo:longitude "9.2241479"^^xsd:float ;
+    cmo:organizationOfTransportSystem "Hertz" .
+
+<http://comune.milano.it/resource/bikeRental/hertz_via_forlanini_segrate_mi_lom_20068_italia> a cmo:CarRental ;
+    rdfs:label "Hertz, Via Forlanini, Segrate, MI, LOM, 20068, Italia" ;
+    cmo:addressOfTransportSystemStation "Hertz, Via Forlanini, Segrate, MI, LOM, 20068, Italia" ;
+    cmo:latitude "45.4623601"^^xsd:float ;
+    cmo:longitude "9.2779834"^^xsd:float ;
+    cmo:organizationOfTransportSystem "Hertz" .
+
+<http://comune.milano.it/resource/bikeRental/hertz_via_forlanini_segrate_mi_lom_20068_italia_1> a cmo:CarRental ;
+    rdfs:label "Hertz, Via Forlanini, Segrate, MI, LOM, 20068, Italia" ;
+    cmo:addressOfTransportSystemStation "Hertz, Via Forlanini, Segrate, MI, LOM, 20068, Italia" ;
+    cmo:latitude "45.4623601"^^xsd:float ;
+    cmo:longitude "9.2779834"^^xsd:float ;
+    cmo:organizationOfTransportSystem "Hertz" .
+
+<http://comune.milano.it/resource/bikeRental/hertz_via_giorgio_washington_zona_giambellino_municipio_6_milano_mi_lom_20144_italia> a cmo:CarRental ;
+    rdfs:label "Hertz, Via Giorgio Washington, Zona Giambellino, Municipio 6, Milano, MI, LOM, 20144, Italia" ;
+    cmo:addressOfTransportSystemStation "Hertz, Via Giorgio Washington, Zona Giambellino, Municipio 6, Milano, MI, LOM, 20144, Italia" ;
+    cmo:latitude "45.4549113"^^xsd:float ;
+    cmo:longitude "9.1543136"^^xsd:float ;
+    cmo:organizationOfTransportSystem "Hertz" .
+
+<http://comune.milano.it/resource/bikeRental/hertz_via_giorgio_washington_zona_giambellino_municipio_6_milano_mi_lom_20144_italia_1> a cmo:CarRental ;
+    rdfs:label "Hertz, Via Giorgio Washington, Zona Giambellino, Municipio 6, Milano, MI, LOM, 20144, Italia" ;
+    cmo:addressOfTransportSystemStation "Hertz, Via Giorgio Washington, Zona Giambellino, Municipio 6, Milano, MI, LOM, 20144, Italia" ;
+    cmo:latitude "45.4549113"^^xsd:float ;
+    cmo:longitude "9.1543136"^^xsd:float ;
+    cmo:organizationOfTransportSystem "Hertz" .
+
+<http://comune.milano.it/resource/bikeRental/joy_rent_33_via_roberto_lepetit_centrale_municipio_2_milano_mi_lom_20124_italia> a cmo:CarRental ;
+    rdfs:label "Joy Rent, 33, Via Roberto Lepetit, Centrale, Municipio 2, Milano, MI, LOM, 20124, Italia" ;
+    cmo:addressOfTransportSystemStation "Joy Rent, 33, Via Roberto Lepetit, Centrale, Municipio 2, Milano, MI, LOM, 20124, Italia" ;
+    cmo:latitude "45.4842874"^^xsd:float ;
+    cmo:longitude "9.205552"^^xsd:float ;
+    cmo:organizationOfTransportSystem "Joy Rent" .
+
+<http://comune.milano.it/resource/bikeRental/joy_rent_33_via_roberto_lepetit_centrale_municipio_2_milano_mi_lom_20124_italia_1> a cmo:CarRental ;
+    rdfs:label "Joy Rent, 33, Via Roberto Lepetit, Centrale, Municipio 2, Milano, MI, LOM, 20124, Italia" ;
+    cmo:addressOfTransportSystemStation "Joy Rent, 33, Via Roberto Lepetit, Centrale, Municipio 2, Milano, MI, LOM, 20124, Italia" ;
+    cmo:latitude "45.4842874"^^xsd:float ;
+    cmo:longitude "9.205552"^^xsd:float ;
+    cmo:organizationOfTransportSystem "Joy Rent" .
+
+<http://comune.milano.it/resource/bikeRental/locauto_15_via_pirelli_centro_direzionale_municipio_2_milano_mi_lom_20124_italia> a cmo:CarRental ;
+    rdfs:label "Locauto, 15, Via Pirelli, Centro Direzionale, Municipio 2, Milano, MI, LOM, 20124, Italia" ;
+    cmo:addressOfTransportSystemStation "Locauto, 15, Via Pirelli, Centro Direzionale, Municipio 2, Milano, MI, LOM, 20124, Italia" ;
+    cmo:latitude "45.4838995"^^xsd:float ;
+    cmo:longitude "9.1993285"^^xsd:float ;
+    cmo:organizationOfTransportSystem "Locauto" .
+
+<http://comune.milano.it/resource/bikeRental/locauto_15_via_pirelli_centro_direzionale_municipio_2_milano_mi_lom_20124_italia_1> a cmo:CarRental ;
+    rdfs:label "Locauto, 15, Via Pirelli, Centro Direzionale, Municipio 2, Milano, MI, LOM, 20124, Italia" ;
+    cmo:addressOfTransportSystemStation "Locauto, 15, Via Pirelli, Centro Direzionale, Municipio 2, Milano, MI, LOM, 20124, Italia" ;
+    cmo:latitude "45.4838995"^^xsd:float ;
+    cmo:longitude "9.1993285"^^xsd:float ;
+    cmo:organizationOfTransportSystem "Locauto" .
+
+<http://comune.milano.it/resource/bikeRental/marconi_via_giosue_carducci_rondo_sesto_san_giovanni_mi_lom_20099_italia> a cmo:CarRental ;
+    rdfs:label "Marconi, Via Giosuè Carducci, Rondò, Sesto San Giovanni, MI, LOM, 20099, Italia" ;
+    cmo:addressOfTransportSystemStation "Marconi, Via Giosuè Carducci, Rondò, Sesto San Giovanni, MI, LOM, 20099, Italia" ;
+    cmo:latitude "45.5312508"^^xsd:float ;
+    cmo:longitude "9.2225346"^^xsd:float ;
+    cmo:organizationOfTransportSystem "Marconi" .
+
+<http://comune.milano.it/resource/bikeRental/marconi_via_giosue_carducci_rondo_sesto_san_giovanni_mi_lom_20099_italia_1> a cmo:CarRental ;
+    rdfs:label "Marconi, Via Giosuè Carducci, Rondò, Sesto San Giovanni, MI, LOM, 20099, Italia" ;
+    cmo:addressOfTransportSystemStation "Morini, Via Giosuè Carducci, Rondò, Sesto San Giovanni, MI, LOM, 20099, Italia" ;
+    cmo:latitude "45.5312315"^^xsd:float ;
+    cmo:longitude "9.2213794"^^xsd:float ;
+    cmo:organizationOfTransportSystem "Morini" .
+
+<http://comune.milano.it/resource/bikeRental/marconi_via_giosue_carducci_rondo_sesto_san_giovanni_mi_lom_20099_italia_2> a cmo:CarRental ;
+    rdfs:label "Marconi, Via Giosuè Carducci, Rondò, Sesto San Giovanni, MI, LOM, 20099, Italia" ;
+    cmo:addressOfTransportSystemStation "Marconi, Via Giosuè Carducci, Rondò, Sesto San Giovanni, MI, LOM, 20099, Italia" ;
+    cmo:latitude "45.5312508"^^xsd:float ;
+    cmo:longitude "9.2225346"^^xsd:float ;
+    cmo:organizationOfTransportSystem "Marconi" .
+
+<http://comune.milano.it/resource/bikeRental/marconi_via_giosue_carducci_rondo_sesto_san_giovanni_mi_lom_20099_italia_3> a cmo:CarRental ;
+    rdfs:label "Marconi, Via Giosuè Carducci, Rondò, Sesto San Giovanni, MI, LOM, 20099, Italia" ;
+    cmo:addressOfTransportSystemStation "Morini, Via Giosuè Carducci, Rondò, Sesto San Giovanni, MI, LOM, 20099, Italia" ;
+    cmo:latitude "45.5312315"^^xsd:float ;
+    cmo:longitude "9.2213794"^^xsd:float ;
+    cmo:organizationOfTransportSystem "Morini" .
+
+<http://comune.milano.it/resource/bikeRental/mi_rent_17_viale_francesco_crispi_porta_volta_municipio_1_milano_mi_lom_20121_italia> a cmo:CarRental ;
+    rdfs:label "Mi Rent, 17, Viale Francesco Crispi, Porta Volta, Municipio 1, Milano, MI, LOM, 20121, Italia" ;
+    cmo:addressOfTransportSystemStation "Mi Rent, 17, Viale Francesco Crispi, Porta Volta, Municipio 1, Milano, MI, LOM, 20121, Italia" ;
+    cmo:latitude "45.4808299"^^xsd:float ;
+    cmo:longitude "9.1830902"^^xsd:float ;
+    cmo:organizationOfTransportSystem "Mi Rent" .
+
+<http://comune.milano.it/resource/bikeRental/mi_rent_17_viale_francesco_crispi_porta_volta_municipio_1_milano_mi_lom_20121_italia_1> a cmo:CarRental ;
+    rdfs:label "Mi Rent, 17, Viale Francesco Crispi, Porta Volta, Municipio 1, Milano, MI, LOM, 20121, Italia" ;
+    cmo:addressOfTransportSystemStation "Mi Rent, 17, Viale Francesco Crispi, Porta Volta, Municipio 1, Milano, MI, LOM, 20121, Italia" ;
+    cmo:latitude "45.4808299"^^xsd:float ;
+    cmo:longitude "9.1830902"^^xsd:float ;
+    cmo:organizationOfTransportSystem "Mi Rent" .
+
+<http://comune.milano.it/resource/bikeRental/park_to_air_via_francesco_baracca_segrate_mi_lom_20068_italia> a cmo:CarRental ;
+    rdfs:label "Park to air, Via Francesco Baracca, Segrate, MI, LOM, 20068, Italia" ;
+    cmo:addressOfTransportSystemStation "Park to air, Via Francesco Baracca, Segrate, MI, LOM, 20068, Italia" ;
+    cmo:latitude "45.4673279"^^xsd:float ;
+    cmo:longitude "9.2806515"^^xsd:float ;
+    cmo:organizationOfTransportSystem "Park to air" .
+
+<http://comune.milano.it/resource/bikeRental/park_to_air_via_francesco_baracca_segrate_mi_lom_20068_italia_1> a cmo:CarRental ;
+    rdfs:label "Park to air, Via Francesco Baracca, Segrate, MI, LOM, 20068, Italia" ;
+    cmo:addressOfTransportSystemStation "Park to air, Via Francesco Baracca, Segrate, MI, LOM, 20068, Italia" ;
+    cmo:latitude "45.4673279"^^xsd:float ;
+    cmo:longitude "9.2806515"^^xsd:float ;
+    cmo:organizationOfTransportSystem "Park to air" .
+
+<http://comune.milano.it/resource/bikeRental/san_giorgio_via_luigi_cagnola_porta_sempione_milano_mi_lom_20154_italia> a cmo:CarRental ;
+    rdfs:label "San Giorgio, Via Luigi Cagnola, Porta Sempione, Milano, MI, LOM, 20154, Italia" ;
+    cmo:addressOfTransportSystemStation "San Giorgio, Via Luigi Cagnola, Porta Sempione, Milano, MI, LOM, 20154, Italia" ;
+    cmo:latitude "45.476902"^^xsd:float ;
+    cmo:longitude "9.1726613"^^xsd:float ;
+    cmo:organizationOfTransportSystem "San Giorgio" .
+
+<http://comune.milano.it/resource/bikeRental/san_giorgio_via_luigi_cagnola_porta_sempione_milano_mi_lom_20154_italia_1> a cmo:CarRental ;
+    rdfs:label "San Giorgio, Via Luigi Cagnola, Porta Sempione, Milano, MI, LOM, 20154, Italia" ;
+    cmo:addressOfTransportSystemStation "San Giorgio, Via Luigi Cagnola, Porta Sempione, Milano, MI, LOM, 20154, Italia" ;
+    cmo:latitude "45.476902"^^xsd:float ;
+    cmo:longitude "9.1726613"^^xsd:float ;
+    cmo:organizationOfTransportSystem "San Giorgio" .
+
+<http://comune.milano.it/resource/bikeRental/sixt_centrale_via_giovanni_battista_sammartini_ponte_seveso_municipio_2_milano_mi_lom_20124_italia> a cmo:CarRental ;
+    rdfs:label "sixt, Centrale, Via Giovanni Battista Sammartini, Ponte Seveso, Municipio 2, Milano, MI, LOM, 20124, Italia" ;
+    cmo:addressOfTransportSystemStation "Centrale, Via Giovanni Battista Sammartini, Ponte Seveso, Municipio 2, Milano, MI, LOM, 20124, Italia" ;
+    cmo:latitude "45.485585"^^xsd:float ;
+    cmo:longitude "9.2036306"^^xsd:float ;
+    cmo:organizationOfTransportSystem "sixt" .
+
+<http://comune.milano.it/resource/bikeRental/sixt_centrale_via_giovanni_battista_sammartini_ponte_seveso_municipio_2_milano_mi_lom_20124_italia_1> a cmo:CarRental ;
+    rdfs:label "sixt, Centrale, Via Giovanni Battista Sammartini, Ponte Seveso, Municipio 2, Milano, MI, LOM, 20124, Italia" ;
+    cmo:addressOfTransportSystemStation "Centrale, Via Giovanni Battista Sammartini, Ponte Seveso, Municipio 2, Milano, MI, LOM, 20124, Italia" ;
+    cmo:latitude "45.485585"^^xsd:float ;
+    cmo:longitude "9.2036306"^^xsd:float ;
+    cmo:organizationOfTransportSystem "sixt" .
+
+<http://comune.milano.it/resource/bikeRental/sixt_via_achille_zezon_centrale_municipio_2_milano_mi_lom_20124_italia> a cmo:CarRental ;
+    rdfs:label "Sixt, Via Achille Zezon, Centrale, Municipio 2, Milano, MI, LOM, 20124, Italia" ;
+    cmo:addressOfTransportSystemStation "Sixt, Via Achille Zezon, Centrale, Municipio 2, Milano, MI, LOM, 20124, Italia" ;
+    cmo:latitude "45.4833391"^^xsd:float ;
+    cmo:longitude "9.2010825"^^xsd:float ;
+    cmo:organizationOfTransportSystem "Sixt" .
+
+<http://comune.milano.it/resource/bikeRental/sixt_via_achille_zezon_centrale_municipio_2_milano_mi_lom_20124_italia_1> a cmo:CarRental ;
+    rdfs:label "Sixt, Via Achille Zezon, Centrale, Municipio 2, Milano, MI, LOM, 20124, Italia" ;
+    cmo:addressOfTransportSystemStation "Sixt, Via Achille Zezon, Centrale, Municipio 2, Milano, MI, LOM, 20124, Italia" ;
+    cmo:latitude "45.4833391"^^xsd:float ;
+    cmo:longitude "9.2010825"^^xsd:float ;
+    cmo:organizationOfTransportSystem "Sixt" .
+
+<http://comune.milano.it/resource/bikeRental/sixt_via_forlanini_segrate_mi_lom_20138_italia> a cmo:CarRental ;
+    rdfs:label "Sixt, Via Forlanini, Segrate, MI, LOM, 20138, Italia" ;
+    cmo:addressOfTransportSystemStation "Sixt, Via Forlanini, Segrate, MI, LOM, 20138, Italia" ;
+    cmo:latitude "45.462364"^^xsd:float ;
+    cmo:longitude "9.2765675"^^xsd:float ;
+    cmo:organizationOfTransportSystem "Sixt" .
+
+<http://comune.milano.it/resource/bikeRental/sixt_via_forlanini_segrate_mi_lom_20138_italia_1> a cmo:CarRental ;
+    rdfs:label "Sixt, Via Forlanini, Segrate, MI, LOM, 20138, Italia" ;
+    cmo:addressOfTransportSystemStation "Sixt, Via Forlanini, Segrate, MI, LOM, 20138, Italia" ;
+    cmo:latitude "45.462364"^^xsd:float ;
+    cmo:longitude "9.2765675"^^xsd:float ;
+    cmo:organizationOfTransportSystem "Sixt" .
+
+<http://comune.milano.it/resource/bikeRental/sixt_via_san_gerolamo_emiliani_porta_romana_milano_mi_lom_20135_italia> a cmo:CarRental ;
+    rdfs:label "Sixt, Via San Gerolamo Emiliani, Porta Romana, Milano, MI, LOM, 20135, Italia" ;
+    cmo:addressOfTransportSystemStation "Sixt, Via San Gerolamo Emiliani, Porta Romana, Milano, MI, LOM, 20135, Italia" ;
+    cmo:latitude "45.4499539"^^xsd:float ;
+    cmo:longitude "9.2079552"^^xsd:float ;
+    cmo:organizationOfTransportSystem "Sixt" .
+
+<http://comune.milano.it/resource/bikeRental/sixt_via_san_gerolamo_emiliani_porta_romana_milano_mi_lom_20135_italia_1> a cmo:CarRental ;
+    rdfs:label "Sixt, Via San Gerolamo Emiliani, Porta Romana, Milano, MI, LOM, 20135, Italia" ;
+    cmo:addressOfTransportSystemStation "Sixt, Via San Gerolamo Emiliani, Porta Romana, Milano, MI, LOM, 20135, Italia" ;
+    cmo:latitude "45.4499539"^^xsd:float ;
+    cmo:longitude "9.2079552"^^xsd:float ;
+    cmo:organizationOfTransportSystem "Sixt" .
+

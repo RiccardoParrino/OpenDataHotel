@@ -1,0 +1,1218 @@
+@prefix cmo: <http://www.comune.milano.it/ontology/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://comune.milano.it/resource/bikeRental/atm_mi_call_a_bike_via_degli_ailanti_quartiere_varesina_municipio_8_milano_mi_lom_20156_italia> a cmo:BikeRental ;
+    rdfs:label "ATM MI, Call a Bike, Via degli Ailanti, Quartiere Varesina, Municipio 8, Milano, MI, LOM, 20156, Italia" ;
+    cmo:addressOfTransportSystemStation "Call a Bike, Via degli Ailanti, Quartiere Varesina, Municipio 8, Milano, MI, LOM, 20156, Italia" ;
+    cmo:latitude "45.4994685"^^xsd:float ;
+    cmo:longitude "9.152133"^^xsd:float ;
+    cmo:organizationOfTransportSystem "ATM MI" .
+
+<http://comune.milano.it/resource/bikeRental/atm_via_raffaele_lambruschini_municipio_9_milano_mi_lom_20156_italia> a cmo:BikeRental ;
+    rdfs:label "ATM, Via Raffaele Lambruschini, Municipio 9, Milano, MI, LOM, 20156, Italia" ;
+    cmo:addressOfTransportSystemStation "ATM, Via Raffaele Lambruschini, Municipio 9, Milano, MI, LOM, 20156, Italia" ;
+    cmo:latitude "45.502376"^^xsd:float ;
+    cmo:longitude "9.1525322"^^xsd:float ;
+    cmo:organizationOfTransportSystem "ATM" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_04__lanza_largo_antonio_greppi_castello_municipio_1_milano_mi_lom_20121_italia> a cmo:BikeRental ;
+    rdfs:label "BikeMi, 04 - Lanza, Largo Antonio Greppi, Castello, Municipio 1, Milano, MI, LOM, 20121, Italia" ;
+    cmo:addressOfTransportSystemStation "04 - Lanza, Largo Antonio Greppi, Castello, Municipio 1, Milano, MI, LOM, 20121, Italia" ;
+    cmo:latitude "45.4723381"^^xsd:float ;
+    cmo:longitude "9.1819739"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_104_via_melchiorre_gioia_centro_direzionale_municipio_9_milano_mi_lom_20124_italia> a cmo:BikeRental ;
+    rdfs:label "BikeMi, 104, Via Melchiorre Gioia, Centro Direzionale, Municipio 9, Milano, MI, LOM, 20124, Italia" ;
+    cmo:addressOfTransportSystemStation "104, Via Melchiorre Gioia, Centro Direzionale, Municipio 9, Milano, MI, LOM, 20124, Italia" ;
+    cmo:latitude "45.486218"^^xsd:float ;
+    cmo:longitude "9.1968895"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_108__tunisia__cozzi_viale_tunisia_porta_nuova_milano_mi_lom_20124_italia> a cmo:BikeRental ;
+    rdfs:label "BikeMi, 108 - Tunisia - Cozzi, Viale Tunisia, Porta Nuova, Milano, MI, LOM, 20124, Italia" ;
+    cmo:addressOfTransportSystemStation "108 - Tunisia - Cozzi, Viale Tunisia, Porta Nuova, Milano, MI, LOM, 20124, Italia" ;
+    cmo:latitude "45.4789813"^^xsd:float ;
+    cmo:longitude "9.201525"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_111__bmarcello__boscovich_via_ruggero_boscovich_zona_buenos_aires_municipio_3_milano_mi_lom_20124_italia> a cmo:BikeRental ;
+    rdfs:label "BikeMi, 111 - B.Marcello - Boscovich, Via Ruggero Boscovich, Zona Buenos Aires, Municipio 3, Milano, MI, LOM, 20124, Italia" ;
+    cmo:addressOfTransportSystemStation "111 - B.Marcello - Boscovich, Via Ruggero Boscovich, Zona Buenos Aires, Municipio 3, Milano, MI, LOM, 20124, Italia" ;
+    cmo:latitude "45.4801976"^^xsd:float ;
+    cmo:longitude "9.2075014"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_112_via_napo_torriani_centrale_municipio_2_milano_mi_lom_20124_italia> a cmo:BikeRental ;
+    rdfs:label "BikeMi, 112, Via Napo Torriani, Centrale, Municipio 2, Milano, MI, LOM, 20124, Italia" ;
+    cmo:addressOfTransportSystemStation "112, Via Napo Torriani, Centrale, Municipio 2, Milano, MI, LOM, 20124, Italia" ;
+    cmo:latitude "45.4824189"^^xsd:float ;
+    cmo:longitude "9.2032546"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_11_viale_gerolamo_gadio_castello_municipio_1_milano_mi_lom_20121_italia> a cmo:BikeRental ;
+    rdfs:label "BikeMi, 11, Viale Gerolamo Gadio, Castello, Municipio 1, Milano, MI, LOM, 20121, Italia" ;
+    cmo:addressOfTransportSystemStation "11, Viale Gerolamo Gadio, Castello, Municipio 1, Milano, MI, LOM, 20121, Italia" ;
+    cmo:latitude "45.4724844"^^xsd:float ;
+    cmo:longitude "9.1795106"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_120_via_filzi_centrale_municipio_2_milano_mi_lom_20124_italia> a cmo:BikeRental ;
+    rdfs:label "BikeMi, 120, Via Filzi, Centrale, Municipio 2, Milano, MI, LOM, 20124, Italia" ;
+    cmo:addressOfTransportSystemStation "120, Via Filzi, Centrale, Municipio 2, Milano, MI, LOM, 20124, Italia" ;
+    cmo:latitude "45.4843959"^^xsd:float ;
+    cmo:longitude "9.200452"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_12_via_pio_iv_borgo_san_gottardo_porta_ticinese_milano_mi_lom_2021_italia> a cmo:BikeRental ;
+    rdfs:label "BikeMi, 12, Via Pio IV, Borgo San Gottardo, Porta Ticinese, Milano, MI, LOM, 2021, Italia" ;
+    cmo:addressOfTransportSystemStation "12, Via Pio IV, Borgo San Gottardo, Porta Ticinese, Milano, MI, LOM, 2021, Italia" ;
+    cmo:latitude "45.4585992"^^xsd:float ;
+    cmo:longitude "9.1814563"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_13_via_marina_porta_nuova_milano_mi_lom_20122_italia> a cmo:BikeRental ;
+    rdfs:label "BikeMi, 13, Via Marina, Porta Nuova, Milano, MI, LOM, 20122, Italia" ;
+    cmo:addressOfTransportSystemStation "13, Via Marina, Porta Nuova, Milano, MI, LOM, 20122, Italia" ;
+    cmo:latitude "45.470444"^^xsd:float ;
+    cmo:longitude "9.1976032"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_141_via_curtatone_porta_romana_milano_mi_lom_20135_italia> a cmo:BikeRental ;
+    rdfs:label "BikeMi, 141, Via Curtatone, Porta Romana, Milano, MI, LOM, 20135, Italia" ;
+    cmo:addressOfTransportSystemStation "141, Via Curtatone, Porta Romana, Milano, MI, LOM, 20135, Italia" ;
+    cmo:latitude "45.455143"^^xsd:float ;
+    cmo:longitude "9.2029327"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_143_via_lazzaro_papi_porta_romana_milano_mi_lom_20135_italia> a cmo:BikeRental ;
+    rdfs:label "BikeMi, 143, Via Lazzaro Papi, Porta Romana, Milano, MI, LOM, 20135, Italia" ;
+    cmo:addressOfTransportSystemStation "143, Via Lazzaro Papi, Porta Romana, Milano, MI, LOM, 20135, Italia" ;
+    cmo:latitude "45.4497749"^^xsd:float ;
+    cmo:longitude "9.2066382"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_146_via_crema_porta_romana_milano_mi_lom_20135_italia> a cmo:BikeRental ;
+    rdfs:label "BikeMi, 146, Via Crema, Porta Romana, Milano, MI, LOM, 20135, Italia" ;
+    cmo:addressOfTransportSystemStation "146, Via Crema, Porta Romana, Milano, MI, LOM, 20135, Italia" ;
+    cmo:latitude "45.4480746"^^xsd:float ;
+    cmo:longitude "9.202747"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_148_viale_bligny_porta_vigentina_porta_lodovica_milano_mi_lom_20136_italia> a cmo:BikeRental ;
+    rdfs:label "BikeMi, 148, Viale Bligny, Porta Vigentina, Porta Lodovica, Milano, MI, LOM, 20136, Italia" ;
+    cmo:addressOfTransportSystemStation "148, Viale Bligny, Porta Vigentina, Porta Lodovica, Milano, MI, LOM, 20136, Italia" ;
+    cmo:latitude "45.4510667"^^xsd:float ;
+    cmo:longitude "9.1905434"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_14_18_via_san_barnaba_guastalla_municipio_1_milano_mi_lom_20122_italia> a cmo:BikeRental ;
+    rdfs:label "BikeMi, 14, 18, Via San Barnaba, Guastalla, Municipio 1, Milano, MI, LOM, 20122, Italia" ;
+    cmo:addressOfTransportSystemStation "14, 18, Via San Barnaba, Guastalla, Municipio 1, Milano, MI, LOM, 20122, Italia" ;
+    cmo:latitude "45.4595192"^^xsd:float ;
+    cmo:longitude "9.198499"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_15_piazzale_antonio_cantore_porta_genova_milano_mi_lom_20123_italia> a cmo:BikeRental ;
+    rdfs:label "BikeMi, 15, Piazzale Antonio Cantore, Porta Genova, Milano, MI, LOM, 20123, Italia" ;
+    cmo:addressOfTransportSystemStation "15, Piazzale Antonio Cantore, Porta Genova, Milano, MI, LOM, 20123, Italia" ;
+    cmo:latitude "45.4558105"^^xsd:float ;
+    cmo:longitude "9.1728029"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_163_via_bergognone_zona_solari_municipio_6_milano_mi_lom_20144_italia> a cmo:BikeRental ;
+    rdfs:label "BikeMi, 163, Via Bergognone, Zona Solari, Municipio 6, Milano, MI, LOM, 20144, Italia" ;
+    cmo:addressOfTransportSystemStation "163, Via Bergognone, Zona Solari, Municipio 6, Milano, MI, LOM, 20144, Italia" ;
+    cmo:latitude "45.4548492"^^xsd:float ;
+    cmo:longitude "9.1627501"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_168_via_giacomo_carissimi_abbadesse_municipio_2_milano_mi_lom_20124_italia> a cmo:BikeRental ;
+    rdfs:label "BikeMi, 168, Via Giacomo Carissimi, Abbadesse, Municipio 2, Milano, MI, LOM, 20124, Italia" ;
+    cmo:addressOfTransportSystemStation "168, Via Giacomo Carissimi, Abbadesse, Municipio 2, Milano, MI, LOM, 20124, Italia" ;
+    cmo:latitude "45.4925677"^^xsd:float ;
+    cmo:longitude "9.1991839"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_16_corso_giuseppe_garibaldi_municipio_1_milano_mi_lom_20121_italia> a cmo:BikeRental ;
+    rdfs:label "BikeMi, 16, Corso Giuseppe Garibaldi, Municipio 1, Milano, MI, LOM, 20121, Italia" ;
+    cmo:addressOfTransportSystemStation "16, Corso Giuseppe Garibaldi, Municipio 1, Milano, MI, LOM, 20121, Italia" ;
+    cmo:latitude "45.4775461"^^xsd:float ;
+    cmo:longitude "9.1845366"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_170_via_andrea_verga_porta_vercellina_milano_mi_lom_20144_italia> a cmo:BikeRental ;
+    rdfs:label "BikeMi, 170, Via Andrea Verga, Porta Vercellina, Milano, MI, LOM, 20144, Italia" ;
+    cmo:addressOfTransportSystemStation "170, Via Andrea Verga, Porta Vercellina, Milano, MI, LOM, 20144, Italia" ;
+    cmo:latitude "45.4634771"^^xsd:float ;
+    cmo:longitude "9.163594"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_175_via_mario_pagano_zona_pagano_municipio_8_milano_mi_lom_20145_italia> a cmo:BikeRental ;
+    rdfs:label "BikeMi, 175, Via Mario Pagano, Zona Pagano, Municipio 8, Milano, MI, LOM, 20145, Italia" ;
+    cmo:addressOfTransportSystemStation "175, Via Mario Pagano, Zona Pagano, Municipio 8, Milano, MI, LOM, 20145, Italia" ;
+    cmo:latitude "45.4681941"^^xsd:float ;
+    cmo:longitude "9.1604802"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_17__legnano_arena_civica_viale_comizi_di_lione_porta_tenaglia_porta_sempione_milano_mi_lom_20121_italia> a cmo:BikeRental ;
+    rdfs:label "BikeMi, 17 - Legnano Arena civica, Viale Comizi di Lione, Porta Tenaglia, Porta Sempione, Milano, MI, LOM, 20121, Italia" ;
+    cmo:addressOfTransportSystemStation "17 - Legnano Arena civica, Viale Comizi di Lione, Porta Tenaglia, Porta Sempione, Milano, MI, LOM, 20121, Italia" ;
+    cmo:latitude "45.4770524"^^xsd:float ;
+    cmo:longitude "9.1809171"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_180_via_antonio_canova_porta_sempione_milano_mi_lom_20145_italia> a cmo:BikeRental ;
+    rdfs:label "BikeMi, 180, Via Antonio Canova, Porta Sempione, Milano, MI, LOM, 20145, Italia" ;
+    cmo:addressOfTransportSystemStation "180, Via Antonio Canova, Porta Sempione, Milano, MI, LOM, 20145, Italia" ;
+    cmo:latitude "45.4754105"^^xsd:float ;
+    cmo:longitude "9.1682949"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_188__sarpi_niccolini_via_paolo_sarpi_chinatown_municipio_1_milano_mi_lom_20154_italia> a cmo:BikeRental ;
+    rdfs:label "BikeMi, 188 - Sarpi Niccolini, Via Paolo Sarpi, Chinatown, Municipio 1, Milano, MI, LOM, 20154, Italia" ;
+    cmo:addressOfTransportSystemStation "188 - Sarpi Niccolini, Via Paolo Sarpi, Chinatown, Municipio 1, Milano, MI, LOM, 20154, Italia" ;
+    cmo:latitude "45.481617"^^xsd:float ;
+    cmo:longitude "9.1783142"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_191_via_maurizio_quadrio_porta_volta_municipio_9_milano_mi_lom_20154_italia> a cmo:BikeRental ;
+    rdfs:label "BikeMi, 191, Via Maurizio Quadrio, Porta Volta, Municipio 9, Milano, MI, LOM, 20154, Italia" ;
+    cmo:addressOfTransportSystemStation "191, Via Maurizio Quadrio, Porta Volta, Municipio 9, Milano, MI, LOM, 20154, Italia" ;
+    cmo:latitude "45.4839436"^^xsd:float ;
+    cmo:longitude "9.1822098"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_192_viale_col_di_lana_borgo_san_gottardo_porta_ticinese_milano_mi_lom_20136_italia> a cmo:BikeRental ;
+    rdfs:label "BikeMi, 192, Viale Col di Lana, Borgo San Gottardo, Porta Ticinese, Milano, MI, LOM, 20136, Italia" ;
+    cmo:addressOfTransportSystemStation "192, Viale Col di Lana, Borgo San Gottardo, Porta Ticinese, Milano, MI, LOM, 20136, Italia" ;
+    cmo:latitude "45.4518597"^^xsd:float ;
+    cmo:longitude "9.1845328"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_30_largo_della_crocetta_porta_romana_milano_mi_lom_20122_italia> a cmo:BikeRental ;
+    rdfs:label "BikeMi, 30, Largo della Crocetta, Porta Romana, Milano, MI, LOM, 20122, Italia" ;
+    cmo:addressOfTransportSystemStation "30, Largo della Crocetta, Porta Romana, Milano, MI, LOM, 20122, Italia" ;
+    cmo:latitude "45.456159"^^xsd:float ;
+    cmo:longitude "9.1957806"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_312_via_emilio_de_marchi_greco_milano_mi_lom_20125_italia> a cmo:BikeRental ;
+    rdfs:label "BikeMi, 312, Via Emilio De Marchi, Greco, Milano, MI, LOM, 20125, Italia" ;
+    cmo:addressOfTransportSystemStation "312, Via Emilio De Marchi, Greco, Milano, MI, LOM, 20125, Italia" ;
+    cmo:latitude "45.5033367"^^xsd:float ;
+    cmo:longitude "9.2113198"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_318_via_melchiorre_gioia_maggiolina_municipio_2_milano_mi_lom_20124_italia> a cmo:BikeRental ;
+    rdfs:label "BikeMi, 318, Via Melchiorre Gioia, Maggiolina, Municipio 2, Milano, MI, LOM, 20124, Italia" ;
+    cmo:addressOfTransportSystemStation "318, Via Melchiorre Gioia, Maggiolina, Municipio 2, Milano, MI, LOM, 20124, Italia" ;
+    cmo:latitude "45.4907877"^^xsd:float ;
+    cmo:longitude "9.2023332"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_31_viale_bacchiglione_castagnedo_municipio_4_milano_mi_lom_20139_italia> a cmo:BikeRental ;
+    rdfs:label "BikeMi, 31, Viale Bacchiglione, Castagnedo, Municipio 4, Milano, MI, LOM, 20139, Italia" ;
+    cmo:addressOfTransportSystemStation "31, Viale Bacchiglione, Castagnedo, Municipio 4, Milano, MI, LOM, 20139, Italia" ;
+    cmo:latitude "45.4426806"^^xsd:float ;
+    cmo:longitude "9.2193436"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_35_via_torino_carrobbio_municipio_1_milano_mi_lom_2021_italia> a cmo:BikeRental ;
+    rdfs:label "BikeMi, 35, Via Torino, Carrobbio, Municipio 1, Milano, MI, LOM, 2021, Italia" ;
+    cmo:addressOfTransportSystemStation "35, Via Torino, Carrobbio, Municipio 1, Milano, MI, LOM, 2021, Italia" ;
+    cmo:latitude "45.4604912"^^xsd:float ;
+    cmo:longitude "9.1818802"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_36_via_san_vito_carrobbio_municipio_1_milano_mi_lom_2021_italia> a cmo:BikeRental ;
+    rdfs:label "BikeMi, 36, Via San Vito, Carrobbio, Municipio 1, Milano, MI, LOM, 2021, Italia" ;
+    cmo:addressOfTransportSystemStation "36, Via San Vito, Carrobbio, Municipio 1, Milano, MI, LOM, 2021, Italia" ;
+    cmo:latitude "45.4592314"^^xsd:float ;
+    cmo:longitude "9.1837643"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_42_via_san_pietro_allorto_san_babila_municipio_1_milano_mi_lom_20122_italia> a cmo:BikeRental ;
+    rdfs:label "BikeMi, 42, Via San Pietro all'Orto, San Babila, Municipio 1, Milano, MI, LOM, 20122, Italia" ;
+    cmo:addressOfTransportSystemStation "42, Via San Pietro all'Orto, San Babila, Municipio 1, Milano, MI, LOM, 20122, Italia" ;
+    cmo:latitude "45.4661258"^^xsd:float ;
+    cmo:longitude "9.1956507"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_43_via_festa_del_perdono_brolo_pantano_municipio_1_milano_mi_lom_20122_italia> a cmo:BikeRental ;
+    rdfs:label "BikeMi, 43, Via Festa del Perdono, Brolo-Pantano, Municipio 1, Milano, MI, LOM, 20122, Italia" ;
+    cmo:addressOfTransportSystemStation "43, Via Festa del Perdono, Brolo-Pantano, Municipio 1, Milano, MI, LOM, 20122, Italia" ;
+    cmo:latitude "45.4613642"^^xsd:float ;
+    cmo:longitude "9.1948617"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_44_largo_francesco_richini_brolo_pantano_municipio_1_milano_mi_lom_20122_italia> a cmo:BikeRental ;
+    rdfs:label "BikeMi, 44, Largo Francesco Richini, Brolo-Pantano, Municipio 1, Milano, MI, LOM, 20122, Italia" ;
+    cmo:addressOfTransportSystemStation "44, Largo Francesco Richini, Brolo-Pantano, Municipio 1, Milano, MI, LOM, 20122, Italia" ;
+    cmo:latitude "45.4593687"^^xsd:float ;
+    cmo:longitude "9.1929334"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_46_piazzale_principessa_clotilde_porta_nuova_milano_mi_lom_20121_italia> a cmo:BikeRental ;
+    rdfs:label "BikeMi, 46, Piazzale Principessa Clotilde, Porta Nuova, Milano, MI, LOM, 20121, Italia" ;
+    cmo:addressOfTransportSystemStation "46, Piazzale Principessa Clotilde, Porta Nuova, Milano, MI, LOM, 20121, Italia" ;
+    cmo:latitude "45.4799468"^^xsd:float ;
+    cmo:longitude "9.1928141"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_47_viale_gorizia_zona_navigli_municipio_6_milano_mi_lom_20136_italia> a cmo:BikeRental ;
+    rdfs:label "BikeMi, 47, Viale Gorizia, Zona Navigli, Municipio 6, Milano, MI, LOM, 20136, Italia" ;
+    cmo:addressOfTransportSystemStation "47, Viale Gorizia, Zona Navigli, Municipio 6, Milano, MI, LOM, 20136, Italia" ;
+    cmo:latitude "45.4523315"^^xsd:float ;
+    cmo:longitude "9.1774633"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_48_viale_gorizia_zona_navigli_municipio_6_milano_mi_lom_20136_italia> a cmo:BikeRental ;
+    rdfs:label "BikeMi, 48, Viale Gorizia, Zona Navigli, Municipio 6, Milano, MI, LOM, 20136, Italia" ;
+    cmo:addressOfTransportSystemStation "48, Viale Gorizia, Zona Navigli, Municipio 6, Milano, MI, LOM, 20136, Italia" ;
+    cmo:latitude "45.4523444"^^xsd:float ;
+    cmo:longitude "9.1773149"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_49_via_san_paolo_duomo_municipio_1_milano_mi_lom_20122_italia> a cmo:BikeRental ;
+    rdfs:label "BikeMi, 49, Via San Paolo, Duomo, Municipio 1, Milano, MI, LOM, 20122, Italia" ;
+    cmo:addressOfTransportSystemStation "49, Via San Paolo, Duomo, Municipio 1, Milano, MI, LOM, 20122, Italia" ;
+    cmo:latitude "45.4664684"^^xsd:float ;
+    cmo:longitude "9.1929951"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_50_piazza_cesare_beccaria_pasquirolo_municipio_1_milano_mi_lom_20122_italia> a cmo:BikeRental ;
+    rdfs:label "BikeMi, 50, Piazza Cesare Beccaria, Pasquirolo, Municipio 1, Milano, MI, LOM, 20122, Italia" ;
+    cmo:addressOfTransportSystemStation "50, Piazza Cesare Beccaria, Pasquirolo, Municipio 1, Milano, MI, LOM, 20122, Italia" ;
+    cmo:latitude "45.4644048"^^xsd:float ;
+    cmo:longitude "9.1946286"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_51_via_balilla_borgo_san_gottardo_municipio_5_milano_mi_lom_20136_italia> a cmo:BikeRental ;
+    rdfs:label "BikeMi, 51, Via Balilla, Borgo San Gottardo, Municipio 5, Milano, MI, LOM, 20136, Italia" ;
+    cmo:addressOfTransportSystemStation "51, Via Balilla, Borgo San Gottardo, Municipio 5, Milano, MI, LOM, 20136, Italia" ;
+    cmo:latitude "45.4445375"^^xsd:float ;
+    cmo:longitude "9.1826856"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_52__vittor_pisani_via_pisani_centrale_porta_nuova_milano_mi_lom_20124_italia> a cmo:BikeRental ;
+    rdfs:label "BikeMi, 52 - Vittor Pisani, Via Pisani, Centrale, Porta Nuova, Milano, MI, LOM, 20124, Italia" ;
+    cmo:addressOfTransportSystemStation "52 - Vittor Pisani, Via Pisani, Centrale, Porta Nuova, Milano, MI, LOM, 20124, Italia" ;
+    cmo:latitude "45.4804283"^^xsd:float ;
+    cmo:longitude "9.1991481"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_54_corso_di_porta_ticinese_borgo_san_gottardo_porta_ticinese_milano_mi_lom_20136_italia> a cmo:BikeRental ;
+    rdfs:label "BikeMi, 54, Corso di Porta Ticinese, Borgo San Gottardo, Porta Ticinese, Milano, MI, LOM, 20136, Italia" ;
+    cmo:addressOfTransportSystemStation "54, Corso di Porta Ticinese, Borgo San Gottardo, Porta Ticinese, Milano, MI, LOM, 20136, Italia" ;
+    cmo:latitude "45.4551995"^^xsd:float ;
+    cmo:longitude "9.1806999"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_5_largo_fra_agostino_gemelli_santambrogio_municipio_1_milano_mi_lom_20123_italia> a cmo:BikeRental ;
+    rdfs:label "BikeMi, 5, Largo Fra Agostino Gemelli, Sant'Ambrogio, Municipio 1, Milano, MI, LOM, 20123, Italia" ;
+    cmo:addressOfTransportSystemStation "5, Largo Fra Agostino Gemelli, Sant'Ambrogio, Municipio 1, Milano, MI, LOM, 20123, Italia" ;
+    cmo:latitude "45.4630673"^^xsd:float ;
+    cmo:longitude "9.1764459"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_63_piazza_santambrogio_santambrogio_municipio_1_milano_mi_lom_20123_italia> a cmo:BikeRental ;
+    rdfs:label "BikeMi, 63, Piazza Sant'Ambrogio, Sant'Ambrogio, Municipio 1, Milano, MI, LOM, 20123, Italia" ;
+    cmo:addressOfTransportSystemStation "63, Piazza Sant'Ambrogio, Sant'Ambrogio, Municipio 1, Milano, MI, LOM, 20123, Italia" ;
+    cmo:latitude "45.4619144"^^xsd:float ;
+    cmo:longitude "9.1742161"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_66_piazza_cavour_porta_nuova_milano_mi_lom_20121_italia> a cmo:BikeRental ;
+    rdfs:label "BikeMi, 66, Piazza Cavour, Porta Nuova, Milano, MI, LOM, 20121, Italia" ;
+    cmo:addressOfTransportSystemStation "66, Piazza Cavour, Porta Nuova, Milano, MI, LOM, 20121, Italia" ;
+    cmo:latitude "45.4729993"^^xsd:float ;
+    cmo:longitude "9.1963532"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_67__repubblica_piazza_della_repubblica_porta_nuova_milano_mi_lom_20124_italia> a cmo:BikeRental ;
+    rdfs:label "BikeMi, 67 - Repubblica, Piazza della Repubblica, Porta Nuova, Milano, MI, LOM, 20124, Italia" ;
+    cmo:addressOfTransportSystemStation "67 - Repubblica, Piazza della Repubblica, Porta Nuova, Milano, MI, LOM, 20124, Italia" ;
+    cmo:latitude "45.4789563"^^xsd:float ;
+    cmo:longitude "9.196569"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_78_piazzale_aquileia_san_vittore_municipio_1_milano_mi_lom_20144_italia> a cmo:BikeRental ;
+    rdfs:label "BikeMi, 78, Piazzale Aquileia, San Vittore, Municipio 1, Milano, MI, LOM, 20144, Italia" ;
+    cmo:addressOfTransportSystemStation "78, Piazzale Aquileia, San Vittore, Municipio 1, Milano, MI, LOM, 20144, Italia" ;
+    cmo:latitude "45.4608486"^^xsd:float ;
+    cmo:longitude "9.1634466"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_85_via_bernardino_buttinone_porta_vercellina_milano_mi_lom_20123_italia> a cmo:BikeRental ;
+    rdfs:label "BikeMi, 85, Via Bernardino Buttinone, Porta Vercellina, Milano, MI, LOM, 20123, Italia" ;
+    cmo:addressOfTransportSystemStation "85, Via Bernardino Buttinone, Porta Vercellina, Milano, MI, LOM, 20123, Italia" ;
+    cmo:latitude "45.4657163"^^xsd:float ;
+    cmo:longitude "9.1758064"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_87_piazzale_stazione_genova_porta_genova_milano_mi_lom_20144_italia> a cmo:BikeRental ;
+    rdfs:label "BikeMi, 87, Piazzale Stazione Genova, Porta Genova, Milano, MI, LOM, 20144, Italia" ;
+    cmo:addressOfTransportSystemStation "87, Piazzale Stazione Genova, Porta Genova, Milano, MI, LOM, 20144, Italia" ;
+    cmo:latitude "45.4529589"^^xsd:float ;
+    cmo:longitude "9.1696715"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_88_viale_angelo_filippetti_porta_vigentina_municipio_1_milano_mi_lom_20122_italia> a cmo:BikeRental ;
+    rdfs:label "BikeMi, 88, Viale Angelo Filippetti, Porta Vigentina, Municipio 1, Milano, MI, LOM, 20122, Italia" ;
+    cmo:addressOfTransportSystemStation "88, Viale Angelo Filippetti, Porta Vigentina, Municipio 1, Milano, MI, LOM, 20122, Italia" ;
+    cmo:latitude "45.4522215"^^xsd:float ;
+    cmo:longitude "9.1974644"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_92_via_gabrio_casati_cordusio_municipio_1_milano_mi_lom_2021_italia> a cmo:BikeRental ;
+    rdfs:label "BikeMi, 92, Via Gabrio Casati, Cordusio, Municipio 1, Milano, MI, LOM, 2021, Italia" ;
+    cmo:addressOfTransportSystemStation "92, Via Gabrio Casati, Cordusio, Municipio 1, Milano, MI, LOM, 2021, Italia" ;
+    cmo:latitude "45.4654981"^^xsd:float ;
+    cmo:longitude "9.1855415"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_bergognone__tortona_via_tortona_zona_tortona_municipio_6_milano_mi_lom_20144_italia> a cmo:BikeRental ;
+    rdfs:label "BikeMi, Bergognone - Tortona, Via Tortona, Zona Tortona, Municipio 6, Milano, MI, LOM, 20144, Italia" ;
+    cmo:addressOfTransportSystemStation "Bergognone - Tortona, Via Tortona, Zona Tortona, Municipio 6, Milano, MI, LOM, 20144, Italia" ;
+    cmo:latitude "45.4523857"^^xsd:float ;
+    cmo:longitude "9.1650578"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_bicocca_m5__pulci_via_luigi_pulci_bicocca_milano_mi_lom_20162_italia> a cmo:BikeRental ;
+    rdfs:label "BikeMi, Bicocca M5 - Pulci, Via Luigi Pulci, Bicocca, Milano, MI, LOM, 20162, Italia" ;
+    cmo:addressOfTransportSystemStation "Bicocca M5 - Pulci, Via Luigi Pulci, Bicocca, Milano, MI, LOM, 20162, Italia" ;
+    cmo:latitude "45.514126"^^xsd:float ;
+    cmo:longitude "9.2055777"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_bikemi_343__ortles__ripamonti_viale_ortles_vigentino_milano_mi_lom_20141_italia> a cmo:BikeRental ;
+    rdfs:label "Bikemi, Bikemi 343 - Ortles - Ripamonti, Viale Ortles, Vigentino, Milano, MI, LOM, 20141, Italia" ;
+    cmo:addressOfTransportSystemStation "Bikemi 343 - Ortles - Ripamonti, Viale Ortles, Vigentino, Milano, MI, LOM, 20141, Italia" ;
+    cmo:latitude "45.4388599"^^xsd:float ;
+    cmo:longitude "9.2004055"^^xsd:float ;
+    cmo:organizationOfTransportSystem "Bikemi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_bikemi_383__angilberto__comacchio_piazza_angilberto_ii_gamboloita_municipio_4_vaiano_valle_mi_lom_20139_italia> a cmo:BikeRental ;
+    rdfs:label "Bikemi, Bikemi 383 - Angilberto - Comacchio, Piazza Angilberto II, Gamboloita, Municipio 4, Vaiano Valle, MI, LOM, 20139, Italia" ;
+    cmo:addressOfTransportSystemStation "Bikemi 383 - Angilberto - Comacchio, Piazza Angilberto II, Gamboloita, Municipio 4, Vaiano Valle, MI, LOM, 20139, Italia" ;
+    cmo:latitude "45.4371115"^^xsd:float ;
+    cmo:longitude "9.2175501"^^xsd:float ;
+    cmo:organizationOfTransportSystem "Bikemi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_bikemi_385__ortles__orobia_viale_ortles_vigentino_milano_mi_lom_20141_italia> a cmo:BikeRental ;
+    rdfs:label "Bikemi, Bikemi 385 - Ortles - Orobia, Viale Ortles, Vigentino, Milano, MI, LOM, 20141, Italia" ;
+    cmo:addressOfTransportSystemStation "Bikemi 385 - Ortles - Orobia, Viale Ortles, Vigentino, Milano, MI, LOM, 20141, Italia" ;
+    cmo:latitude "45.4398941"^^xsd:float ;
+    cmo:longitude "9.2062411"^^xsd:float ;
+    cmo:organizationOfTransportSystem "Bikemi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_bikemi__adamello_via_adamello_vigentino_milano_mi_lom_20141_italia> a cmo:BikeRental ;
+    rdfs:label "BikeMI, BikeMI - Adamello, Via Adamello, Vigentino, Milano, MI, LOM, 20141, Italia" ;
+    cmo:addressOfTransportSystemStation "BikeMI - Adamello, Via Adamello, Vigentino, Milano, MI, LOM, 20141, Italia" ;
+    cmo:latitude "45.4437952"^^xsd:float ;
+    cmo:longitude "9.2030711"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMI" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_bikemi__arco_della_pace_1_piazza_sempione_porta_sempione_milano_mi_lom_20154_italia> a cmo:BikeRental ;
+    rdfs:label "BikeMi, BikeMi - Arco della Pace 1, Piazza Sempione, Porta Sempione, Milano, MI, LOM, 20154, Italia" ;
+    cmo:addressOfTransportSystemStation "BikeMi - Arco della Pace 1, Piazza Sempione, Porta Sempione, Milano, MI, LOM, 20154, Italia" ;
+    cmo:latitude "45.4762185"^^xsd:float ;
+    cmo:longitude "9.1735016"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_bikemi__benaco__brembo_via_benaco_san_luigi_municipio_4_milano_mi_lom_20139_italia> a cmo:BikeRental ;
+    rdfs:label "BikeMi, BikeMi - Benaco - Brembo, Via Benaco, San Luigi, Municipio 4, Milano, MI, LOM, 20139, Italia" ;
+    cmo:addressOfTransportSystemStation "BikeMi - Benaco - Brembo, Via Benaco, San Luigi, Municipio 4, Milano, MI, LOM, 20139, Italia" ;
+    cmo:latitude "45.4444356"^^xsd:float ;
+    cmo:longitude "9.2119469"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_bikemi__centrale_1_piazza_duca_daosta_centrale_municipio_2_milano_mi_lom_20124_italia> a cmo:BikeRental ;
+    rdfs:label "BikeMi, BikeMi - Centrale 1, Piazza Duca d'Aosta, Centrale, Municipio 2, Milano, MI, LOM, 20124, Italia" ;
+    cmo:addressOfTransportSystemStation "BikeMi - Centrale 1, Piazza Duca d'Aosta, Centrale, Municipio 2, Milano, MI, LOM, 20124, Italia" ;
+    cmo:latitude "45.4854583"^^xsd:float ;
+    cmo:longitude "9.2025511"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_bikemi__manin__bastioni_via_daniele_manin_porta_nuova_milano_mi_lom_20124_italia> a cmo:BikeRental ;
+    rdfs:label "BikeMi, BikeMi - Manin - Bastioni, Via Daniele Manin, Porta Nuova, Milano, MI, LOM, 20124, Italia" ;
+    cmo:addressOfTransportSystemStation "BikeMi - Manin - Bastioni, Via Daniele Manin, Porta Nuova, Milano, MI, LOM, 20124, Italia" ;
+    cmo:latitude "45.4768512"^^xsd:float ;
+    cmo:longitude "9.1982831"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_bikemi__napoli_via_cola_di_rienzo_zona_solari_municipio_6_milano_mi_lom_20144_italia> a cmo:BikeRental ;
+    rdfs:label "BikeMi, BikeMi - Napoli, Via Cola di Rienzo, Zona Solari, Municipio 6, Milano, MI, LOM, 20144, Italia" ;
+    cmo:addressOfTransportSystemStation "BikeMi - Napoli, Via Cola di Rienzo, Zona Solari, Municipio 6, Milano, MI, LOM, 20144, Italia" ;
+    cmo:latitude "45.4545889"^^xsd:float ;
+    cmo:longitude "9.1547979"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_bikemi__pzza_luigi_di_savoia_piazza_luigi_di_savoia_centrale_municipio_2_milano_mi_lom_20124_italia> a cmo:BikeRental ;
+    rdfs:label "BikeMi, BikeMi - P.zza Luigi di Savoia, Piazza Luigi di Savoia, Centrale, Municipio 2, Milano, MI, LOM, 20124, Italia" ;
+    cmo:addressOfTransportSystemStation "BikeMi - P.zza Luigi di Savoia, Piazza Luigi di Savoia, Centrale, Municipio 2, Milano, MI, LOM, 20124, Italia" ;
+    cmo:latitude "45.4849253"^^xsd:float ;
+    cmo:longitude "9.2060545"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_bikemi__v_alpini_largo_quinto_alpini_zona_pagano_municipio_1_milano_mi_lom_20145_italia> a cmo:BikeRental ;
+    rdfs:label "BikeMi, BikeMi - V Alpini, Largo Quinto Alpini, Zona Pagano, Municipio 1, Milano, MI, LOM, 20145, Italia" ;
+    cmo:addressOfTransportSystemStation "BikeMi - V Alpini, Largo Quinto Alpini, Zona Pagano, Municipio 1, Milano, MI, LOM, 20145, Italia" ;
+    cmo:latitude "45.4722573"^^xsd:float ;
+    cmo:longitude "9.1677406"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_bikemi_brenta_mm_viale_bacchiglione_castagnedo_municipio_4_milano_mi_lom_20139_italia> a cmo:BikeRental ;
+    rdfs:label "BikeMi, BikeMi -Brenta MM, Viale Bacchiglione, Castagnedo, Municipio 4, Milano, MI, LOM, 20139, Italia" ;
+    cmo:addressOfTransportSystemStation "BikeMi -Brenta MM, Viale Bacchiglione, Castagnedo, Municipio 4, Milano, MI, LOM, 20139, Italia" ;
+    cmo:latitude "45.4426884"^^xsd:float ;
+    cmo:longitude "9.2193012"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_bocconi_1_via_ferdinando_bocconi_porta_vigentina_porta_lodovica_milano_mi_lom_20136_italia> a cmo:BikeRental ;
+    rdfs:label "BikeMi, Bocconi 1, Via Ferdinando Bocconi, Porta Vigentina, Porta Lodovica, Milano, MI, LOM, 20136, Italia" ;
+    cmo:addressOfTransportSystemStation "Bocconi 1, Via Ferdinando Bocconi, Porta Vigentina, Porta Lodovica, Milano, MI, LOM, 20136, Italia" ;
+    cmo:latitude "45.4485585"^^xsd:float ;
+    cmo:longitude "9.1904115"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_bocconi_2_viale_giovanni_sebastiano_bach_porta_vigentina_porta_lodovica_milano_mi_lom_20136_italia> a cmo:BikeRental ;
+    rdfs:label "BikeMi, Bocconi 2, Viale Giovanni Sebastiano Bach, Porta Vigentina, Porta Lodovica, Milano, MI, LOM, 20136, Italia" ;
+    cmo:addressOfTransportSystemStation "Bocconi 2, Viale Giovanni Sebastiano Bach, Porta Vigentina, Porta Lodovica, Milano, MI, LOM, 20136, Italia" ;
+    cmo:latitude "45.4484196"^^xsd:float ;
+    cmo:longitude "9.1908277"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_borgogna_via_borgogna_borgogna_porta_monforte_milano_mi_lom_20122_italia> a cmo:BikeRental ;
+    rdfs:label "BikeMi, Borgogna, Via Borgogna, Borgogna, Porta Monforte, Milano, MI, LOM, 20122, Italia" ;
+    cmo:addressOfTransportSystemStation "Borgogna, Via Borgogna, Borgogna, Porta Monforte, Milano, MI, LOM, 20122, Italia" ;
+    cmo:latitude "45.465857"^^xsd:float ;
+    cmo:longitude "9.19963"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_bovisa_piazza_emilio_alfieri_derganino_municipio_9_milano_mi_lom_20158_italia> a cmo:BikeRental ;
+    rdfs:label "BikeMi, Bovisa, Piazza Emilio Alfieri, Derganino, Municipio 9, Milano, MI, LOM, 20158, Italia" ;
+    cmo:addressOfTransportSystemStation "Bovisa, Piazza Emilio Alfieri, Derganino, Municipio 9, Milano, MI, LOM, 20158, Italia" ;
+    cmo:latitude "45.5025802"^^xsd:float ;
+    cmo:longitude "9.1648535"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_brera_piazza_san_marco_san_marco_municipio_1_milano_mi_lom_20121_italia> a cmo:BikeRental ;
+    rdfs:label "BikeMi, Brera, Piazza San Marco, San Marco, Municipio 1, Milano, MI, LOM, 20121, Italia" ;
+    cmo:addressOfTransportSystemStation "Brera, Piazza San Marco, San Marco, Municipio 1, Milano, MI, LOM, 20121, Italia" ;
+    cmo:latitude "45.4750748"^^xsd:float ;
+    cmo:longitude "9.1867322"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_brera_piazza_san_marco_san_marco_municipio_1_milano_mi_lom_20121_italia_1> a cmo:BikeRental ;
+    rdfs:label "BikeMi, Brera, Piazza San Marco, San Marco, Municipio 1, Milano, MI, LOM, 20121, Italia" ;
+    cmo:addressOfTransportSystemStation "Brera, Piazza San Marco, San Marco, Municipio 1, Milano, MI, LOM, 20121, Italia" ;
+    cmo:latitude "45.473129"^^xsd:float ;
+    cmo:longitude "9.1899964"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_brera_piazza_san_marco_san_marco_municipio_1_milano_mi_lom_20121_italia_2> a cmo:BikeRental ;
+    rdfs:label "BikeMi, Brera, Piazza San Marco, San Marco, Municipio 1, Milano, MI, LOM, 20121, Italia" ;
+    cmo:addressOfTransportSystemStation "Brera, Piazza San Marco, San Marco, Municipio 1, Milano, MI, LOM, 20121, Italia" ;
+    cmo:latitude "45.4716239"^^xsd:float ;
+    cmo:longitude "9.1875914"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_brera_piazza_san_marco_san_marco_municipio_1_milano_mi_lom_20121_italia_3> a cmo:BikeRental ;
+    rdfs:label "BikeMi, Brera, Piazza San Marco, San Marco, Municipio 1, Milano, MI, LOM, 20121, Italia" ;
+    cmo:addressOfTransportSystemStation "Brera, Piazza San Marco, San Marco, Municipio 1, Milano, MI, LOM, 20121, Italia" ;
+    cmo:latitude "45.4687483"^^xsd:float ;
+    cmo:longitude "9.185116"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_brera_piazza_san_marco_san_marco_municipio_1_milano_mi_lom_20121_italia_4> a cmo:BikeRental ;
+    rdfs:label "BikeMi, Brera, Piazza San Marco, San Marco, Municipio 1, Milano, MI, LOM, 20121, Italia" ;
+    cmo:addressOfTransportSystemStation "Brera, Piazza San Marco, San Marco, Municipio 1, Milano, MI, LOM, 20121, Italia" ;
+    cmo:latitude "45.476712"^^xsd:float ;
+    cmo:longitude "9.1917869"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_buenos_aires__venezia_via_francesco_redi_zona_buenos_aires_municipio_3_milano_mi_lom_20129_italia> a cmo:BikeRental ;
+    rdfs:label "BikeMi, Buenos Aires - Venezia, Via Francesco Redi, Zona Buenos Aires, Municipio 3, Milano, MI, LOM, 20129, Italia" ;
+    cmo:addressOfTransportSystemStation "Buenos Aires - Venezia, Via Francesco Redi, Zona Buenos Aires, Municipio 3, Milano, MI, LOM, 20129, Italia" ;
+    cmo:latitude "45.4763917"^^xsd:float ;
+    cmo:longitude "9.2085099"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_buenos_aires__venezia_via_francesco_redi_zona_buenos_aires_municipio_3_milano_mi_lom_20129_italia_1> a cmo:BikeRental ;
+    rdfs:label "BikeMi, Buenos Aires - Venezia, Via Francesco Redi, Zona Buenos Aires, Municipio 3, Milano, MI, LOM, 20129, Italia" ;
+    cmo:addressOfTransportSystemStation "Buenos Aires - Venezia, Via Francesco Redi, Zona Buenos Aires, Municipio 3, Milano, MI, LOM, 20129, Italia" ;
+    cmo:latitude "45.4803643"^^xsd:float ;
+    cmo:longitude "9.2113655"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_cadorna_1_piazzale_luigi_cadorna_castello_municipio_1_milano_mi_lom_20123_italia> a cmo:BikeRental ;
+    rdfs:label "BikeMi, Cadorna 1, Piazzale Luigi Cadorna, Castello, Municipio 1, Milano, MI, LOM, 20123, Italia" ;
+    cmo:addressOfTransportSystemStation "Cadorna 1, Piazzale Luigi Cadorna, Castello, Municipio 1, Milano, MI, LOM, 20123, Italia" ;
+    cmo:latitude "45.4679467"^^xsd:float ;
+    cmo:longitude "9.1756337"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_cadorna_2_via_pietro_paleocapa_castello_municipio_1_milano_mi_lom_20123_italia> a cmo:BikeRental ;
+    rdfs:label "BikeMi, Cadorna 2, Via Pietro Paleocapa, Castello, Municipio 1, Milano, MI, LOM, 20123, Italia" ;
+    cmo:addressOfTransportSystemStation "Cadorna 2, Via Pietro Paleocapa, Castello, Municipio 1, Milano, MI, LOM, 20123, Italia" ;
+    cmo:latitude "45.4690383"^^xsd:float ;
+    cmo:longitude "9.1762297"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_caiazzo_viale_andrea_doria_centrale_municipio_2_milano_mi_lom_2014_italia> a cmo:BikeRental ;
+    rdfs:label "BikeMi, Caiazzo, Viale Andrea Doria, Centrale, Municipio 2, Milano, MI, LOM, 2014, Italia" ;
+    cmo:addressOfTransportSystemStation "Caiazzo, Viale Andrea Doria, Centrale, Municipio 2, Milano, MI, LOM, 2014, Italia" ;
+    cmo:latitude "45.485284"^^xsd:float ;
+    cmo:longitude "9.2091786"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_centrale_via_giovanni_battista_sammartini_ponte_seveso_municipio_2_milano_mi_lom_20124_italia> a cmo:BikeRental ;
+    rdfs:label "BikeMi, Centrale, Via Giovanni Battista Sammartini, Ponte Seveso, Municipio 2, Milano, MI, LOM, 20124, Italia" ;
+    cmo:addressOfTransportSystemStation "Centrale, Via Giovanni Battista Sammartini, Ponte Seveso, Municipio 2, Milano, MI, LOM, 20124, Italia" ;
+    cmo:latitude "45.4846069"^^xsd:float ;
+    cmo:longitude "9.204302"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_centrale_via_giovanni_battista_sammartini_ponte_seveso_municipio_2_milano_mi_lom_20124_italia_1> a cmo:BikeRental ;
+    rdfs:label "BikeMi, Centrale, Via Giovanni Battista Sammartini, Ponte Seveso, Municipio 2, Milano, MI, LOM, 20124, Italia" ;
+    cmo:addressOfTransportSystemStation "Centrale, Via Giovanni Battista Sammartini, Ponte Seveso, Municipio 2, Milano, MI, LOM, 20124, Italia" ;
+    cmo:latitude "45.4872753"^^xsd:float ;
+    cmo:longitude "9.2036744"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_comune_milano_navigli_via_filippo_argelati_zona_navigli_municipio_6_milano_mi_lom_20144_italia> a cmo:BikeRental ;
+    rdfs:label "Bikemi Comune Milano, Navigli, Via Filippo Argelati, Zona Navigli, Municipio 6, Milano, MI, LOM, 20144, Italia" ;
+    cmo:addressOfTransportSystemStation "Navigli, Via Filippo Argelati, Zona Navigli, Municipio 6, Milano, MI, LOM, 20144, Italia" ;
+    cmo:latitude "45.4496586"^^xsd:float ;
+    cmo:longitude "9.1727529"^^xsd:float ;
+    cmo:organizationOfTransportSystem "Bikemi Comune Milano" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_coni_zugna_solari_via_solari_zona_solari_porta_genova_milano_mi_lom_20144_italia> a cmo:BikeRental ;
+    rdfs:label "BikeMi, Coni Zugna Solari, Via Solari, Zona Solari, Porta Genova, Milano, MI, LOM, 20144, Italia" ;
+    cmo:addressOfTransportSystemStation "Coni Zugna Solari, Via Solari, Zona Solari, Porta Genova, Milano, MI, LOM, 20144, Italia" ;
+    cmo:latitude "45.4570508"^^xsd:float ;
+    cmo:longitude "9.1679916"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_corso_italia_porta_lodovica_milano_mi_lom_20136_italia> a cmo:BikeRental ;
+    rdfs:label "BikeMi, Corso Italia, Porta Lodovica, Milano, MI, LOM, 20136, Italia" ;
+    cmo:addressOfTransportSystemStation "Corso Italia, Porta Lodovica, Milano, MI, LOM, 20136, Italia" ;
+    cmo:latitude "45.452914"^^xsd:float ;
+    cmo:longitude "9.1869676"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_corvetto_milano_mi_lom_italia> a cmo:BikeRental ;
+    rdfs:label "Bikemi, Corvetto, Milano, MI, LOM, Italia" ;
+    cmo:addressOfTransportSystemStation "Corvetto, Milano, MI, LOM, Italia" ;
+    cmo:latitude "45.4397339"^^xsd:float ;
+    cmo:longitude "9.2238224"^^xsd:float ;
+    cmo:organizationOfTransportSystem "Bikemi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_dante_san_tomaso_via_san_tomaso_cordusio_municipio_1_milano_mi_lom_2021_italia> a cmo:BikeRental ;
+    rdfs:label "BikeMi, Dante San Tomaso, Via San Tomaso, Cordusio, Municipio 1, Milano, MI, LOM, 2021, Italia" ;
+    cmo:addressOfTransportSystemStation "Dante San Tomaso, Via San Tomaso, Cordusio, Municipio 1, Milano, MI, LOM, 2021, Italia" ;
+    cmo:latitude "45.4670656"^^xsd:float ;
+    cmo:longitude "9.1840711"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_dateo_piazzale_dateo_zona_risorgimento_municipio_3_milano_mi_lom_20129_italia> a cmo:BikeRental ;
+    rdfs:label "BikeMI, Dateo, Piazzale Dateo, Zona Risorgimento, Municipio 3, Milano, MI, LOM, 20129, Italia" ;
+    cmo:addressOfTransportSystemStation "Dateo, Piazzale Dateo, Zona Risorgimento, Municipio 3, Milano, MI, LOM, 20129, Italia" ;
+    cmo:latitude "45.4684415"^^xsd:float ;
+    cmo:longitude "9.2166399"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMI" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_duomo_via_orefici_duomo_municipio_1_milano_mi_lom_20123_italia> a cmo:BikeRental ;
+    rdfs:label "BikeMi, Duomo, Via Orefici, Duomo, Municipio 1, Milano, MI, LOM, 20123, Italia" ;
+    cmo:addressOfTransportSystemStation "Duomo, Via Orefici, Duomo, Municipio 1, Milano, MI, LOM, 20123, Italia" ;
+    cmo:latitude "45.4608677"^^xsd:float ;
+    cmo:longitude "9.1836194"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_duomo_via_orefici_duomo_municipio_1_milano_mi_lom_20123_italia_1> a cmo:BikeRental ;
+    rdfs:label "BikeMi, Duomo, Via Orefici, Duomo, Municipio 1, Milano, MI, LOM, 20123, Italia" ;
+    cmo:addressOfTransportSystemStation "Duomo, Via Orefici, Duomo, Municipio 1, Milano, MI, LOM, 20123, Italia" ;
+    cmo:latitude "45.4627785"^^xsd:float ;
+    cmo:longitude "9.1867496"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_duomo_via_orefici_duomo_municipio_1_milano_mi_lom_20123_italia_10> a cmo:BikeRental ;
+    rdfs:label "BikeMi, Duomo, Via Orefici, Duomo, Municipio 1, Milano, MI, LOM, 20123, Italia" ;
+    cmo:addressOfTransportSystemStation "Duomo, Via Orefici, Duomo, Municipio 1, Milano, MI, LOM, 20123, Italia" ;
+    cmo:latitude "45.461766"^^xsd:float ;
+    cmo:longitude "9.1819515"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_duomo_via_orefici_duomo_municipio_1_milano_mi_lom_20123_italia_11> a cmo:BikeRental ;
+    rdfs:label "BikeMi, Duomo, Via Orefici, Duomo, Municipio 1, Milano, MI, LOM, 20123, Italia" ;
+    cmo:addressOfTransportSystemStation "Duomo, Via Orefici, Duomo, Municipio 1, Milano, MI, LOM, 20123, Italia" ;
+    cmo:latitude "45.4620583"^^xsd:float ;
+    cmo:longitude "9.191476"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_duomo_via_orefici_duomo_municipio_1_milano_mi_lom_20123_italia_12> a cmo:BikeRental ;
+    rdfs:label "BikeMi, Duomo, Via Orefici, Duomo, Municipio 1, Milano, MI, LOM, 20123, Italia" ;
+    cmo:addressOfTransportSystemStation "Duomo, Via Orefici, Duomo, Municipio 1, Milano, MI, LOM, 20123, Italia" ;
+    cmo:latitude "45.4669154"^^xsd:float ;
+    cmo:longitude "9.1915233"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_duomo_via_orefici_duomo_municipio_1_milano_mi_lom_20123_italia_2> a cmo:BikeRental ;
+    rdfs:label "BikeMi, Duomo, Via Orefici, Duomo, Municipio 1, Milano, MI, LOM, 20123, Italia" ;
+    cmo:addressOfTransportSystemStation "Duomo, Via Orefici, Duomo, Municipio 1, Milano, MI, LOM, 20123, Italia" ;
+    cmo:latitude "45.4600479"^^xsd:float ;
+    cmo:longitude "9.1902164"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_duomo_via_orefici_duomo_municipio_1_milano_mi_lom_20123_italia_3> a cmo:BikeRental ;
+    rdfs:label "BikeMi, Duomo, Via Orefici, Duomo, Municipio 1, Milano, MI, LOM, 20123, Italia" ;
+    cmo:addressOfTransportSystemStation "Duomo, Via Orefici, Duomo, Municipio 1, Milano, MI, LOM, 20123, Italia" ;
+    cmo:latitude "45.4613253"^^xsd:float ;
+    cmo:longitude "9.1883214"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_duomo_via_orefici_duomo_municipio_1_milano_mi_lom_20123_italia_4> a cmo:BikeRental ;
+    rdfs:label "BikeMi, Duomo, Via Orefici, Duomo, Municipio 1, Milano, MI, LOM, 20123, Italia" ;
+    cmo:addressOfTransportSystemStation "Duomo, Via Orefici, Duomo, Municipio 1, Milano, MI, LOM, 20123, Italia" ;
+    cmo:latitude "45.4591269"^^xsd:float ;
+    cmo:longitude "9.1897416"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_duomo_via_orefici_duomo_municipio_1_milano_mi_lom_20123_italia_5> a cmo:BikeRental ;
+    rdfs:label "BikeMi, Duomo, Via Orefici, Duomo, Municipio 1, Milano, MI, LOM, 20123, Italia" ;
+    cmo:addressOfTransportSystemStation "Duomo, Via Orefici, Duomo, Municipio 1, Milano, MI, LOM, 20123, Italia" ;
+    cmo:latitude "45.4642167"^^xsd:float ;
+    cmo:longitude "9.1867"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_duomo_via_orefici_duomo_municipio_1_milano_mi_lom_20123_italia_6> a cmo:BikeRental ;
+    rdfs:label "BikeMi, Duomo, Via Orefici, Duomo, Municipio 1, Milano, MI, LOM, 20123, Italia" ;
+    cmo:addressOfTransportSystemStation "Duomo, Via Orefici, Duomo, Municipio 1, Milano, MI, LOM, 20123, Italia" ;
+    cmo:latitude "45.4643503"^^xsd:float ;
+    cmo:longitude "9.183645"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_duomo_via_orefici_duomo_municipio_1_milano_mi_lom_20123_italia_7> a cmo:BikeRental ;
+    rdfs:label "BikeMi, Duomo, Via Orefici, Duomo, Municipio 1, Milano, MI, LOM, 20123, Italia" ;
+    cmo:addressOfTransportSystemStation "Duomo, Via Orefici, Duomo, Municipio 1, Milano, MI, LOM, 20123, Italia" ;
+    cmo:latitude "45.4630945"^^xsd:float ;
+    cmo:longitude "9.1898867"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_duomo_via_orefici_duomo_municipio_1_milano_mi_lom_20123_italia_8> a cmo:BikeRental ;
+    rdfs:label "BikeMi, Duomo, Via Orefici, Duomo, Municipio 1, Milano, MI, LOM, 20123, Italia" ;
+    cmo:addressOfTransportSystemStation "Duomo, Via Orefici, Duomo, Municipio 1, Milano, MI, LOM, 20123, Italia" ;
+    cmo:latitude "45.4585296"^^xsd:float ;
+    cmo:longitude "9.1875342"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_duomo_via_orefici_duomo_municipio_1_milano_mi_lom_20123_italia_9> a cmo:BikeRental ;
+    rdfs:label "BikeMi, Duomo, Via Orefici, Duomo, Municipio 1, Milano, MI, LOM, 20123, Italia" ;
+    cmo:addressOfTransportSystemStation "Duomo, Via Orefici, Duomo, Municipio 1, Milano, MI, LOM, 20123, Italia" ;
+    cmo:latitude "45.463784"^^xsd:float ;
+    cmo:longitude "9.193062"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_ex_om__morivione_via_morivione_vigentino_milano_mi_lom_20141_italia> a cmo:BikeRental ;
+    rdfs:label "BikeMi, Ex Om - Morivione, Via Morivione, Vigentino, Milano, MI, LOM, 20141, Italia" ;
+    cmo:addressOfTransportSystemStation "Ex Om - Morivione, Via Morivione, Vigentino, Milano, MI, LOM, 20141, Italia" ;
+    cmo:latitude "45.4433288"^^xsd:float ;
+    cmo:longitude "9.1984425"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_friuli_via_friuli_porta_romana_milano_mi_lom_20135_italia> a cmo:BikeRental ;
+    rdfs:label "BikeMI, Friuli, Via Friuli, Porta Romana, Milano, MI, LOM, 20135, Italia" ;
+    cmo:addressOfTransportSystemStation "Friuli, Via Friuli, Porta Romana, Milano, MI, LOM, 20135, Italia" ;
+    cmo:latitude "45.4548329"^^xsd:float ;
+    cmo:longitude "9.2136403"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMI" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_gadio_viale_gerolamo_gadio_castello_porta_sempione_milano_mi_lom_20123_italia> a cmo:BikeRental ;
+    rdfs:label "BikeMi, Gadio, Viale Gerolamo Gadio, Castello, Porta Sempione, Milano, MI, LOM, 20123, Italia" ;
+    cmo:addressOfTransportSystemStation "Gadio, Viale Gerolamo Gadio, Castello, Porta Sempione, Milano, MI, LOM, 20123, Italia" ;
+    cmo:latitude "45.4700677"^^xsd:float ;
+    cmo:longitude "9.1756193"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_galvani_m_gioia_via_melchiorre_gioia_centro_direzionale_municipio_9_milano_mi_lom_20124_italia> a cmo:BikeRental ;
+    rdfs:label "bikeMi, Galvani M. Gioia, Via Melchiorre Gioia, Centro Direzionale, Municipio 9, Milano, MI, LOM, 20124, Italia" ;
+    cmo:addressOfTransportSystemStation "Galvani M. Gioia, Via Melchiorre Gioia, Centro Direzionale, Municipio 9, Milano, MI, LOM, 20124, Italia" ;
+    cmo:latitude "45.4866645"^^xsd:float ;
+    cmo:longitude "9.1979372"^^xsd:float ;
+    cmo:organizationOfTransportSystem "bikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_galvani_restelli_via_luigi_galvani_abbadesse_isola_milano_mi_lom_20124_italia> a cmo:BikeRental ;
+    rdfs:label "BikeMi, Galvani Restelli, Via Luigi Galvani, Abbadesse, Isola, Milano, MI, LOM, 20124, Italia" ;
+    cmo:addressOfTransportSystemStation "Galvani Restelli, Via Luigi Galvani, Abbadesse, Isola, Milano, MI, LOM, 20124, Italia" ;
+    cmo:latitude "45.4876447"^^xsd:float ;
+    cmo:longitude "9.1967664"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_garibaldi_repubblica_piazza_gae_aulenti_municipio_9_milano_mi_lom_20159_italia> a cmo:BikeRental ;
+    rdfs:label "BikeMi, GARIBALDI REPUBBLICA, Piazza Gae Aulenti, Municipio 9, Milano, MI, LOM, 20159, Italia" ;
+    cmo:addressOfTransportSystemStation "GARIBALDI REPUBBLICA, Piazza Gae Aulenti, Municipio 9, Milano, MI, LOM, 20159, Italia" ;
+    cmo:latitude "45.4840439"^^xsd:float ;
+    cmo:longitude "9.1958492"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_garibaldi_repubblica_piazza_gae_aulenti_municipio_9_milano_mi_lom_20159_italia_1> a cmo:BikeRental ;
+    rdfs:label "BikeMi, GARIBALDI REPUBBLICA, Piazza Gae Aulenti, Municipio 9, Milano, MI, LOM, 20159, Italia" ;
+    cmo:addressOfTransportSystemStation "GARIBALDI REPUBBLICA, Piazza Gae Aulenti, Municipio 9, Milano, MI, LOM, 20159, Italia" ;
+    cmo:latitude "45.4846499"^^xsd:float ;
+    cmo:longitude "9.1947328"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_garibaldi_repubblica_piazza_gae_aulenti_municipio_9_milano_mi_lom_20159_italia_2> a cmo:BikeRental ;
+    rdfs:label "BikeMi, GARIBALDI REPUBBLICA, Piazza Gae Aulenti, Municipio 9, Milano, MI, LOM, 20159, Italia" ;
+    cmo:addressOfTransportSystemStation "GARIBALDI REPUBBLICA, Piazza Gae Aulenti, Municipio 9, Milano, MI, LOM, 20159, Italia" ;
+    cmo:latitude "45.4866961"^^xsd:float ;
+    cmo:longitude "9.1850287"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_garibaldi_repubblica_piazza_gae_aulenti_municipio_9_milano_mi_lom_20159_italia_3> a cmo:BikeRental ;
+    rdfs:label "BikeMi, GARIBALDI REPUBBLICA, Piazza Gae Aulenti, Municipio 9, Milano, MI, LOM, 20159, Italia" ;
+    cmo:addressOfTransportSystemStation "GARIBALDI REPUBBLICA, Piazza Gae Aulenti, Municipio 9, Milano, MI, LOM, 20159, Italia" ;
+    cmo:latitude "45.4837301"^^xsd:float ;
+    cmo:longitude "9.1884247"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_giardini_porta_venezia_bastioni_di_porta_venezia_porta_venezia_milano_mi_lom_20124_italia> a cmo:BikeRental ;
+    rdfs:label "BikeMi, Giardini Porta Venezia, Bastioni di Porta Venezia, Porta Venezia, Milano, MI, LOM, 20124, Italia" ;
+    cmo:addressOfTransportSystemStation "Giardini Porta Venezia, Bastioni di Porta Venezia, Porta Venezia, Milano, MI, LOM, 20124, Italia" ;
+    cmo:latitude "45.4746262"^^xsd:float ;
+    cmo:longitude "9.2045327"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_giardini_porta_venezia_bastioni_di_porta_venezia_porta_venezia_milano_mi_lom_20124_italia_1> a cmo:BikeRental ;
+    rdfs:label "BikeMi, Giardini Porta Venezia, Bastioni di Porta Venezia, Porta Venezia, Milano, MI, LOM, 20124, Italia" ;
+    cmo:addressOfTransportSystemStation "Giardini Porta Venezia, Bastioni di Porta Venezia, Porta Venezia, Milano, MI, LOM, 20124, Italia" ;
+    cmo:latitude "45.4724143"^^xsd:float ;
+    cmo:longitude "9.2015675"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_giardini_porta_venezia_bastioni_di_porta_venezia_porta_venezia_milano_mi_lom_20124_italia_2> a cmo:BikeRental ;
+    rdfs:label "BikeMi, Giardini Porta Venezia, Bastioni di Porta Venezia, Porta Venezia, Milano, MI, LOM, 20124, Italia" ;
+    cmo:addressOfTransportSystemStation "Giardini Porta Venezia, Bastioni di Porta Venezia, Porta Venezia, Milano, MI, LOM, 20124, Italia" ;
+    cmo:latitude "45.4759428"^^xsd:float ;
+    cmo:longitude "9.2005509"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_giardini_porta_venezia_bastioni_di_porta_venezia_porta_venezia_milano_mi_lom_20124_italia_3> a cmo:BikeRental ;
+    rdfs:label "BikeMi, Giardini Porta Venezia, Bastioni di Porta Venezia, Porta Venezia, Milano, MI, LOM, 20124, Italia" ;
+    cmo:addressOfTransportSystemStation "Giardini Porta Venezia, Bastioni di Porta Venezia, Porta Venezia, Milano, MI, LOM, 20124, Italia" ;
+    cmo:latitude "45.4723043"^^xsd:float ;
+    cmo:longitude "9.2017968"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_govone_borgese_via_giuseppe_antonio_borgese_bullona_milano_mi_lom_20155_italia> a cmo:BikeRental ;
+    rdfs:label "BikeMi, Govone Borgese, Via Giuseppe Antonio Borgese, Bullona, Milano, MI, LOM, 20155, Italia" ;
+    cmo:addressOfTransportSystemStation "Govone Borgese, Via Giuseppe Antonio Borgese, Bullona, Milano, MI, LOM, 20155, Italia" ;
+    cmo:latitude "45.4883593"^^xsd:float ;
+    cmo:longitude "9.1689773"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_guastalla_via_filippo_corridoni_porta_vittoria_milano_mi_lom_20122_italia> a cmo:BikeRental ;
+    rdfs:label "BikeMi, Guastalla, Via Filippo Corridoni, Porta Vittoria, Milano, MI, LOM, 20122, Italia" ;
+    cmo:addressOfTransportSystemStation "Guastalla, Via Filippo Corridoni, Porta Vittoria, Milano, MI, LOM, 20122, Italia" ;
+    cmo:latitude "45.4582267"^^xsd:float ;
+    cmo:longitude "9.2052971"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_guastalla_via_filippo_corridoni_porta_vittoria_milano_mi_lom_20122_italia_1> a cmo:BikeRental ;
+    rdfs:label "BikeMi, Guastalla, Via Filippo Corridoni, Porta Vittoria, Milano, MI, LOM, 20122, Italia" ;
+    cmo:addressOfTransportSystemStation "Guastalla, Via Filippo Corridoni, Porta Vittoria, Milano, MI, LOM, 20122, Italia" ;
+    cmo:latitude "45.4623863"^^xsd:float ;
+    cmo:longitude "9.2012832"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_guastalla_via_filippo_corridoni_porta_vittoria_milano_mi_lom_20122_italia_2> a cmo:BikeRental ;
+    rdfs:label "BikeMi, Guastalla, Via Filippo Corridoni, Porta Vittoria, Milano, MI, LOM, 20122, Italia" ;
+    cmo:addressOfTransportSystemStation "Guastalla, Via Filippo Corridoni, Porta Vittoria, Milano, MI, LOM, 20122, Italia" ;
+    cmo:latitude "45.4626591"^^xsd:float ;
+    cmo:longitude "9.2068648"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_guastalla_via_filippo_corridoni_porta_vittoria_milano_mi_lom_20122_italia_3> a cmo:BikeRental ;
+    rdfs:label "BikeMi, Guastalla, Via Filippo Corridoni, Porta Vittoria, Milano, MI, LOM, 20122, Italia" ;
+    cmo:addressOfTransportSystemStation "Guastalla, Via Filippo Corridoni, Porta Vittoria, Milano, MI, LOM, 20122, Italia" ;
+    cmo:latitude "45.4606019"^^xsd:float ;
+    cmo:longitude "9.2054419"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_guastalla_via_filippo_corridoni_porta_vittoria_milano_mi_lom_20122_italia_4> a cmo:BikeRental ;
+    rdfs:label "BikeMi, Guastalla, Via Filippo Corridoni, Porta Vittoria, Milano, MI, LOM, 20122, Italia" ;
+    cmo:addressOfTransportSystemStation "Guastalla, Via Filippo Corridoni, Porta Vittoria, Milano, MI, LOM, 20122, Italia" ;
+    cmo:latitude "45.4581035"^^xsd:float ;
+    cmo:longitude "9.2006126"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_guastalla_via_filippo_corridoni_porta_vittoria_milano_mi_lom_20122_italia_5> a cmo:BikeRental ;
+    rdfs:label "BikeMi, Guastalla, Via Filippo Corridoni, Porta Vittoria, Milano, MI, LOM, 20122, Italia" ;
+    cmo:addressOfTransportSystemStation "Guastalla, Via Filippo Corridoni, Porta Vittoria, Milano, MI, LOM, 20122, Italia" ;
+    cmo:latitude "45.465394"^^xsd:float ;
+    cmo:longitude "9.2030901"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_guastalla_via_filippo_corridoni_porta_vittoria_milano_mi_lom_20122_italia_6> a cmo:BikeRental ;
+    rdfs:label "BikeMi, Guastalla, Via Filippo Corridoni, Porta Vittoria, Milano, MI, LOM, 20122, Italia" ;
+    cmo:addressOfTransportSystemStation "Guastalla, Via Filippo Corridoni, Porta Vittoria, Milano, MI, LOM, 20122, Italia" ;
+    cmo:latitude "45.4673693"^^xsd:float ;
+    cmo:longitude "9.2044618"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_istria_m5_fulvio_testi_piazzale_istria_zona_zara_municipio_2_milano_mi_lom_20125_italia> a cmo:BikeRental ;
+    rdfs:label "BikeMi, Istria M5 Fulvio Testi, Piazzale Istria, Zona Zara, Municipio 2, Milano, MI, LOM, 20125, Italia" ;
+    cmo:addressOfTransportSystemStation "Istria M5 Fulvio Testi, Piazzale Istria, Zona Zara, Municipio 2, Milano, MI, LOM, 20125, Italia" ;
+    cmo:latitude "45.5017091"^^xsd:float ;
+    cmo:longitude "9.1983267"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_lodi__corvetto_via_fabio_massimo_corvetto_nosedo_mi_lom_20139_italia> a cmo:BikeRental ;
+    rdfs:label "Bikemi, Lodi - Corvetto, Via Fabio Massimo, Corvetto, Nosedo, MI, LOM, 20139, Italia" ;
+    cmo:addressOfTransportSystemStation "Lodi - Corvetto, Via Fabio Massimo, Corvetto, Nosedo, MI, LOM, 20139, Italia" ;
+    cmo:latitude "45.4371477"^^xsd:float ;
+    cmo:longitude "9.2241581"^^xsd:float ;
+    cmo:organizationOfTransportSystem "Bikemi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_lombardia__vallazze_32_viale_lombardia_citta_studi_milano_mi_lom_20131_italia> a cmo:BikeRental ;
+    rdfs:label "BikeMi, Lombardia - Vallazze, 32, Viale Lombardia, Città Studi, Milano, MI, LOM, 20131, Italia" ;
+    cmo:addressOfTransportSystemStation "Lombardia - Vallazze, 32, Viale Lombardia, Città Studi, Milano, MI, LOM, 20131, Italia" ;
+    cmo:latitude "45.4840333"^^xsd:float ;
+    cmo:longitude "9.2237305"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_magenta__san_vittore_via_bernardino_zenale_san_vittore_porta_vercellina_milano_mi_lom_20123_italia> a cmo:BikeRental ;
+    rdfs:label "BikeMi, Magenta - San Vittore, Via Bernardino Zenale, San Vittore, Porta Vercellina, Milano, MI, LOM, 20123, Italia" ;
+    cmo:addressOfTransportSystemStation "Magenta - San Vittore, Via Bernardino Zenale, San Vittore, Porta Vercellina, Milano, MI, LOM, 20123, Italia" ;
+    cmo:latitude "45.4638978"^^xsd:float ;
+    cmo:longitude "9.1688727"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_magenta__san_vittore_via_bernardino_zenale_san_vittore_porta_vercellina_milano_mi_lom_20123_italia_1> a cmo:BikeRental ;
+    rdfs:label "BikeMi, Magenta - San Vittore, Via Bernardino Zenale, San Vittore, Porta Vercellina, Milano, MI, LOM, 20123, Italia" ;
+    cmo:addressOfTransportSystemStation "Magenta - San Vittore, Via Bernardino Zenale, San Vittore, Porta Vercellina, Milano, MI, LOM, 20123, Italia" ;
+    cmo:latitude "45.4676827"^^xsd:float ;
+    cmo:longitude "9.1669428"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_magenta__san_vittore_via_bernardino_zenale_san_vittore_porta_vercellina_milano_mi_lom_20123_italia_2> a cmo:BikeRental ;
+    rdfs:label "BikeMi, Magenta - San Vittore, Via Bernardino Zenale, San Vittore, Porta Vercellina, Milano, MI, LOM, 20123, Italia" ;
+    cmo:addressOfTransportSystemStation "Magenta - San Vittore, Via Bernardino Zenale, San Vittore, Porta Vercellina, Milano, MI, LOM, 20123, Italia" ;
+    cmo:latitude "45.4667149"^^xsd:float ;
+    cmo:longitude "9.1696197"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_magenta__san_vittore_via_bernardino_zenale_san_vittore_porta_vercellina_milano_mi_lom_20123_italia_3> a cmo:BikeRental ;
+    rdfs:label "BikeMi, Magenta - San Vittore, Via Bernardino Zenale, San Vittore, Porta Vercellina, Milano, MI, LOM, 20123, Italia" ;
+    cmo:addressOfTransportSystemStation "Magenta - San Vittore, Via Bernardino Zenale, San Vittore, Porta Vercellina, Milano, MI, LOM, 20123, Italia" ;
+    cmo:latitude "45.4664718"^^xsd:float ;
+    cmo:longitude "9.1650658"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_majno_via_giuseppe_baretti_porta_venezia_milano_mi_lom_20129_italia> a cmo:BikeRental ;
+    rdfs:label "BikeMi, Majno, Via Giuseppe Baretti, Porta Venezia, Milano, MI, LOM, 20129, Italia" ;
+    cmo:addressOfTransportSystemStation "Majno, Via Giuseppe Baretti, Porta Venezia, Milano, MI, LOM, 20129, Italia" ;
+    cmo:latitude "45.4714918"^^xsd:float ;
+    cmo:longitude "9.204995"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_manzoni_piazza_santerasmo_borgonuovo_municipio_1_milano_mi_lom_20121_italia> a cmo:BikeRental ;
+    rdfs:label "BikeMi, Manzoni, Piazza Sant'Erasmo, Borgonuovo, Municipio 1, Milano, MI, LOM, 20121, Italia" ;
+    cmo:addressOfTransportSystemStation "Manzoni, Piazza Sant'Erasmo, Borgonuovo, Municipio 1, Milano, MI, LOM, 20121, Italia" ;
+    cmo:latitude "45.4711606"^^xsd:float ;
+    cmo:longitude "9.1924351"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_marussig_castelvetro_via_pietro_marussig_bullona_milano_mi_lom_20155_italia> a cmo:BikeRental ;
+    rdfs:label "BikeMi, Marussig Castelvetro, Via Pietro Marussig, Bullona, Milano, MI, LOM, 20155, Italia" ;
+    cmo:addressOfTransportSystemStation "Marussig Castelvetro, Via Pietro Marussig, Bullona, Milano, MI, LOM, 20155, Italia" ;
+    cmo:latitude "45.4863258"^^xsd:float ;
+    cmo:longitude "9.1661428"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_melzi_deril_cagnola_via_francesco_melzi_deril_borgo_degli_ortolani_porta_sempione_milano_mi_lom_20154_italia> a cmo:BikeRental ;
+    rdfs:label "BikeMi, Melzi D'Eril Cagnola, Via Francesco Melzi d'Eril, Borgo degli Ortolani, Porta Sempione, Milano, MI, LOM, 20154, Italia" ;
+    cmo:addressOfTransportSystemStation "Melzi D'Eril Cagnola, Via Francesco Melzi d'Eril, Borgo degli Ortolani, Porta Sempione, Milano, MI, LOM, 20154, Italia" ;
+    cmo:latitude "45.4783104"^^xsd:float ;
+    cmo:longitude "9.172932"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_naviglio_pavese__torricelli_via_evangelista_torricelli_borgo_san_gottardo_municipio_5_milano_mi_lom_20136_italia> a cmo:BikeRental ;
+    rdfs:label "BikeMi, Naviglio Pavese - Torricelli, Via Evangelista Torricelli, Borgo San Gottardo, Municipio 5, Milano, MI, LOM, 20136, Italia" ;
+    cmo:addressOfTransportSystemStation "Naviglio Pavese - Torricelli, Via Evangelista Torricelli, Borgo San Gottardo, Municipio 5, Milano, MI, LOM, 20136, Italia" ;
+    cmo:latitude "45.4442125"^^xsd:float ;
+    cmo:longitude "9.1763735"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_pagano_via_vincenzo_monti_zona_pagano_municipio_1_milano_mi_lom_20145_italia> a cmo:BikeRental ;
+    rdfs:label "BikeMi, Pagano, Via Vincenzo Monti, Zona Pagano, Municipio 1, Milano, MI, LOM, 20145, Italia" ;
+    cmo:addressOfTransportSystemStation "Pagano, Via Vincenzo Monti, Zona Pagano, Municipio 1, Milano, MI, LOM, 20145, Italia" ;
+    cmo:latitude "45.4794602"^^xsd:float ;
+    cmo:longitude "9.1667709"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_pagano_via_vincenzo_monti_zona_pagano_municipio_1_milano_mi_lom_20145_italia_1> a cmo:BikeRental ;
+    rdfs:label "BikeMi, Pagano, Via Vincenzo Monti, Zona Pagano, Municipio 1, Milano, MI, LOM, 20145, Italia" ;
+    cmo:addressOfTransportSystemStation "Pagano, Via Vincenzo Monti, Zona Pagano, Municipio 1, Milano, MI, LOM, 20145, Italia" ;
+    cmo:latitude "45.4748871"^^xsd:float ;
+    cmo:longitude "9.1642326"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_pagano_via_vincenzo_monti_zona_pagano_municipio_1_milano_mi_lom_20145_italia_2> a cmo:BikeRental ;
+    rdfs:label "BikeMi, Pagano, Via Vincenzo Monti, Zona Pagano, Municipio 1, Milano, MI, LOM, 20145, Italia" ;
+    cmo:addressOfTransportSystemStation "Pagano, Via Vincenzo Monti, Zona Pagano, Municipio 1, Milano, MI, LOM, 20145, Italia" ;
+    cmo:latitude "45.4768568"^^xsd:float ;
+    cmo:longitude "9.1603902"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_parco_sempione_viale_alessandro_puskin_porta_sempione_milano_mi_lom_20154_italia> a cmo:BikeRental ;
+    rdfs:label "BikeMi, Parco Sempione, Viale Alessandro Puskin, Porta Sempione, Milano, MI, LOM, 20154, Italia" ;
+    cmo:addressOfTransportSystemStation "Parco Sempione, Viale Alessandro Puskin, Porta Sempione, Milano, MI, LOM, 20154, Italia" ;
+    cmo:latitude "45.471778"^^xsd:float ;
+    cmo:longitude "9.1734995"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_parco_sempione_viale_alessandro_puskin_porta_sempione_milano_mi_lom_20154_italia_1> a cmo:BikeRental ;
+    rdfs:label "BikeMi, Parco Sempione, Viale Alessandro Puskin, Porta Sempione, Milano, MI, LOM, 20154, Italia" ;
+    cmo:addressOfTransportSystemStation "Parco Sempione, Viale Alessandro Puskin, Porta Sempione, Milano, MI, LOM, 20154, Italia" ;
+    cmo:latitude "45.4750035"^^xsd:float ;
+    cmo:longitude "9.1716669"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_piazza_del_duomo_1_33051_duomo_municipio_1_milano_mi_lom_2021_italia> a cmo:BikeRental ;
+    rdfs:label "BikeMi, Piazza del Duomo, 1_33051, Duomo, Municipio 1, Milano, MI, LOM, 2021, Italia" ;
+    cmo:addressOfTransportSystemStation "Piazza del Duomo, 1_33051, Duomo, Municipio 1, Milano, MI, LOM, 2021, Italia" ;
+    cmo:latitude "45.464741"^^xsd:float ;
+    cmo:longitude "9.1891099"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_piazzi_bernina_via_giuseppe_piazzi_zona_farini_municipio_9_milano_mi_lom_20158_italia> a cmo:BikeRental ;
+    rdfs:label "BikeMi, Piazzi Bernina, Via Giuseppe Piazzi, Zona Farini, Municipio 9, Milano, MI, LOM, 20158, Italia" ;
+    cmo:addressOfTransportSystemStation "Piazzi Bernina, Via Giuseppe Piazzi, Zona Farini, Municipio 9, Milano, MI, LOM, 20158, Italia" ;
+    cmo:latitude "45.4945101"^^xsd:float ;
+    cmo:longitude "9.1810278"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_pizza_dergano_piazza_dergano_dergano_milano_mi_lom_20158_italia> a cmo:BikeRental ;
+    rdfs:label "BikeMi, Pizza Dergano, Piazza Dergano, Dergano, Milano, MI, LOM, 20158, Italia" ;
+    cmo:addressOfTransportSystemStation "Pizza Dergano, Piazza Dergano, Dergano, Milano, MI, LOM, 20158, Italia" ;
+    cmo:latitude "45.5031539"^^xsd:float ;
+    cmo:longitude "9.1768873"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_porta_romana_corso_lodi_porta_romana_milano_mi_lom_20135_italia> a cmo:BikeRental ;
+    rdfs:label "BikeMi, Porta Romana, Corso Lodi, Porta Romana, Milano, MI, LOM, 20135, Italia" ;
+    cmo:addressOfTransportSystemStation "Porta Romana, Corso Lodi, Porta Romana, Milano, MI, LOM, 20135, Italia" ;
+    cmo:latitude "45.4477483"^^xsd:float ;
+    cmo:longitude "9.2098749"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_porta_romana_corso_lodi_porta_romana_milano_mi_lom_20135_italia_1> a cmo:BikeRental ;
+    rdfs:label "BikeMi, Porta Romana, Corso Lodi, Porta Romana, Milano, MI, LOM, 20135, Italia" ;
+    cmo:addressOfTransportSystemStation "Porta Romana, Corso Lodi, Porta Romana, Milano, MI, LOM, 20135, Italia" ;
+    cmo:latitude "45.4512349"^^xsd:float ;
+    cmo:longitude "9.2041135"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_porta_romana_milano_mi_lom_italia> a cmo:BikeRental ;
+    rdfs:label "BikeMi, Porta Romana, Milano, MI, LOM, Italia" ;
+    cmo:addressOfTransportSystemStation "Porta Romana, Milano, MI, LOM, Italia" ;
+    cmo:latitude "45.4516242"^^xsd:float ;
+    cmo:longitude "9.2033435"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_porta_sempione_milano_mi_lom_italia> a cmo:BikeRental ;
+    rdfs:label "BikeMi, Porta Sempione, Milano, MI, LOM, Italia" ;
+    cmo:addressOfTransportSystemStation "Porta Sempione, Milano, MI, LOM, Italia" ;
+    cmo:latitude "45.4777906"^^xsd:float ;
+    cmo:longitude "9.1697854"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_porta_volta_bastioni_di_porta_volta_porta_volta_municipio_1_milano_mi_lom_20154_italia> a cmo:BikeRental ;
+    rdfs:label "BikeMi, Porta Volta, Bastioni di Porta Volta, Porta Volta, Municipio 1, Milano, MI, LOM, 20154, Italia" ;
+    cmo:addressOfTransportSystemStation "Porta Volta, Bastioni di Porta Volta, Porta Volta, Municipio 1, Milano, MI, LOM, 20154, Italia" ;
+    cmo:latitude "45.4801834"^^xsd:float ;
+    cmo:longitude "9.1823077"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_san_babila_piazza_san_babila_san_babila_municipio_1_milano_mi_lom_20122_italia> a cmo:BikeRental ;
+    rdfs:label "BikeMi, San Babila, Piazza San Babila, San Babila, Municipio 1, Milano, MI, LOM, 20122, Italia" ;
+    cmo:addressOfTransportSystemStation "San Babila, Piazza San Babila, San Babila, Municipio 1, Milano, MI, LOM, 20122, Italia" ;
+    cmo:latitude "45.4663424"^^xsd:float ;
+    cmo:longitude "9.1975911"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_san_marco_via_san_marco_san_marco_municipio_1_milano_mi_lom_20121_italia> a cmo:BikeRental ;
+    rdfs:label "BikeMi, San Marco, Via San Marco, San Marco, Municipio 1, Milano, MI, LOM, 20121, Italia" ;
+    cmo:addressOfTransportSystemStation "San Marco, Via San Marco, San Marco, Municipio 1, Milano, MI, LOM, 20121, Italia" ;
+    cmo:latitude "45.4787464"^^xsd:float ;
+    cmo:longitude "9.1892302"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_san_nazaro_in_brolo_piazza_san_nazaro_in_brolo_brolo_pantano_municipio_1_milano_mi_lom_20122_italia> a cmo:BikeRental ;
+    rdfs:label "BikeMi, San Nazaro in Brolo, Piazza San Nazaro in Brolo, Brolo-Pantano, Municipio 1, Milano, MI, LOM, 20122, Italia" ;
+    cmo:addressOfTransportSystemStation "San Nazaro in Brolo, Piazza San Nazaro in Brolo, Brolo-Pantano, Municipio 1, Milano, MI, LOM, 20122, Italia" ;
+    cmo:latitude "45.4582905"^^xsd:float ;
+    cmo:longitude "9.1926554"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_santagostino_via_numa_pompilio_san_vittore_municipio_1_milano_mi_lom_20144_italia> a cmo:BikeRental ;
+    rdfs:label "BikeMi, Sant'Agostino, Via Numa Pompilio, San Vittore, Municipio 1, Milano, MI, LOM, 20144, Italia" ;
+    cmo:addressOfTransportSystemStation "Sant'Agostino, Via Numa Pompilio, San Vittore, Municipio 1, Milano, MI, LOM, 20144, Italia" ;
+    cmo:latitude "45.4588927"^^xsd:float ;
+    cmo:longitude "9.1695553"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_santissima_trinita_via_cesare_cesariano_borgo_degli_ortolani_municipio_1_milano_mi_lom_20154_italia> a cmo:BikeRental ;
+    rdfs:label "BikeMi, Santissima Trinità, Via Cesare Cesariano, Borgo degli Ortolani, Municipio 1, Milano, MI, LOM, 20154, Italia" ;
+    cmo:addressOfTransportSystemStation "Santissima Trinità, Via Cesare Cesariano, Borgo degli Ortolani, Municipio 1, Milano, MI, LOM, 20154, Italia" ;
+    cmo:latitude "45.4781051"^^xsd:float ;
+    cmo:longitude "9.1763368"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_santo_stefano_piazza_santo_stefano_verziere_municipio_1_milano_mi_lom_20122_italia> a cmo:BikeRental ;
+    rdfs:label "BikeMi, Santo Stefano, Piazza Santo Stefano, Verziere, Municipio 1, Milano, MI, LOM, 20122, Italia" ;
+    cmo:addressOfTransportSystemStation "Santo Stefano, Piazza Santo Stefano, Verziere, Municipio 1, Milano, MI, LOM, 20122, Italia" ;
+    cmo:latitude "45.4623693"^^xsd:float ;
+    cmo:longitude "9.1953077"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_sarpi_via_giovanni_battista_bertini_chinatown_municipio_8_milano_mi_lom_20154_italia> a cmo:BikeRental ;
+    rdfs:label "BikeMi, Sarpi, Via Giovanni Battista Bertini, Chinatown, Municipio 8, Milano, MI, LOM, 20154, Italia" ;
+    cmo:addressOfTransportSystemStation "Sarpi, Via Giovanni Battista Bertini, Chinatown, Municipio 8, Milano, MI, LOM, 20154, Italia" ;
+    cmo:latitude "45.4810058"^^xsd:float ;
+    cmo:longitude "9.172271"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_sarpi_via_giovanni_battista_bertini_chinatown_municipio_8_milano_mi_lom_20154_italia_1> a cmo:BikeRental ;
+    rdfs:label "BikeMi, Sarpi, Via Giovanni Battista Bertini, Chinatown, Municipio 8, Milano, MI, LOM, 20154, Italia" ;
+    cmo:addressOfTransportSystemStation "Sarpi, Via Giovanni Battista Bertini, Chinatown, Municipio 8, Milano, MI, LOM, 20154, Italia" ;
+    cmo:latitude "45.4839249"^^xsd:float ;
+    cmo:longitude "9.1772921"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_scalo_romana_via_giuseppe_scalarini_vigentino_milano_mi_lom_20139_italia> a cmo:BikeRental ;
+    rdfs:label "BikeMi, Scalo Romana, Via Giuseppe Scalarini, Vigentino, Milano, MI, LOM, 20139, Italia" ;
+    cmo:addressOfTransportSystemStation "Scalo Romana, Via Giuseppe Scalarini, Vigentino, Milano, MI, LOM, 20139, Italia" ;
+    cmo:latitude "45.4407012"^^xsd:float ;
+    cmo:longitude "9.2133031"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_stazione_greco_pirelli_piazzale_egeo_bicocca_milano_mi_lom_20126_italia> a cmo:BikeRental ;
+    rdfs:label "BikeMi, Stazione Greco Pirelli, Piazzale Egeo, Bicocca, Milano, MI, LOM, 20126, Italia" ;
+    cmo:addressOfTransportSystemStation "Stazione Greco Pirelli, Piazzale Egeo, Bicocca, Milano, MI, LOM, 20126, Italia" ;
+    cmo:latitude "45.5127864"^^xsd:float ;
+    cmo:longitude "9.2135425"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_taramelli_regione_lombardia_via_torquato_taramelli_abbadesse_municipio_2_milano_mi_lom_20159_italia> a cmo:BikeRental ;
+    rdfs:label "BikeMi, Taramelli Regione Lombardia, Via Torquato Taramelli, Abbadesse, Municipio 2, Milano, MI, LOM, 20159, Italia" ;
+    cmo:addressOfTransportSystemStation "Taramelli Regione Lombardia, Via Torquato Taramelli, Abbadesse, Municipio 2, Milano, MI, LOM, 20159, Italia" ;
+    cmo:latitude "45.4907652"^^xsd:float ;
+    cmo:longitude "9.1938239"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_temolo_innovazione_piazza_del_calendario_segnanino_segnano_milano_mi_lom_20126_italia> a cmo:BikeRental ;
+    rdfs:label "BikeMi, Temolo Innovazione, Piazza del Calendario, Segnanino, Segnano, Milano, MI, LOM, 20126, Italia" ;
+    cmo:addressOfTransportSystemStation "Temolo Innovazione, Piazza del Calendario, Segnanino, Segnano, Milano, MI, LOM, 20126, Italia" ;
+    cmo:latitude "45.5113412"^^xsd:float ;
+    cmo:longitude "9.2107325"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_ticinese_via_privata_giovanni_bertacchi_borgo_san_gottardo_porta_ticinese_milano_mi_lom_20136_italia> a cmo:BikeRental ;
+    rdfs:label "BikeMi, Ticinese, Via privata Giovanni Bertacchi, Borgo San Gottardo, Porta Ticinese, Milano, MI, LOM, 20136, Italia" ;
+    cmo:addressOfTransportSystemStation "Ticinese, Via privata Giovanni Bertacchi, Borgo San Gottardo, Porta Ticinese, Milano, MI, LOM, 20136, Italia" ;
+    cmo:latitude "45.4483345"^^xsd:float ;
+    cmo:longitude "9.1861165"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_tommaseo_piazza_niccolo_tommaseo_zona_pagano_municipio_1_milano_mi_lom_20145_italia> a cmo:BikeRental ;
+    rdfs:label "BikeMi, Tommaseo, Piazza Niccolò Tommaseo, Zona Pagano, Municipio 1, Milano, MI, LOM, 20145, Italia" ;
+    cmo:addressOfTransportSystemStation "Tommaseo, Piazza Niccolò Tommaseo, Zona Pagano, Municipio 1, Milano, MI, LOM, 20145, Italia" ;
+    cmo:latitude "45.4694678"^^xsd:float ;
+    cmo:longitude "9.166566"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_tre_torri_milano_mi_lom_italia> a cmo:BikeRental ;
+    rdfs:label "BikeMi, Tre Torri, Milano, MI, LOM, Italia" ;
+    cmo:addressOfTransportSystemStation "Tre Torri, Milano, MI, LOM, Italia" ;
+    cmo:latitude "45.4803512"^^xsd:float ;
+    cmo:longitude "9.1628129"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_tunisia_lecco_bellintani_largo_fra_paolo_bellintani_lazzaretto_municipio_3_milano_mi_lom_20124_italia> a cmo:BikeRental ;
+    rdfs:label "BikeMi, Tunisia Lecco Bellintani, Largo Fra Paolo Bellintani, Lazzaretto, Municipio 3, Milano, MI, LOM, 20124, Italia" ;
+    cmo:addressOfTransportSystemStation "Tunisia Lecco Bellintani, Largo Fra Paolo Bellintani, Lazzaretto, Municipio 3, Milano, MI, LOM, 20124, Italia" ;
+    cmo:latitude "45.4773991"^^xsd:float ;
+    cmo:longitude "9.2047256"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_valtellina_aprica_via_valtellina_zona_farini_municipio_9_milano_mi_lom_20159_italia> a cmo:BikeRental ;
+    rdfs:label "BikeMi, Valtellina Aprica, Via Valtellina, Zona Farini, Municipio 9, Milano, MI, LOM, 20159, Italia" ;
+    cmo:addressOfTransportSystemStation "Valtellina Aprica, Via Valtellina, Zona Farini, Municipio 9, Milano, MI, LOM, 20159, Italia" ;
+    cmo:latitude "45.4930892"^^xsd:float ;
+    cmo:longitude "9.1824584"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_via_maffucci__via_baldinucci_via_filippo_baldinucci_dergano_milano_mi_lom_20158_italia> a cmo:BikeRental ;
+    rdfs:label "BikeMi, Via Maffucci - Via Baldinucci, Via Filippo Baldinucci, Dergano, Milano, MI, LOM, 20158, Italia" ;
+    cmo:addressOfTransportSystemStation "Via Maffucci - Via Baldinucci, Via Filippo Baldinucci, Dergano, Milano, MI, LOM, 20158, Italia" ;
+    cmo:latitude "45.5034933"^^xsd:float ;
+    cmo:longitude "9.1692348"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_via_savona_foppette_municipio_6_milano_mi_lom_20143_italia> a cmo:BikeRental ;
+    rdfs:label "BikeMi, Via Savona, Foppette, Municipio 6, Milano, MI, LOM, 20143, Italia" ;
+    cmo:addressOfTransportSystemStation "BikeMi, Via Savona, Foppette, Municipio 6, Milano, MI, LOM, 20143, Italia" ;
+    cmo:latitude "45.4500075"^^xsd:float ;
+    cmo:longitude "9.1511918"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_vigentina_viale_bligny_porta_vigentina_municipio_5_milano_mi_lom_20136_italia> a cmo:BikeRental ;
+    rdfs:label "BikeMi, Vigentina, Viale Bligny, Porta Vigentina, Municipio 5, Milano, MI, LOM, 20136, Italia" ;
+    cmo:addressOfTransportSystemStation "Vigentina, Viale Bligny, Porta Vigentina, Municipio 5, Milano, MI, LOM, 20136, Italia" ;
+    cmo:latitude "45.4566148"^^xsd:float ;
+    cmo:longitude "9.1926977"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_vittadini_bligny_via_patellani_porta_vigentina_municipio_5_milano_mi_lom_20136_italia> a cmo:BikeRental ;
+    rdfs:label "BikeMi, Vittadini Bligny, via Patellani, Porta Vigentina, Municipio 5, Milano, MI, LOM, 20136, Italia" ;
+    cmo:addressOfTransportSystemStation "Vittadini Bligny, via Patellani, Porta Vigentina, Municipio 5, Milano, MI, LOM, 20136, Italia" ;
+    cmo:latitude "45.4511099"^^xsd:float ;
+    cmo:longitude "9.1941967"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_xxii_marzo_via_augusto_anfossi_porta_vittoria_milano_mi_lom_20135_italia> a cmo:BikeRental ;
+    rdfs:label "BikeMi, XXII Marzo, Via Augusto Anfossi, Porta Vittoria, Milano, MI, LOM, 20135, Italia" ;
+    cmo:addressOfTransportSystemStation "XXII Marzo, Via Augusto Anfossi, Porta Vittoria, Milano, MI, LOM, 20135, Italia" ;
+    cmo:latitude "45.4601302"^^xsd:float ;
+    cmo:longitude "9.2076571"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_xxii_marzo_via_augusto_anfossi_porta_vittoria_milano_mi_lom_20135_italia_1> a cmo:BikeRental ;
+    rdfs:label "BikeMi, XXII Marzo, Via Augusto Anfossi, Porta Vittoria, Milano, MI, LOM, 20135, Italia" ;
+    cmo:addressOfTransportSystemStation "XXII Marzo, Via Augusto Anfossi, Porta Vittoria, Milano, MI, LOM, 20135, Italia" ;
+    cmo:latitude "45.4621603"^^xsd:float ;
+    cmo:longitude "9.2124871"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_xxii_marzo_via_augusto_anfossi_porta_vittoria_milano_mi_lom_20135_italia_2> a cmo:BikeRental ;
+    rdfs:label "BikeMI, XXII Marzo, Via Augusto Anfossi, Porta Vittoria, Milano, MI, LOM, 20135, Italia" ;
+    cmo:addressOfTransportSystemStation "XXII Marzo, Via Augusto Anfossi, Porta Vittoria, Milano, MI, LOM, 20135, Italia" ;
+    cmo:latitude "45.462406"^^xsd:float ;
+    cmo:longitude "9.2160594"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMI" .
+
+<http://comune.milano.it/resource/bikeRental/bikemi_xxv_aprile_corso_giuseppe_garibaldi_municipio_1_milano_mi_lom_20121_italia> a cmo:BikeRental ;
+    rdfs:label "BikeMi, XXV Aprile, Corso Giuseppe Garibaldi, Municipio 1, Milano, MI, LOM, 20121, Italia" ;
+    cmo:addressOfTransportSystemStation "XXV Aprile, Corso Giuseppe Garibaldi, Municipio 1, Milano, MI, LOM, 20121, Italia" ;
+    cmo:latitude "45.4801965"^^xsd:float ;
+    cmo:longitude "9.1867205"^^xsd:float ;
+    cmo:organizationOfTransportSystem "BikeMi" .
+

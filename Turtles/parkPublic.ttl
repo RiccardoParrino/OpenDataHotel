@@ -1,0 +1,377 @@
+@prefix cmo: <http://www.comune.milano.it/ontology/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://comune.milano.it/resource/publicPark/bosco_di_bruzzano> a schema:Park ;
+    rdfs:label "BOSCO DI BRUZZANO" ;
+    cmo:latitude "45.52646370850584"^^xsd:float ;
+    cmo:longitude "9.18415948322579"^^xsd:float .
+
+<http://comune.milano.it/resource/publicPark/collina_dei_ciliegi> a schema:Park ;
+    rdfs:label "COLLINA DEI CILIEGI" ;
+    cmo:latitude "45.512347491977565"^^xsd:float ;
+    cmo:longitude "9.20900653712753"^^xsd:float .
+
+<http://comune.milano.it/resource/publicPark/giardini_pubblici_indro_montanelli> a schema:Park ;
+    rdfs:label "GIARDINI PUBBLICI INDRO MONTANELLI" ;
+    cmo:latitude "45.47330909619492"^^xsd:float ;
+    cmo:longitude "9.195885192328799"^^xsd:float .
+
+<http://comune.milano.it/resource/publicPark/giardino_alberto_moravia> a schema:Park ;
+    rdfs:label "GIARDINO ALBERTO MORAVIA" ;
+    cmo:latitude "45.457982104200255"^^xsd:float ;
+    cmo:longitude "9.124299620240816"^^xsd:float .
+
+<http://comune.milano.it/resource/publicPark/giardino_aldo_protti> a schema:Park ;
+    rdfs:label "GIARDINO ALDO PROTTI" ;
+    cmo:latitude "45.493764981351205"^^xsd:float ;
+    cmo:longitude "9.200642959664473"^^xsd:float .
+
+<http://comune.milano.it/resource/publicPark/giardino_antonio_cederna> a schema:Park ;
+    rdfs:label "GIARDINO ANTONIO CEDERNA" ;
+    cmo:latitude "45.49241919177306"^^xsd:float ;
+    cmo:longitude "9.166493146996256"^^xsd:float .
+
+<http://comune.milano.it/resource/publicPark/giardino_bruno_munari> a schema:Park ;
+    rdfs:label "GIARDINO BRUNO MUNARI" ;
+    cmo:latitude "45.49294011165672"^^xsd:float ;
+    cmo:longitude "9.185632970547758"^^xsd:float .
+
+<http://comune.milano.it/resource/publicPark/giardino_carmelo_bene> a schema:Park ;
+    rdfs:label "GIARDINO CARMELO BENE" ;
+    cmo:latitude "45.489486562919126"^^xsd:float ;
+    cmo:longitude "9.160813500404371"^^xsd:float .
+
+<http://comune.milano.it/resource/publicPark/giardino_cassina_de_pomm> a schema:Park ;
+    rdfs:label "GIARDINO CASSINA DE' POMM" ;
+    cmo:latitude "45.4972012831865"^^xsd:float ;
+    cmo:longitude "9.208568829482498"^^xsd:float .
+
+<http://comune.milano.it/resource/publicPark/giardino_della_guastalla> a schema:Park ;
+    rdfs:label "GIARDINO DELLA GUASTALLA" ;
+    cmo:latitude "45.45966272157733"^^xsd:float ;
+    cmo:longitude "9.19553569247881"^^xsd:float .
+
+<http://comune.milano.it/resource/publicPark/giardino_della_villa_belgiojoso_bonaparte> a schema:Park ;
+    rdfs:label "GIARDINO DELLA VILLA BELGIOJOSO BONAPARTE" ;
+    cmo:latitude "45.472632897763745"^^xsd:float ;
+    cmo:longitude "9.19928489993481"^^xsd:float .
+
+<http://comune.milano.it/resource/publicPark/giardino_di_via_stendhal> a schema:Park ;
+    rdfs:label "GIARDINO DI VIA STENDHAL" ;
+    cmo:latitude "45.453491641080234"^^xsd:float ;
+    cmo:longitude "9.15832500220941"^^xsd:float .
+
+<http://comune.milano.it/resource/publicPark/giardino_di_via_vigoni> a schema:Park ;
+    rdfs:label "GIARDINO DI VIA VIGONI" ;
+    cmo:latitude "45.45293243597819"^^xsd:float ;
+    cmo:longitude "9.194530617641897"^^xsd:float .
+
+<http://comune.milano.it/resource/publicPark/giardino_fondazione_riccardo_catella> a schema:Park ;
+    rdfs:label "GIARDINO FONDAZIONE RICCARDO CATELLA" ;
+    cmo:latitude "45.48523416736697"^^xsd:float ;
+    cmo:longitude "9.193829818438152"^^xsd:float .
+
+<http://comune.milano.it/resource/publicPark/giardino_gina_galeotti_bianchi> a schema:Park ;
+    rdfs:label "GIARDINO GINA GALEOTTI BIANCHI" ;
+    cmo:latitude "45.514453000317644"^^xsd:float ;
+    cmo:longitude "9.188050344934792"^^xsd:float .
+
+<http://comune.milano.it/resource/publicPark/giardino_gonin_giordani> a schema:Park ;
+    rdfs:label "GIARDINO GONIN GIORDANI" ;
+    cmo:latitude "45.44572975611787"^^xsd:float ;
+    cmo:longitude "9.122623003192746"^^xsd:float .
+
+<http://comune.milano.it/resource/publicPark/giardino_mario_capponi> a schema:Park ;
+    rdfs:label "GIARDINO MARIO CAPPONI" ;
+    cmo:latitude "45.443459525912054"^^xsd:float ;
+    cmo:longitude "9.185067325927404"^^xsd:float .
+
+<http://comune.milano.it/resource/publicPark/giardino_marisa_bellisario> a schema:Park ;
+    rdfs:label "GIARDINO MARISA BELLISARIO" ;
+    cmo:latitude "45.48992796592982"^^xsd:float ;
+    cmo:longitude "9.237706419220464"^^xsd:float .
+
+<http://comune.milano.it/resource/publicPark/giardino_oriana_fallaci> a schema:Park ;
+    rdfs:label "GIARDINO ORIANA FALLACI" ;
+    cmo:latitude "45.452930466631514"^^xsd:float ;
+    cmo:longitude "9.194524216365476"^^xsd:float .
+
+<http://comune.milano.it/resource/publicPark/giardino_perego> a schema:Park ;
+    rdfs:label "GIARDINO PEREGO" ;
+    cmo:latitude "45.47223059556962"^^xsd:float ;
+    cmo:longitude "9.191574040027243"^^xsd:float .
+
+<http://comune.milano.it/resource/publicPark/giardino_piazzale_bologna> a schema:Park ;
+    rdfs:label "GIARDINO PIAZZALE BOLOGNA" ;
+    cmo:latitude "45.44437912027154"^^xsd:float ;
+    cmo:longitude "9.22350330662384"^^xsd:float .
+
+<http://comune.milano.it/resource/publicPark/giardino_roberto_bazlen> a schema:Park ;
+    rdfs:label "GIARDINO ROBERTO BAZLEN" ;
+    cmo:latitude "45.453979490944306"^^xsd:float ;
+    cmo:longitude "9.197500565696076"^^xsd:float .
+
+<http://comune.milano.it/resource/publicPark/giardino_rotonda_della_besana> a schema:Park ;
+    rdfs:label "GIARDINO ROTONDA DELLA BESANA" ;
+    cmo:latitude "45.45938325126728"^^xsd:float ;
+    cmo:longitude "9.204923090970984"^^xsd:float .
+
+<http://comune.milano.it/resource/publicPark/giardino_sergio_ramelli> a schema:Park ;
+    rdfs:label "GIARDINO SERGIO RAMELLI" ;
+    cmo:latitude "45.47695154940357"^^xsd:float ;
+    cmo:longitude "9.219526671052819"^^xsd:float .
+
+<http://comune.milano.it/resource/publicPark/giardino_val_poschiavina> a schema:Park ;
+    rdfs:label "GIARDINO VAL POSCHIAVINA" ;
+    cmo:latitude "45.47475628981121"^^xsd:float ;
+    cmo:longitude "9.122690120643469"^^xsd:float .
+
+<http://comune.milano.it/resource/publicPark/giardino_via_della_porta> a schema:Park ;
+    rdfs:label "GIARDINO VIA DELLA PORTA" ;
+    cmo:latitude "45.51754068507906"^^xsd:float ;
+    cmo:longitude "9.206532246136433"^^xsd:float .
+
+<http://comune.milano.it/resource/publicPark/giardino_via_porro_jenner> a schema:Park ;
+    rdfs:label "GIARDINO VIA PORRO JENNER" ;
+    cmo:latitude "45.49663250589387"^^xsd:float ;
+    cmo:longitude "9.179929734206352"^^xsd:float .
+
+<http://comune.milano.it/resource/publicPark/giardino_vincenzo_muccioli> a schema:Park ;
+    rdfs:label "GIARDINO VINCENZO MUCCIOLI" ;
+    cmo:latitude "45.45544437053299"^^xsd:float ;
+    cmo:longitude "9.158105712791755"^^xsd:float .
+
+<http://comune.milano.it/resource/publicPark/giardino_viterbo_nikolajevka> a schema:Park ;
+    rdfs:label "GIARDINO VITERBO NIKOLAJEVKA" ;
+    cmo:latitude "45.45714290909037"^^xsd:float ;
+    cmo:longitude "9.106588862366255"^^xsd:float .
+
+<http://comune.milano.it/resource/publicPark/giardino_wanda_osiris> a schema:Park ;
+    rdfs:label "GIARDINO WANDA OSIRIS" ;
+    cmo:latitude "45.50229109863706"^^xsd:float ;
+    cmo:longitude "9.194732274266563"^^xsd:float .
+
+<http://comune.milano.it/resource/publicPark/parco_adriano> a schema:Park ;
+    rdfs:label "PARCO ADRIANO" ;
+    cmo:latitude "45.51947886935544"^^xsd:float ;
+    cmo:longitude "9.247738905759133"^^xsd:float .
+
+<http://comune.milano.it/resource/publicPark/parco_agostino_bassi> a schema:Park ;
+    rdfs:label "PARCO AGOSTINO BASSI" ;
+    cmo:latitude "45.497958121627555"^^xsd:float ;
+    cmo:longitude "9.175989485287184"^^xsd:float .
+
+<http://comune.milano.it/resource/publicPark/parco_alessandrina_ravizza> a schema:Park ;
+    rdfs:label "PARCO ALESSANDRINA RAVIZZA" ;
+    cmo:latitude "45.44797277842582"^^xsd:float ;
+    cmo:longitude "9.190746867948121"^^xsd:float .
+
+<http://comune.milano.it/resource/publicPark/parco_annarumma> a schema:Park ;
+    rdfs:label "PARCO ANNARUMMA" ;
+    cmo:latitude "45.459956801055704"^^xsd:float ;
+    cmo:longitude "9.118093974509819"^^xsd:float .
+
+<http://comune.milano.it/resource/publicPark/parco_archeologico_dellanfiteatro_romano> a schema:Park ;
+    rdfs:label "PARCO ARCHEOLOGICO DELL'ANFITEATRO ROMANO" ;
+    cmo:latitude "45.45765787285267"^^xsd:float ;
+    cmo:longitude "9.179341777521838"^^xsd:float .
+
+<http://comune.milano.it/resource/publicPark/parco_baravalle> a schema:Park ;
+    rdfs:label "PARCO BARAVALLE" ;
+    cmo:latitude "45.44742591955725"^^xsd:float ;
+    cmo:longitude "9.182039482378487"^^xsd:float .
+
+<http://comune.milano.it/resource/publicPark/parco_cascina_caimera> a schema:Park ;
+    rdfs:label "PARCO CASCINA CAIMERA" ;
+    cmo:latitude "45.42999066635156"^^xsd:float ;
+    cmo:longitude "9.166924280985697"^^xsd:float .
+
+<http://comune.milano.it/resource/publicPark/parco_chiesa_rossa> a schema:Park ;
+    rdfs:label "PARCO CHIESA ROSSA" ;
+    cmo:latitude "45.43071491038138"^^xsd:float ;
+    cmo:longitude "9.175333197784362"^^xsd:float .
+
+<http://comune.milano.it/resource/publicPark/parco_dei_fontanili> a schema:Park ;
+    rdfs:label "PARCO DEI FONTANILI" ;
+    cmo:latitude "45.44911690298405"^^xsd:float ;
+    cmo:longitude "9.097295399947857"^^xsd:float .
+
+<http://comune.milano.it/resource/publicPark/parco_del_fanciullo> a schema:Park ;
+    rdfs:label "PARCO DEL FANCIULLO" ;
+    cmo:latitude "45.47445837178187"^^xsd:float ;
+    cmo:longitude "9.10633837020987"^^xsd:float .
+
+<http://comune.milano.it/resource/publicPark/parco_della_cava_di_muggiano> a schema:Park ;
+    rdfs:label "PARCO DELLA CAVA DI MUGGIANO" ;
+    cmo:latitude "45.43968697693124"^^xsd:float ;
+    cmo:longitude "9.067171024362752"^^xsd:float .
+
+<http://comune.milano.it/resource/publicPark/parco_dellacqua> a schema:Park ;
+    rdfs:label "PARCO DELL'ACQUA" ;
+    cmo:latitude "45.47834416909008"^^xsd:float ;
+    cmo:longitude "9.253417962074277"^^xsd:float .
+
+<http://comune.milano.it/resource/publicPark/parco_delle_cave> a schema:Park ;
+    rdfs:label "PARCO DELLE CAVE" ;
+    cmo:latitude "45.45941162902052"^^xsd:float ;
+    cmo:longitude "9.102346988763568"^^xsd:float .
+
+<http://comune.milano.it/resource/publicPark/parco_delle_crocerossine> a schema:Park ;
+    rdfs:label "PARCO DELLE CROCEROSSINE" ;
+    cmo:latitude "45.45068946148074"^^xsd:float ;
+    cmo:longitude "9.124174258427148"^^xsd:float .
+
+<http://comune.milano.it/resource/publicPark/parco_di_baggio> a schema:Park ;
+    rdfs:label "PARCO DI BAGGIO" ;
+    cmo:latitude "45.46404022266741"^^xsd:float ;
+    cmo:longitude "9.088266685543012"^^xsd:float .
+
+<http://comune.milano.it/resource/publicPark/parco_di_trenno> a schema:Park ;
+    rdfs:label "PARCO DI TRENNO" ;
+    cmo:latitude "45.49031401362614"^^xsd:float ;
+    cmo:longitude "9.105365005726133"^^xsd:float .
+
+<http://comune.milano.it/resource/publicPark/parco_di_villa_finzi> a schema:Park ;
+    rdfs:label "PARCO DI VILLA FINZI" ;
+    cmo:latitude "45.50565244603232"^^xsd:float ;
+    cmo:longitude "9.218865659729179"^^xsd:float .
+
+<http://comune.milano.it/resource/publicPark/parco_di_villa_finzi_1> a schema:Park ;
+    rdfs:label "PARCO DI VILLA FINZI" ;
+    cmo:latitude "45.51558818058804"^^xsd:float ;
+    cmo:longitude "9.168647359562785"^^xsd:float .
+
+<http://comune.milano.it/resource/publicPark/parco_di_villa_scheibler> a schema:Park ;
+    rdfs:label "PARCO DI VILLA SCHEIBLER" ;
+    cmo:latitude "45.517460952457256"^^xsd:float ;
+    cmo:longitude "9.130808268320022"^^xsd:float .
+
+<http://comune.milano.it/resource/publicPark/parco_don_giussani> a schema:Park ;
+    rdfs:label "PARCO DON GIUSSANI" ;
+    cmo:latitude "45.457195516530575"^^xsd:float ;
+    cmo:longitude "9.165566163780744"^^xsd:float .
+
+<http://comune.milano.it/resource/publicPark/parco_emilio_alessandrini> a schema:Park ;
+    rdfs:label "PARCO EMILIO ALESSANDRINI" ;
+    cmo:latitude "45.4490136282357"^^xsd:float ;
+    cmo:longitude "9.227716640571238"^^xsd:float .
+
+<http://comune.milano.it/resource/publicPark/parco_enrico_forlanini> a schema:Park ;
+    rdfs:label "PARCO ENRICO FORLANINI" ;
+    cmo:latitude "45.46464739829783"^^xsd:float ;
+    cmo:longitude "9.254363805463626"^^xsd:float .
+
+<http://comune.milano.it/resource/publicPark/parco_ex_om> a schema:Park ;
+    rdfs:label "PARCO EX OM" ;
+    cmo:latitude "45.44428336674199"^^xsd:float ;
+    cmo:longitude "9.19083636244486"^^xsd:float .
+
+<http://comune.milano.it/resource/publicPark/parco_ex_om_1> a schema:Park ;
+    rdfs:label "PARCO EX OM" ;
+    cmo:latitude "45.46389376799236"^^xsd:float ;
+    cmo:longitude "9.224347790242197"^^xsd:float .
+
+<http://comune.milano.it/resource/publicPark/parco_ex_trotter> a schema:Park ;
+    rdfs:label "PARCO EX TROTTER" ;
+    cmo:latitude "45.495229496549996"^^xsd:float ;
+    cmo:longitude "9.221384877559606"^^xsd:float .
+
+<http://comune.milano.it/resource/publicPark/parco_franco_verga> a schema:Park ;
+    rdfs:label "PARCO FRANCO VERGA" ;
+    cmo:latitude "45.50948831662731"^^xsd:float ;
+    cmo:longitude "9.13976648389227"^^xsd:float .
+
+<http://comune.milano.it/resource/publicPark/parco_gino_cassinis> a schema:Park ;
+    rdfs:label "PARCO GINO CASSINIS" ;
+    cmo:latitude "45.4357095769281"^^xsd:float ;
+    cmo:longitude "9.23016991274294"^^xsd:float .
+
+<http://comune.milano.it/resource/publicPark/parco_giovanni_testori> a schema:Park ;
+    rdfs:label "PARCO GIOVANNI TESTORI" ;
+    cmo:latitude "45.498353515839526"^^xsd:float ;
+    cmo:longitude "9.153675848221296"^^xsd:float .
+
+<http://comune.milano.it/resource/publicPark/parco_guido_galli> a schema:Park ;
+    rdfs:label "PARCO GUIDO GALLI" ;
+    cmo:latitude "45.45381285912966"^^xsd:float ;
+    cmo:longitude "9.238108295380863"^^xsd:float .
+
+<http://comune.milano.it/resource/publicPark/parco_guido_vergani_e_giardino_valentino_bompiani> a schema:Park ;
+    rdfs:label "PARCO GUIDO VERGANI E GIARDINO VALENTINO BOMPIANI" ;
+    cmo:latitude "45.47639170347547"^^xsd:float ;
+    cmo:longitude "9.163768082637109"^^xsd:float .
+
+<http://comune.milano.it/resource/publicPark/parco_in_memoria_delle_vittime_italiane_nei_gulag> a schema:Park ;
+    rdfs:label "PARCO IN MEMORIA DELLE VITTIME ITALIANE NEI GULAG" ;
+    cmo:latitude "45.45572691933269"^^xsd:float ;
+    cmo:longitude "9.095294053424757"^^xsd:float .
+
+<http://comune.milano.it/resource/publicPark/parco_la_spezia> a schema:Park ;
+    rdfs:label "PARCO LA SPEZIA" ;
+    cmo:latitude "45.43882043864922"^^xsd:float ;
+    cmo:longitude "9.1688798292728"^^xsd:float .
+
+<http://comune.milano.it/resource/publicPark/parco_lambro> a schema:Park ;
+    rdfs:label "PARCO LAMBRO" ;
+    cmo:latitude "45.49614129672745"^^xsd:float ;
+    cmo:longitude "9.25786473919805"^^xsd:float .
+
+<http://comune.milano.it/resource/publicPark/parco_martiri_della_liberta_iracheni_vittime_del_terrorismo> a schema:Park ;
+    rdfs:label "PARCO MARTIRI DELLA LIBERTA' IRACHENI VITTIME DEL TERRORISMO" ;
+    cmo:latitude "45.50362425044282"^^xsd:float ;
+    cmo:longitude "9.235506167166982"^^xsd:float .
+
+<http://comune.milano.it/resource/publicPark/parco_monlue> a schema:Park ;
+    rdfs:label "PARCO MONLUE'" ;
+    cmo:latitude "45.45747956043324"^^xsd:float ;
+    cmo:longitude "9.25496932368723"^^xsd:float .
+
+<http://comune.milano.it/resource/publicPark/parco_monte_stella> a schema:Park ;
+    rdfs:label "PARCO MONTE STELLA" ;
+    cmo:latitude "45.48697320446038"^^xsd:float ;
+    cmo:longitude "9.136360323540194"^^xsd:float .
+
+<http://comune.milano.it/resource/publicPark/parco_papa_giovanni_paolo_ii> a schema:Park ;
+    rdfs:label "PARCO PAPA GIOVANNI PAOLO II" ;
+    cmo:latitude "45.45503883151262"^^xsd:float ;
+    cmo:longitude "9.181104759747347"^^xsd:float .
+
+<http://comune.milano.it/resource/publicPark/parco_robert_baden_powell> a schema:Park ;
+    rdfs:label "PARCO ROBERT BADEN POWELL" ;
+    cmo:latitude "45.448087406408696"^^xsd:float ;
+    cmo:longitude "9.168252353315191"^^xsd:float .
+
+<http://comune.milano.it/resource/publicPark/parco_sandro_pertini> a schema:Park ;
+    rdfs:label "PARCO SANDRO PERTINI" ;
+    cmo:latitude "45.497254024064354"^^xsd:float ;
+    cmo:longitude "9.109398641665457"^^xsd:float .
+
+<http://comune.milano.it/resource/publicPark/parco_sempione> a schema:Park ;
+    rdfs:label "PARCO SEMPIONE" ;
+    cmo:latitude "45.474752633717515"^^xsd:float ;
+    cmo:longitude "9.171226964472234"^^xsd:float .
+
+<http://comune.milano.it/resource/publicPark/parco_teramo_barona> a schema:Park ;
+    rdfs:label "PARCO TERAMO BARONA" ;
+    cmo:latitude "45.43697590566255"^^xsd:float ;
+    cmo:longitude "9.13969115541845"^^xsd:float .
+
+<http://comune.milano.it/resource/publicPark/parco_vittorio_formentano> a schema:Park ;
+    rdfs:label "PARCO VITTORIO FORMENTANO" ;
+    cmo:latitude "45.45925815920741"^^xsd:float ;
+    cmo:longitude "9.214279005415925"^^xsd:float .
+
+<http://comune.milano.it/resource/publicPark/parco_walter_chiari> a schema:Park ;
+    rdfs:label "PARCO WALTER CHIARI" ;
+    cmo:latitude "45.515643575983695"^^xsd:float ;
+    cmo:longitude "9.151263909869753"^^xsd:float .
+
+<http://comune.milano.it/resource/publicPark/pioppeto_bovisasca> a schema:Park ;
+    rdfs:label "PIOPPETO BOVISASCA" ;
+    cmo:latitude "45.51687098710434"^^xsd:float ;
+    cmo:longitude "9.156921109251185"^^xsd:float .
+

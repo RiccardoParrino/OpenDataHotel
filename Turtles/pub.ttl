@@ -1,0 +1,3139 @@
+@prefix cmo: <http://www.comune.milano.it/ontology/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://comune.milano.it/resource/pub/442_sports_pub> a cmo:Pub ;
+    rdfs:label "442 Sports Pub" ;
+    cmo:latitude "45.4814927"^^xsd:float ;
+    cmo:localBusinessPostalCode "20154" ;
+    cmo:localBusinessWebsite "https://www.fourfourtwo.it/" ;
+    cmo:longitude "9.1675973"^^xsd:float ;
+    schema:address "Via Giulio Cesare Procaccini" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/442_sports_pub_1> a cmo:Pub ;
+    rdfs:label "442 Sports Pub" ;
+    cmo:latitude "45.4814927"^^xsd:float ;
+    cmo:localBusinessPostalCode "20154" ;
+    cmo:localBusinessWebsite "https://www.fourfourtwo.it/" ;
+    cmo:longitude "9.1675973"^^xsd:float ;
+    schema:address "Via Giulio Cesare Procaccini" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/abnormal> a cmo:Pub ;
+    rdfs:label "Abnormal" ;
+    cmo:latitude "45.4409249"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1814693"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/abnormal_1> a cmo:Pub ;
+    rdfs:label "Abnormal" ;
+    cmo:latitude "45.4409249"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1814693"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/ai_tre_morsi> a cmo:Pub ;
+    rdfs:label "Ai Tre Morsi" ;
+    cmo:latitude "45.4657555"^^xsd:float ;
+    cmo:localBusinessPostalCode "20123" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1764585"^^xsd:float ;
+    schema:address "Via Terraggio" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/ai_tre_morsi_1> a cmo:Pub ;
+    rdfs:label "Ai Tre Morsi" ;
+    cmo:latitude "45.4657555"^^xsd:float ;
+    cmo:localBusinessPostalCode "20123" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1764585"^^xsd:float ;
+    schema:address "Via Terraggio" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/al_48> a cmo:Pub ;
+    rdfs:label "Al 48" ;
+    cmo:latitude "45.5328567"^^xsd:float ;
+    cmo:localBusinessPostalCode "20099" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.2256001"^^xsd:float ;
+    schema:address "Via 20 Settembre" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/al_48_1> a cmo:Pub ;
+    rdfs:label "Al 48" ;
+    cmo:latitude "45.4542339"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.2134279"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/al_48_2> a cmo:Pub ;
+    rdfs:label "Al 48" ;
+    cmo:latitude "45.5328567"^^xsd:float ;
+    cmo:localBusinessPostalCode "20099" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.2256001"^^xsd:float ;
+    schema:address "Via 20 Settembre" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/al_48_3> a cmo:Pub ;
+    rdfs:label "Al 48" ;
+    cmo:latitude "45.4542339"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.2134279"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/al_confine> a cmo:Pub ;
+    rdfs:label "Al Confine" ;
+    cmo:latitude "45.4565354"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1706728"^^xsd:float ;
+    schema:address "Viale Coni Zugna" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/al_confine_1> a cmo:Pub ;
+    rdfs:label "Al Confine" ;
+    cmo:latitude "45.4520811"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1776263"^^xsd:float ;
+    schema:address "Alzaia Naviglio Pavese" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/al_confine_2> a cmo:Pub ;
+    rdfs:label "Al Confine" ;
+    cmo:latitude "45.4565354"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1706728"^^xsd:float ;
+    schema:address "Viale Coni Zugna" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/al_confine_3> a cmo:Pub ;
+    rdfs:label "Al Confine" ;
+    cmo:latitude "45.4520811"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1776263"^^xsd:float ;
+    schema:address "Alzaia Naviglio Pavese" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/american_bar> a cmo:Pub ;
+    rdfs:label "American Bar" ;
+    cmo:latitude "45.377352"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.2127528"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/american_bar_1> a cmo:Pub ;
+    rdfs:label "American Bar" ;
+    cmo:latitude "45.377352"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.2127528"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/au_vieux_strasbourg> a cmo:Pub ;
+    rdfs:label "Au Vieux Strasbourg" ;
+    cmo:latitude "45.4736675"^^xsd:float ;
+    cmo:localBusinessPostalCode "20133" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.2342317"^^xsd:float ;
+    schema:address "Via Gaetano Strambio" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/au_vieux_strasbourg_1> a cmo:Pub ;
+    rdfs:label "Au Vieux Strasbourg" ;
+    cmo:latitude "45.4736675"^^xsd:float ;
+    cmo:localBusinessPostalCode "20133" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.2342317"^^xsd:float ;
+    schema:address "Via Gaetano Strambio" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/baladin_milano> a cmo:Pub ;
+    rdfs:label "Baladin Milano" ;
+    cmo:latitude "45.4797332"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1889733"^^xsd:float ;
+    schema:address "Via Solferino" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/baladin_milano_1> a cmo:Pub ;
+    rdfs:label "Baladin Milano" ;
+    cmo:latitude "45.4797332"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1889733"^^xsd:float ;
+    schema:address "Via Solferino" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/bar_magenta> a cmo:Pub ;
+    rdfs:label "Bar Magenta" ;
+    cmo:latitude "45.465692"^^xsd:float ;
+    cmo:localBusinessPostalCode "20123" ;
+    cmo:localBusinessWebsite "http://barmagenta.it/" ;
+    cmo:longitude "9.175656"^^xsd:float ;
+    schema:address "Via Giosuè Carducci" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/bar_magenta_1> a cmo:Pub ;
+    rdfs:label "Bar Magenta" ;
+    cmo:latitude "45.465692"^^xsd:float ;
+    cmo:localBusinessPostalCode "20123" ;
+    cmo:localBusinessWebsite "http://barmagenta.it/" ;
+    cmo:longitude "9.175656"^^xsd:float ;
+    schema:address "Via Giosuè Carducci" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/barbarians> a cmo:Pub ;
+    rdfs:label "Barbarian's" ;
+    cmo:latitude "45.470696"^^xsd:float ;
+    cmo:localBusinessPostalCode "20133" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.2282944"^^xsd:float ;
+    schema:address "Via Giovanni Briosi" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/barbarians_1> a cmo:Pub ;
+    rdfs:label "Barbarian's" ;
+    cmo:latitude "45.470696"^^xsd:float ;
+    cmo:localBusinessPostalCode "20133" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.2282944"^^xsd:float ;
+    schema:address "Via Giovanni Briosi" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/barbruto> a cmo:Pub ;
+    rdfs:label "Barbruto" ;
+    cmo:latitude "45.450733"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1932558"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/barbruto_1> a cmo:Pub ;
+    rdfs:label "Barbruto" ;
+    cmo:latitude "45.450733"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1932558"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/batik> a cmo:Pub ;
+    rdfs:label "Batik" ;
+    cmo:latitude "45.4547927"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.2164769"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/batik_1> a cmo:Pub ;
+    rdfs:label "Batik" ;
+    cmo:latitude "45.4835535"^^xsd:float ;
+    cmo:localBusinessPostalCode "20154" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1811925"^^xsd:float ;
+    schema:address "Via Ceresio" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/batik_2> a cmo:Pub ;
+    rdfs:label "Batik" ;
+    cmo:latitude "45.4512755"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1716692"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/batik_3> a cmo:Pub ;
+    rdfs:label "Batik" ;
+    cmo:latitude "45.4547927"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.2164769"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/batik_4> a cmo:Pub ;
+    rdfs:label "Batik" ;
+    cmo:latitude "45.4835535"^^xsd:float ;
+    cmo:localBusinessPostalCode "20154" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1811925"^^xsd:float ;
+    schema:address "Via Ceresio" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/batik_5> a cmo:Pub ;
+    rdfs:label "Batik" ;
+    cmo:latitude "45.4512755"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1716692"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/beda_house> a cmo:Pub ;
+    rdfs:label "Beda House" ;
+    cmo:latitude "45.4965543"^^xsd:float ;
+    cmo:localBusinessPostalCode "20159" ;
+    cmo:localBusinessWebsite "http://www.bedahouse.it/" ;
+    cmo:longitude "9.1922736"^^xsd:float ;
+    schema:address "Via Gioacchino Murat" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/beda_house_1> a cmo:Pub ;
+    rdfs:label "Beda House" ;
+    cmo:latitude "45.4965543"^^xsd:float ;
+    cmo:localBusinessPostalCode "20159" ;
+    cmo:localBusinessWebsite "http://www.bedahouse.it/" ;
+    cmo:longitude "9.1922736"^^xsd:float ;
+    schema:address "Via Gioacchino Murat" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/beer_gallery> a cmo:Pub ;
+    rdfs:label "Beer Gallery" ;
+    cmo:latitude "45.4522663"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "http://www.beergallery.it" ;
+    cmo:longitude "9.1602285"^^xsd:float ;
+    schema:address "Via Enrico Stendhal" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/beer_gallery_1> a cmo:Pub ;
+    rdfs:label "Beer Gallery" ;
+    cmo:latitude "45.4522663"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "http://www.beergallery.it" ;
+    cmo:longitude "9.1602285"^^xsd:float ;
+    schema:address "Via Enrico Stendhal" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/beershow> a cmo:Pub ;
+    rdfs:label "BeerShow" ;
+    cmo:latitude "45.4891069"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1892051"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/beershow_1> a cmo:Pub ;
+    rdfs:label "BeerShow" ;
+    cmo:latitude "45.4891069"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1892051"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/bere_buona_birra> a cmo:Pub ;
+    rdfs:label "Bere Buona Birra" ;
+    cmo:latitude "45.4480409"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "http://www.berebuonabirra.com" ;
+    cmo:longitude "9.2052687"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/bere_buona_birra_1> a cmo:Pub ;
+    rdfs:label "Bere Buona Birra" ;
+    cmo:latitude "45.4480409"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "http://www.berebuonabirra.com" ;
+    cmo:longitude "9.2052687"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/big_murphys> a cmo:Pub ;
+    rdfs:label "Big Murphy's" ;
+    cmo:latitude "45.5180943"^^xsd:float ;
+    cmo:localBusinessPostalCode "20093" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.2675445"^^xsd:float ;
+    schema:address "Via Milano" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/big_murphys_1> a cmo:Pub ;
+    rdfs:label "Big Murphy's" ;
+    cmo:latitude "45.5180943"^^xsd:float ;
+    cmo:localBusinessPostalCode "20093" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.2675445"^^xsd:float ;
+    schema:address "Via Milano" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/birreria_al_panino_900> a cmo:Pub ;
+    rdfs:label "Birreria Al panino 900" ;
+    cmo:latitude "45.4561919"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.169909"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/birreria_al_panino_900_1> a cmo:Pub ;
+    rdfs:label "Birreria Al panino 900" ;
+    cmo:latitude "45.4561919"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.169909"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/birreria_okey> a cmo:Pub ;
+    rdfs:label "Birreria Okey" ;
+    cmo:latitude "45.4984325"^^xsd:float ;
+    cmo:localBusinessPostalCode "20159" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1935316"^^xsd:float ;
+    schema:address "Largo Vulci" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/birreria_okey_1> a cmo:Pub ;
+    rdfs:label "Birreria Okey" ;
+    cmo:latitude "45.4984325"^^xsd:float ;
+    cmo:localBusinessPostalCode "20159" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1935316"^^xsd:float ;
+    schema:address "Largo Vulci" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/birreria_stella> a cmo:Pub ;
+    rdfs:label "Birreria Stella" ;
+    cmo:latitude "45.4685247"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.2262905"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/birreria_stella_1> a cmo:Pub ;
+    rdfs:label "Birreria Stella" ;
+    cmo:latitude "45.4576105"^^xsd:float ;
+    cmo:localBusinessPostalCode "20135" ;
+    cmo:localBusinessWebsite "http://www.spillerbirrerie.it/milano/" ;
+    cmo:longitude "9.2094733"^^xsd:float ;
+    schema:address "Via Antonio Fogazzaro" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/birreria_stella_2> a cmo:Pub ;
+    rdfs:label "Birreria Stella" ;
+    cmo:latitude "45.4685247"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.2262905"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/birreria_stella_3> a cmo:Pub ;
+    rdfs:label "Birreria Stella" ;
+    cmo:latitude "45.4576105"^^xsd:float ;
+    cmo:localBusinessPostalCode "20135" ;
+    cmo:localBusinessWebsite "http://www.spillerbirrerie.it/milano/" ;
+    cmo:longitude "9.2094733"^^xsd:float ;
+    schema:address "Via Antonio Fogazzaro" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/birrificio_artigianale_la_buttiga> a cmo:Pub ;
+    rdfs:label "Birrificio artigianale La Buttiga" ;
+    cmo:latitude "45.4810185"^^xsd:float ;
+    cmo:localBusinessPostalCode "20154" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.170259"^^xsd:float ;
+    schema:address "Via Paolo Sarpi" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/birrificio_artigianale_la_buttiga_1> a cmo:Pub ;
+    rdfs:label "Birrificio artigianale La Buttiga" ;
+    cmo:latitude "45.4810185"^^xsd:float ;
+    cmo:localBusinessPostalCode "20154" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.170259"^^xsd:float ;
+    schema:address "Via Paolo Sarpi" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/birrificio_belgrano> a cmo:Pub ;
+    rdfs:label "Birrificio Belgrano" ;
+    cmo:latitude "45.4839644"^^xsd:float ;
+    cmo:localBusinessPostalCode "20131" ;
+    cmo:localBusinessWebsite "https://www.birrificiobelgrano.com" ;
+    cmo:longitude "9.2346208"^^xsd:float ;
+    schema:address "Via Giovanni Pacini" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/birrificio_belgrano_1> a cmo:Pub ;
+    rdfs:label "Birrificio Belgrano" ;
+    cmo:latitude "45.4839644"^^xsd:float ;
+    cmo:localBusinessPostalCode "20131" ;
+    cmo:localBusinessWebsite "https://www.birrificiobelgrano.com" ;
+    cmo:longitude "9.2346208"^^xsd:float ;
+    schema:address "Via Giovanni Pacini" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/birrificio_la_ribalta> a cmo:Pub ;
+    rdfs:label "Birrificio La Ribalta" ;
+    cmo:latitude "45.4891069"^^xsd:float ;
+    cmo:localBusinessPostalCode "20158" ;
+    cmo:localBusinessWebsite "https://www.birrificiolaribalta.com/" ;
+    cmo:longitude "9.1892051"^^xsd:float ;
+    schema:address "Via Cevedale" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/birrificio_la_ribalta_1> a cmo:Pub ;
+    rdfs:label "Birrificio La Ribalta" ;
+    cmo:latitude "45.4891069"^^xsd:float ;
+    cmo:localBusinessPostalCode "20158" ;
+    cmo:localBusinessWebsite "https://www.birrificiolaribalta.com/" ;
+    cmo:longitude "9.1892051"^^xsd:float ;
+    schema:address "Via Cevedale" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/birrificio_lambrate> a cmo:Pub ;
+    rdfs:label "Birrificio Lambrate" ;
+    cmo:latitude "45.4857051"^^xsd:float ;
+    cmo:localBusinessPostalCode "20131" ;
+    cmo:localBusinessWebsite "http://www.birrificiolambrate.com/" ;
+    cmo:longitude "9.2315149"^^xsd:float ;
+    schema:address "Via Privata Adelchi" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/birrificio_lambrate_1> a cmo:Pub ;
+    rdfs:label "Birrificio Lambrate" ;
+    cmo:latitude "45.4796769"^^xsd:float ;
+    cmo:localBusinessPostalCode "20133" ;
+    cmo:localBusinessWebsite "http://birrificiolambrate.com" ;
+    cmo:longitude "9.2344504"^^xsd:float ;
+    schema:address "Via Camillo Golgi" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/birrificio_lambrate_2> a cmo:Pub ;
+    rdfs:label "Birrificio Lambrate" ;
+    cmo:latitude "45.4857051"^^xsd:float ;
+    cmo:localBusinessPostalCode "20131" ;
+    cmo:localBusinessWebsite "http://www.birrificiolambrate.com/" ;
+    cmo:longitude "9.2315149"^^xsd:float ;
+    schema:address "Via Privata Adelchi" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/birrificio_lambrate_3> a cmo:Pub ;
+    rdfs:label "Birrificio Lambrate" ;
+    cmo:latitude "45.4796769"^^xsd:float ;
+    cmo:localBusinessPostalCode "20133" ;
+    cmo:localBusinessWebsite "http://birrificiolambrate.com" ;
+    cmo:longitude "9.2344504"^^xsd:float ;
+    schema:address "Via Camillo Golgi" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/black_bull> a cmo:Pub ;
+    rdfs:label "Black Bull" ;
+    cmo:latitude "45.4935031"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1434607"^^xsd:float ;
+    schema:address "Viale Certosa" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/black_bull_1> a cmo:Pub ;
+    rdfs:label "Black Bull" ;
+    cmo:latitude "45.4935031"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1434607"^^xsd:float ;
+    schema:address "Viale Certosa" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/blender> a cmo:Pub ;
+    rdfs:label "Blender" ;
+    cmo:latitude "45.4686909"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.2235692"^^xsd:float ;
+    schema:address "Piazzale Susa" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/blender_1> a cmo:Pub ;
+    rdfs:label "Blender" ;
+    cmo:latitude "45.4686909"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.2235692"^^xsd:float ;
+    schema:address "Piazzale Susa" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/blues_bikers_pub> a cmo:Pub ;
+    rdfs:label "Blues Bikers Pub" ;
+    cmo:latitude "45.446903"^^xsd:float ;
+    cmo:localBusinessPostalCode "20136" ;
+    cmo:localBusinessWebsite "http://www.bluesbikerspub.com" ;
+    cmo:longitude "9.1805976"^^xsd:float ;
+    schema:address "Via Francesco Brioschi" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/blues_bikers_pub_1> a cmo:Pub ;
+    rdfs:label "Blues Bikers Pub" ;
+    cmo:latitude "45.446903"^^xsd:float ;
+    cmo:localBusinessPostalCode "20136" ;
+    cmo:localBusinessWebsite "http://www.bluesbikerspub.com" ;
+    cmo:longitude "9.1805976"^^xsd:float ;
+    schema:address "Via Francesco Brioschi" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/blues_canal> a cmo:Pub ;
+    rdfs:label "Blues Canal" ;
+    cmo:latitude "45.4516102"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1708129"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/blues_canal_1> a cmo:Pub ;
+    rdfs:label "Blues Canal" ;
+    cmo:latitude "45.4516102"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1708129"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/bq__birra_artigianale> a cmo:Pub ;
+    rdfs:label "BQ - Birra artigianale" ;
+    cmo:latitude "45.4512767"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1717146"^^xsd:float ;
+    schema:address "Alzaia Naviglio Grande" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/bq__birra_artigianale_1> a cmo:Pub ;
+    rdfs:label "BQ - Birra artigianale" ;
+    cmo:latitude "45.4512767"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1717146"^^xsd:float ;
+    schema:address "Alzaia Naviglio Grande" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/brasserie_bruxelles> a cmo:Pub ;
+    rdfs:label "Brasserie Bruxelles" ;
+    cmo:latitude "45.4787442"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "http://www.brasseriebruxelles.eu/" ;
+    cmo:longitude "9.2167302"^^xsd:float ;
+    schema:address "Viale Abruzzi" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/brasserie_bruxelles_1> a cmo:Pub ;
+    rdfs:label "Brasserie Bruxelles" ;
+    cmo:latitude "45.4787442"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "http://www.brasseriebruxelles.eu/" ;
+    cmo:longitude "9.2167302"^^xsd:float ;
+    schema:address "Viale Abruzzi" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/brew_pub_yankee> a cmo:Pub ;
+    rdfs:label "Brew Pub Yankee" ;
+    cmo:latitude "45.45509"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1553057"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/brew_pub_yankee_1> a cmo:Pub ;
+    rdfs:label "Brew Pub Yankee" ;
+    cmo:latitude "45.45509"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1553057"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/brooklyn_pub> a cmo:Pub ;
+    rdfs:label "Brooklyn pub" ;
+    cmo:latitude "45.4784141"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.154891"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/brooklyn_pub_1> a cmo:Pub ;
+    rdfs:label "Brooklyn pub" ;
+    cmo:latitude "45.4784141"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.154891"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/bunshee> a cmo:Pub ;
+    rdfs:label "Bunshee" ;
+    cmo:latitude "45.4204047"^^xsd:float ;
+    cmo:localBusinessPostalCode "20097" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.2585807"^^xsd:float ;
+    schema:address "Piazza Supercortemaggiore" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/bunshee_1> a cmo:Pub ;
+    rdfs:label "Bunshee" ;
+    cmo:latitude "45.4204047"^^xsd:float ;
+    cmo:localBusinessPostalCode "20097" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.2585807"^^xsd:float ;
+    schema:address "Piazza Supercortemaggiore" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/cafe_etniko> a cmo:Pub ;
+    rdfs:label "Café Etniko" ;
+    cmo:latitude "45.4777017"^^xsd:float ;
+    cmo:localBusinessPostalCode "20154" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1776717"^^xsd:float ;
+    schema:address "Milano" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/cafe_etniko_1> a cmo:Pub ;
+    rdfs:label "Café Etniko" ;
+    cmo:latitude "45.4777017"^^xsd:float ;
+    cmo:localBusinessPostalCode "20154" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1776717"^^xsd:float ;
+    schema:address "Milano" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/camarillo_brillo> a cmo:Pub ;
+    rdfs:label "Camarillo Brillo" ;
+    cmo:latitude "45.4445967"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.141827"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/camarillo_brillo_1> a cmo:Pub ;
+    rdfs:label "Camarillo Brillo" ;
+    cmo:latitude "45.4445967"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.141827"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/cambridge> a cmo:Pub ;
+    rdfs:label "Cambridge" ;
+    cmo:latitude "45.4676716"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.2230517"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/cambridge_1> a cmo:Pub ;
+    rdfs:label "Cambridge" ;
+    cmo:latitude "45.4676716"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.2230517"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/cambusa_20> a cmo:Pub ;
+    rdfs:label "Cambusa 2.0" ;
+    cmo:latitude "45.4585878"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.149288"^^xsd:float ;
+    schema:address "Piazzale Tripoli" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/cambusa_20_1> a cmo:Pub ;
+    rdfs:label "Cambusa 2.0" ;
+    cmo:latitude "45.4585878"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.149288"^^xsd:float ;
+    schema:address "Piazzale Tripoli" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/camillos_pub> a cmo:Pub ;
+    rdfs:label "camillo's Pub" ;
+    cmo:latitude "45.4500031"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.177841"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/camillos_pub_1> a cmo:Pub ;
+    rdfs:label "camillo's Pub" ;
+    cmo:latitude "45.4500031"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.177841"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/cape_town_cafe> a cmo:Pub ;
+    rdfs:label "Cape Town Cafe" ;
+    cmo:latitude "45.4527235"^^xsd:float ;
+    cmo:localBusinessPostalCode "20144" ;
+    cmo:localBusinessWebsite "http://capetowncafe.it" ;
+    cmo:longitude "9.1756177"^^xsd:float ;
+    schema:address "Via Vigevano" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/cape_town_cafe_1> a cmo:Pub ;
+    rdfs:label "Cape Town Cafe" ;
+    cmo:latitude "45.4527235"^^xsd:float ;
+    cmo:localBusinessPostalCode "20144" ;
+    cmo:localBusinessWebsite "http://capetowncafe.it" ;
+    cmo:longitude "9.1756177"^^xsd:float ;
+    schema:address "Via Vigevano" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/cascina_martesana> a cmo:Pub ;
+    rdfs:label "Cascina Martesana" ;
+    cmo:latitude "45.4891069"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "http://www.cascinamartesana.com/" ;
+    cmo:longitude "9.1892051"^^xsd:float ;
+    schema:address "Via Luigi Bertelli" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/cascina_martesana_1> a cmo:Pub ;
+    rdfs:label "Cascina Martesana" ;
+    cmo:latitude "45.4891069"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "http://www.cascinamartesana.com/" ;
+    cmo:longitude "9.1892051"^^xsd:float ;
+    schema:address "Via Luigi Bertelli" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/castle_rock_cafe> a cmo:Pub ;
+    rdfs:label "Castle Rock Cafè" ;
+    cmo:latitude "45.4891069"^^xsd:float ;
+    cmo:localBusinessPostalCode "20157" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1892051"^^xsd:float ;
+    schema:address "Via privata Venezia Giulia" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/castle_rock_cafe_1> a cmo:Pub ;
+    rdfs:label "Castle Rock Cafè" ;
+    cmo:latitude "45.4891069"^^xsd:float ;
+    cmo:localBusinessPostalCode "20157" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1892051"^^xsd:float ;
+    schema:address "Via privata Venezia Giulia" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/chiringuito> a cmo:Pub ;
+    rdfs:label "Chiringuito" ;
+    cmo:latitude "45.4802593"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1286846"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/chiringuito_1> a cmo:Pub ;
+    rdfs:label "Chiringuito" ;
+    cmo:latitude "45.4802593"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1286846"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/colorado_pub> a cmo:Pub ;
+    rdfs:label "Colorado Pub" ;
+    cmo:latitude "45.4891069"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1892051"^^xsd:float ;
+    schema:address "Via Barnaba Oriani" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/colorado_pub_1> a cmo:Pub ;
+    rdfs:label "Colorado Pub" ;
+    cmo:latitude "45.4891069"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1892051"^^xsd:float ;
+    schema:address "Via Barnaba Oriani" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/concordia_enoteca> a cmo:Pub ;
+    rdfs:label "Concordia Enoteca" ;
+    cmo:latitude "45.4508194"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1710331"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/concordia_enoteca_1> a cmo:Pub ;
+    rdfs:label "Concordia Enoteca" ;
+    cmo:latitude "45.4508194"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1710331"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/consorzio_birre_pub> a cmo:Pub ;
+    rdfs:label "Consorzio Birre Pub" ;
+    cmo:latitude "45.5358515"^^xsd:float ;
+    cmo:localBusinessPostalCode "20099" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.2222331"^^xsd:float ;
+    schema:address "Via Vincenzo Gioberti" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/consorzio_birre_pub_1> a cmo:Pub ;
+    rdfs:label "Consorzio Birre Pub" ;
+    cmo:latitude "45.5358515"^^xsd:float ;
+    cmo:localBusinessPostalCode "20099" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.2222331"^^xsd:float ;
+    schema:address "Via Vincenzo Gioberti" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/drago_verde> a cmo:Pub ;
+    rdfs:label "Drago Verde" ;
+    cmo:latitude "45.4823676"^^xsd:float ;
+    cmo:localBusinessPostalCode "20154" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1811537"^^xsd:float ;
+    schema:address "Piazzale Antonio Baiamonti" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/drago_verde_1> a cmo:Pub ;
+    rdfs:label "Drago Verde" ;
+    cmo:latitude "45.4823676"^^xsd:float ;
+    cmo:localBusinessPostalCode "20154" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1811537"^^xsd:float ;
+    schema:address "Piazzale Antonio Baiamonti" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/east_end> a cmo:Pub ;
+    rdfs:label "East End" ;
+    cmo:latitude "45.4883457"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.254188"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/east_end_1> a cmo:Pub ;
+    rdfs:label "East End" ;
+    cmo:latitude "45.4883457"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.254188"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/east_market_milano> a cmo:Pub ;
+    rdfs:label "east market milano" ;
+    cmo:latitude "45.4846273"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.2468138"^^xsd:float ;
+    schema:address "Via Giovanni Ventura" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/east_market_milano_1> a cmo:Pub ;
+    rdfs:label "east market milano" ;
+    cmo:latitude "45.4846273"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.2468138"^^xsd:float ;
+    schema:address "Via Giovanni Ventura" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/fermento_art&pub> a cmo:Pub ;
+    rdfs:label "Fermento Art&Pub" ;
+    cmo:latitude "45.5003025"^^xsd:float ;
+    cmo:localBusinessPostalCode "20158" ;
+    cmo:localBusinessWebsite "http://www.fermentoaep.com/" ;
+    cmo:longitude "9.1707302"^^xsd:float ;
+    schema:address "Via Camillo Ugoni" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/fermento_art&pub_1> a cmo:Pub ;
+    rdfs:label "Fermento Art&Pub" ;
+    cmo:latitude "45.5003025"^^xsd:float ;
+    cmo:localBusinessPostalCode "20158" ;
+    cmo:localBusinessWebsite "http://www.fermentoaep.com/" ;
+    cmo:longitude "9.1707302"^^xsd:float ;
+    schema:address "Via Camillo Ugoni" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/frida> a cmo:Pub ;
+    rdfs:label "Frida" ;
+    cmo:latitude "45.4887512"^^xsd:float ;
+    cmo:localBusinessPostalCode "20159" ;
+    cmo:localBusinessWebsite "http://www.fridaisola.it/" ;
+    cmo:longitude "9.187111"^^xsd:float ;
+    schema:address "Via Antonio Pollaiuolo" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/frida_1> a cmo:Pub ;
+    rdfs:label "Frida" ;
+    cmo:latitude "45.4887512"^^xsd:float ;
+    cmo:localBusinessPostalCode "20159" ;
+    cmo:localBusinessWebsite "http://www.fridaisola.it/" ;
+    cmo:longitude "9.187111"^^xsd:float ;
+    schema:address "Via Antonio Pollaiuolo" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/frizzi_&_lazzi> a cmo:Pub ;
+    rdfs:label "Frizzi & Lazzi" ;
+    cmo:latitude "45.4455769"^^xsd:float ;
+    cmo:localBusinessPostalCode "20136" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.178355"^^xsd:float ;
+    schema:address "Via Evangelista Torricelli" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/frizzi_&_lazzi_1> a cmo:Pub ;
+    rdfs:label "Frizzi & Lazzi" ;
+    cmo:latitude "45.4455769"^^xsd:float ;
+    cmo:localBusinessPostalCode "20136" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.178355"^^xsd:float ;
+    schema:address "Via Evangelista Torricelli" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/gechos_pub> a cmo:Pub ;
+    rdfs:label "Gecho's pub" ;
+    cmo:latitude "45.4452423"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.176693"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/gechos_pub_1> a cmo:Pub ;
+    rdfs:label "Gecho's pub" ;
+    cmo:latitude "45.4452423"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.176693"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/harp_pub> a cmo:Pub ;
+    rdfs:label "Harp Pub" ;
+    cmo:latitude "45.4772546"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.2255218"^^xsd:float ;
+    schema:address "Piazza Leonardo da Vinci" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/harp_pub_1> a cmo:Pub ;
+    rdfs:label "Harp Pub" ;
+    cmo:latitude "45.4536701"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.215598"^^xsd:float ;
+    schema:address "Viale Umbria" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/harp_pub_2> a cmo:Pub ;
+    rdfs:label "Harp Pub" ;
+    cmo:latitude "45.4509778"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1702028"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/harp_pub_3> a cmo:Pub ;
+    rdfs:label "Harp Pub" ;
+    cmo:latitude "45.4452238"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "gurupubmilano.com" ;
+    cmo:longitude "9.1448249"^^xsd:float ;
+    schema:address "Via Lodovico il Moro" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/harp_pub_4> a cmo:Pub ;
+    rdfs:label "Harp Pub" ;
+    cmo:latitude "45.4772546"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.2255218"^^xsd:float ;
+    schema:address "Piazza Leonardo da Vinci" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/harp_pub_5> a cmo:Pub ;
+    rdfs:label "Harp Pub" ;
+    cmo:latitude "45.4536701"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.215598"^^xsd:float ;
+    schema:address "Viale Umbria" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/harp_pub_6> a cmo:Pub ;
+    rdfs:label "Harp Pub" ;
+    cmo:latitude "45.4509778"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1702028"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/harp_pub_7> a cmo:Pub ;
+    rdfs:label "Harp Pub" ;
+    cmo:latitude "45.4452238"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "gurupubmilano.com" ;
+    cmo:longitude "9.1448249"^^xsd:float ;
+    schema:address "Via Lodovico il Moro" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/hemingway_cafe> a cmo:Pub ;
+    rdfs:label "Hemingway Café" ;
+    cmo:latitude "45.4850744"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.2315908"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/hemingway_cafe_1> a cmo:Pub ;
+    rdfs:label "Hemingway Café" ;
+    cmo:latitude "45.4850744"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.2315908"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/hernrys_cafe> a cmo:Pub ;
+    rdfs:label "Hernry's Cafè" ;
+    cmo:latitude "45.4520993"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1820534"^^xsd:float ;
+    schema:address "Viale Col di Lana" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/hernrys_cafe_1> a cmo:Pub ;
+    rdfs:label "Hernry's Cafè" ;
+    cmo:latitude "45.4520993"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1820534"^^xsd:float ;
+    schema:address "Viale Col di Lana" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/hop> a cmo:Pub ;
+    rdfs:label "Hop" ;
+    cmo:latitude "45.4596135"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.2064151"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/hop_1> a cmo:Pub ;
+    rdfs:label "Hop" ;
+    cmo:latitude "45.4801747"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.2015922"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/hop_10> a cmo:Pub ;
+    rdfs:label "Hop" ;
+    cmo:latitude "45.4577567"^^xsd:float ;
+    cmo:localBusinessPostalCode "20135" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.2079204"^^xsd:float ;
+    schema:address "Via Andrea Maffei" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/hop_11> a cmo:Pub ;
+    rdfs:label "Hop" ;
+    cmo:latitude "45.4889694"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1873664"^^xsd:float ;
+    schema:address "Via Antonio Pollaiuolo" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/hop_12> a cmo:Pub ;
+    rdfs:label "Hop" ;
+    cmo:latitude "45.4596135"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.2064151"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/hop_13> a cmo:Pub ;
+    rdfs:label "Hop" ;
+    cmo:latitude "45.4801747"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.2015922"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/hop_14> a cmo:Pub ;
+    rdfs:label "Hop" ;
+    cmo:latitude "45.4587087"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.2061643"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/hop_15> a cmo:Pub ;
+    rdfs:label "Hop" ;
+    cmo:latitude "45.4865484"^^xsd:float ;
+    cmo:localBusinessPostalCode "20154" ;
+    cmo:localBusinessWebsite "http://www.bqmilano.it/004/" ;
+    cmo:longitude "9.1648819"^^xsd:float ;
+    schema:address "Via Losanna" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/hop_16> a cmo:Pub ;
+    rdfs:label "Hop" ;
+    cmo:latitude "45.4871573"^^xsd:float ;
+    cmo:localBusinessPostalCode "20154" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1671499"^^xsd:float ;
+    schema:address "Via Cenisio" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/hop_17> a cmo:Pub ;
+    rdfs:label "Hop" ;
+    cmo:latitude "45.4458102"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1786259"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/hop_18> a cmo:Pub ;
+    rdfs:label "Hop" ;
+    cmo:latitude "45.4807579"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.2364606"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/hop_19> a cmo:Pub ;
+    rdfs:label "Hop" ;
+    cmo:latitude "45.4510576"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1944915"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/hop_2> a cmo:Pub ;
+    rdfs:label "Hop" ;
+    cmo:latitude "45.4587087"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.2061643"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/hop_20> a cmo:Pub ;
+    rdfs:label "Hop" ;
+    cmo:latitude "45.4508611"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "http://www.bondmilano.it" ;
+    cmo:longitude "9.1713435"^^xsd:float ;
+    schema:address "Via Pasquale Paoli" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/hop_21> a cmo:Pub ;
+    rdfs:label "Hop" ;
+    cmo:latitude "45.5319312"^^xsd:float ;
+    cmo:localBusinessPostalCode "20099" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.237054"^^xsd:float ;
+    schema:address "Via Felice Cavallotti" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/hop_22> a cmo:Pub ;
+    rdfs:label "Hop" ;
+    cmo:latitude "45.4577567"^^xsd:float ;
+    cmo:localBusinessPostalCode "20135" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.2079204"^^xsd:float ;
+    schema:address "Via Andrea Maffei" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/hop_23> a cmo:Pub ;
+    rdfs:label "Hop" ;
+    cmo:latitude "45.4889694"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1873664"^^xsd:float ;
+    schema:address "Via Antonio Pollaiuolo" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/hop_3> a cmo:Pub ;
+    rdfs:label "Hop" ;
+    cmo:latitude "45.4865484"^^xsd:float ;
+    cmo:localBusinessPostalCode "20154" ;
+    cmo:localBusinessWebsite "http://www.bqmilano.it/004/" ;
+    cmo:longitude "9.1648819"^^xsd:float ;
+    schema:address "Via Losanna" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/hop_4> a cmo:Pub ;
+    rdfs:label "Hop" ;
+    cmo:latitude "45.4871573"^^xsd:float ;
+    cmo:localBusinessPostalCode "20154" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1671499"^^xsd:float ;
+    schema:address "Via Cenisio" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/hop_5> a cmo:Pub ;
+    rdfs:label "Hop" ;
+    cmo:latitude "45.4458102"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1786259"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/hop_6> a cmo:Pub ;
+    rdfs:label "Hop" ;
+    cmo:latitude "45.4807579"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.2364606"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/hop_7> a cmo:Pub ;
+    rdfs:label "Hop" ;
+    cmo:latitude "45.4510576"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1944915"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/hop_8> a cmo:Pub ;
+    rdfs:label "Hop" ;
+    cmo:latitude "45.4508611"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "http://www.bondmilano.it" ;
+    cmo:longitude "9.1713435"^^xsd:float ;
+    schema:address "Via Pasquale Paoli" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/hop_9> a cmo:Pub ;
+    rdfs:label "Hop" ;
+    cmo:latitude "45.5319312"^^xsd:float ;
+    cmo:localBusinessPostalCode "20099" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.237054"^^xsd:float ;
+    schema:address "Via Felice Cavallotti" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/il_cedro> a cmo:Pub ;
+    rdfs:label "il Cedro" ;
+    cmo:latitude "45.4188143"^^xsd:float ;
+    cmo:localBusinessPostalCode "20097" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.2596577"^^xsd:float ;
+    schema:address "Via Gaetano Salvemini" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/il_cedro_1> a cmo:Pub ;
+    rdfs:label "il Cedro" ;
+    cmo:latitude "45.4188143"^^xsd:float ;
+    cmo:localBusinessPostalCode "20097" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.2596577"^^xsd:float ;
+    schema:address "Via Gaetano Salvemini" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/il_gatto_e_la_volpe> a cmo:Pub ;
+    rdfs:label "Il gatto e la volpe" ;
+    cmo:latitude "45.4949167"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.198145"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/il_gatto_e_la_volpe_1> a cmo:Pub ;
+    rdfs:label "Il gatto e la volpe" ;
+    cmo:latitude "45.4949167"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.198145"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/il_mago_di_oz> a cmo:Pub ;
+    rdfs:label "Il Mago di Oz" ;
+    cmo:latitude "45.5394353"^^xsd:float ;
+    cmo:localBusinessPostalCode "20026" ;
+    cmo:localBusinessWebsite "https://www.facebook.com/ilmagonovate/" ;
+    cmo:longitude "9.1365293"^^xsd:float ;
+    schema:address "Piazza della Pace" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/il_mago_di_oz_1> a cmo:Pub ;
+    rdfs:label "Il Mago di Oz" ;
+    cmo:latitude "45.5394353"^^xsd:float ;
+    cmo:localBusinessPostalCode "20026" ;
+    cmo:localBusinessWebsite "https://www.facebook.com/ilmagonovate/" ;
+    cmo:longitude "9.1365293"^^xsd:float ;
+    schema:address "Piazza della Pace" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/il_piccolo_bistro> a cmo:Pub ;
+    rdfs:label "Il Piccolo Bistro" ;
+    cmo:latitude "45.4583057"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1929293"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/il_piccolo_bistro_1> a cmo:Pub ;
+    rdfs:label "Il Piccolo Bistro" ;
+    cmo:latitude "45.4583057"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1929293"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/il_tombino> a cmo:Pub ;
+    rdfs:label "Il Tombino" ;
+    cmo:latitude "45.4609976"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1528367"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/il_tombino_1> a cmo:Pub ;
+    rdfs:label "Il Tombino" ;
+    cmo:latitude "45.4609976"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1528367"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/impronta_birraia> a cmo:Pub ;
+    rdfs:label "Impronta Birraia" ;
+    cmo:latitude "45.4706518"^^xsd:float ;
+    cmo:localBusinessPostalCode "20134" ;
+    cmo:localBusinessWebsite "http://www.improntabirraia.it/" ;
+    cmo:longitude "9.2460207"^^xsd:float ;
+    schema:address "Via Tucidide" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/impronta_birraia_1> a cmo:Pub ;
+    rdfs:label "Impronta Birraia" ;
+    cmo:latitude "45.4706518"^^xsd:float ;
+    cmo:localBusinessPostalCode "20134" ;
+    cmo:localBusinessWebsite "http://www.improntabirraia.it/" ;
+    cmo:longitude "9.2460207"^^xsd:float ;
+    schema:address "Via Tucidide" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/indiana_post> a cmo:Pub ;
+    rdfs:label "Indiana Post" ;
+    cmo:latitude "45.4512295"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1712214"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/indiana_post_1> a cmo:Pub ;
+    rdfs:label "Indiana Post" ;
+    cmo:latitude "45.4512295"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1712214"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/isola_della_birra> a cmo:Pub ;
+    rdfs:label "Isola Della Birra" ;
+    cmo:latitude "45.4897114"^^xsd:float ;
+    cmo:localBusinessPostalCode "20159" ;
+    cmo:localBusinessWebsite "http://www.isoladellabirra.com" ;
+    cmo:longitude "9.1853194"^^xsd:float ;
+    schema:address "Via Medardo Rosso" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/isola_della_birra_1> a cmo:Pub ;
+    rdfs:label "Isola Della Birra" ;
+    cmo:latitude "45.4897114"^^xsd:float ;
+    cmo:localBusinessPostalCode "20159" ;
+    cmo:localBusinessWebsite "http://www.isoladellabirra.com" ;
+    cmo:longitude "9.1853194"^^xsd:float ;
+    schema:address "Via Medardo Rosso" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/ittolitos> a cmo:Pub ;
+    rdfs:label "Ittolitos" ;
+    cmo:latitude "45.4402953"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1463299"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/ittolitos_1> a cmo:Pub ;
+    rdfs:label "Ittolitos" ;
+    cmo:latitude "45.4402953"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1463299"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/je_suis_jambon> a cmo:Pub ;
+    rdfs:label "Je suis Jambon" ;
+    cmo:latitude "45.5148526"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.2122145"^^xsd:float ;
+    schema:address "Piazza della Trivulziana" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/je_suis_jambon_1> a cmo:Pub ;
+    rdfs:label "Je suis Jambon" ;
+    cmo:latitude "45.5148526"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.2122145"^^xsd:float ;
+    schema:address "Piazza della Trivulziana" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/jjs_corner> a cmo:Pub ;
+    rdfs:label "JJ's corner" ;
+    cmo:latitude "45.4811644"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.2352638"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/jjs_corner_1> a cmo:Pub ;
+    rdfs:label "JJ's corner" ;
+    cmo:latitude "45.4811644"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.2352638"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/john_barleycorn> a cmo:Pub ;
+    rdfs:label "John Barleycorn" ;
+    cmo:latitude "45.5062384"^^xsd:float ;
+    cmo:localBusinessPostalCode "20128" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.2246976"^^xsd:float ;
+    schema:address "Via Aristotele" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/john_barleycorn_1> a cmo:Pub ;
+    rdfs:label "John Barleycorn" ;
+    cmo:latitude "45.5062384"^^xsd:float ;
+    cmo:localBusinessPostalCode "20128" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.2246976"^^xsd:float ;
+    schema:address "Via Aristotele" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/justcafe> a cmo:Pub ;
+    rdfs:label "JustCafé" ;
+    cmo:latitude "45.4819379"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.2278901"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/justcafe_1> a cmo:Pub ;
+    rdfs:label "JustCafé" ;
+    cmo:latitude "45.4819379"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.2278901"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/jutland_pub> a cmo:Pub ;
+    rdfs:label "Jutland Pub" ;
+    cmo:latitude "45.4805274"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1852718"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/jutland_pub_1> a cmo:Pub ;
+    rdfs:label "Jutland Pub" ;
+    cmo:latitude "45.4805274"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1852718"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/la_baracca> a cmo:Pub ;
+    rdfs:label "la baracca" ;
+    cmo:latitude "45.5264662"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.249968"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/la_baracca_1> a cmo:Pub ;
+    rdfs:label "la baracca" ;
+    cmo:latitude "45.5264662"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.249968"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/la_belle_alliance> a cmo:Pub ;
+    rdfs:label "La Belle Alliance" ;
+    cmo:latitude "45.4462528"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1792204"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/la_belle_alliance_1> a cmo:Pub ;
+    rdfs:label "La Belle Alliance" ;
+    cmo:latitude "45.4462528"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1792204"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/la_belle_aurore> a cmo:Pub ;
+    rdfs:label "La Belle Aurore" ;
+    cmo:latitude "45.4719305"^^xsd:float ;
+    cmo:localBusinessPostalCode "20129" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.214541"^^xsd:float ;
+    schema:address "Via privata Giuseppe Abamonti" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/la_belle_aurore_1> a cmo:Pub ;
+    rdfs:label "La Belle Aurore" ;
+    cmo:latitude "45.4719305"^^xsd:float ;
+    cmo:localBusinessPostalCode "20129" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.214541"^^xsd:float ;
+    schema:address "Via privata Giuseppe Abamonti" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/la_birrofila> a cmo:Pub ;
+    rdfs:label "La Birrofila" ;
+    cmo:latitude "45.4382102"^^xsd:float ;
+    cmo:localBusinessPostalCode "20141" ;
+    cmo:localBusinessWebsite "http://labirrofila.com" ;
+    cmo:longitude "9.1845842"^^xsd:float ;
+    schema:address "Via privata Sant'Ampellio" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/la_birrofila_1> a cmo:Pub ;
+    rdfs:label "La Birrofila" ;
+    cmo:latitude "45.4382102"^^xsd:float ;
+    cmo:localBusinessPostalCode "20141" ;
+    cmo:localBusinessWebsite "http://labirrofila.com" ;
+    cmo:longitude "9.1845842"^^xsd:float ;
+    schema:address "Via privata Sant'Ampellio" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/la_bottega_del_caffe_(marinella)> a cmo:Pub ;
+    rdfs:label "La bottega del caffe' (Marinella)" ;
+    cmo:latitude "45.4575857"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1730117"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/la_bottega_del_caffe_(marinella)_1> a cmo:Pub ;
+    rdfs:label "La bottega del caffe' (Marinella)" ;
+    cmo:latitude "45.4575857"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1730117"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/la_buca_di_san_vincenzo> a cmo:Pub ;
+    rdfs:label "La Buca di San Vincenzo" ;
+    cmo:latitude "45.4584882"^^xsd:float ;
+    cmo:localBusinessPostalCode "20123" ;
+    cmo:localBusinessWebsite "http://www.labucadisanvincenzo.com/" ;
+    cmo:longitude "9.1745576"^^xsd:float ;
+    schema:address "Via San Vincenzo" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/la_buca_di_san_vincenzo_1> a cmo:Pub ;
+    rdfs:label "La Buca di San Vincenzo" ;
+    cmo:latitude "45.4584882"^^xsd:float ;
+    cmo:localBusinessPostalCode "20123" ;
+    cmo:localBusinessWebsite "http://www.labucadisanvincenzo.com/" ;
+    cmo:longitude "9.1745576"^^xsd:float ;
+    schema:address "Via San Vincenzo" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/la_buttega_beer_room> a cmo:Pub ;
+    rdfs:label "La buttega beer room" ;
+    cmo:latitude "45.4975736"^^xsd:float ;
+    cmo:localBusinessPostalCode "20125" ;
+    cmo:localBusinessWebsite "http://www.labuttiga.it" ;
+    cmo:longitude "9.2086831"^^xsd:float ;
+    schema:address "Via Melchiorre Gioia" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/la_buttega_beer_room_1> a cmo:Pub ;
+    rdfs:label "La buttega beer room" ;
+    cmo:latitude "45.4975736"^^xsd:float ;
+    cmo:localBusinessPostalCode "20125" ;
+    cmo:localBusinessWebsite "http://www.labuttiga.it" ;
+    cmo:longitude "9.2086831"^^xsd:float ;
+    schema:address "Via Melchiorre Gioia" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/la_chiesetta> a cmo:Pub ;
+    rdfs:label "La Chiesetta" ;
+    cmo:latitude "45.4891069"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "http://www.lachiesetta.it" ;
+    cmo:longitude "9.1892051"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/la_chiesetta_1> a cmo:Pub ;
+    rdfs:label "La Chiesetta" ;
+    cmo:latitude "45.4891069"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "http://www.lachiesetta.it" ;
+    cmo:longitude "9.1892051"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/la_pazzeria> a cmo:Pub ;
+    rdfs:label "La Pazzeria" ;
+    cmo:latitude "45.4616341"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.138043"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/la_pazzeria_1> a cmo:Pub ;
+    rdfs:label "La Pazzeria" ;
+    cmo:latitude "45.4616341"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.138043"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/la_ringhiera> a cmo:Pub ;
+    rdfs:label "La Ringhiera" ;
+    cmo:latitude "45.4520986"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1772402"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/la_ringhiera_1> a cmo:Pub ;
+    rdfs:label "La Ringhiera" ;
+    cmo:latitude "45.4520986"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1772402"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/lambiczoon> a cmo:Pub ;
+    rdfs:label "Lambiczoon" ;
+    cmo:latitude "45.4541396"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.2134173"^^xsd:float ;
+    schema:address "Via Friuli" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/lambiczoon_1> a cmo:Pub ;
+    rdfs:label "Lambiczoon" ;
+    cmo:latitude "45.4541396"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.2134173"^^xsd:float ;
+    schema:address "Via Friuli" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/le_coq> a cmo:Pub ;
+    rdfs:label "Le Coq" ;
+    cmo:latitude "45.470509"^^xsd:float ;
+    cmo:localBusinessPostalCode "20133" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.2268801"^^xsd:float ;
+    schema:address "Piazza Francesco Guardi" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/le_coq_1> a cmo:Pub ;
+    rdfs:label "Le Coq" ;
+    cmo:latitude "45.470509"^^xsd:float ;
+    cmo:localBusinessPostalCode "20133" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.2268801"^^xsd:float ;
+    schema:address "Piazza Francesco Guardi" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/le_fontanelle> a cmo:Pub ;
+    rdfs:label "Le Fontanelle" ;
+    cmo:latitude "45.4518459"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.17768"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/le_fontanelle_1> a cmo:Pub ;
+    rdfs:label "Le Fontanelle" ;
+    cmo:latitude "45.4518459"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.17768"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/leoncavallo> a cmo:Pub ;
+    rdfs:label "Leoncavallo" ;
+    cmo:latitude "45.490367"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.2247833"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/leoncavallo_1> a cmo:Pub ;
+    rdfs:label "Leoncavallo" ;
+    cmo:latitude "45.490367"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.2247833"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/lord_byron> a cmo:Pub ;
+    rdfs:label "Lord Byron" ;
+    cmo:latitude "45.5245539"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.2712574"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/lord_byron_1> a cmo:Pub ;
+    rdfs:label "Lord Byron" ;
+    cmo:latitude "45.5245539"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.2712574"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/losteria_di_lambrate> a cmo:Pub ;
+    rdfs:label "L'osteria di Lambrate" ;
+    cmo:latitude "45.4831972"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.2360635"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/losteria_di_lambrate_1> a cmo:Pub ;
+    rdfs:label "L'osteria di Lambrate" ;
+    cmo:latitude "45.4831972"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.2360635"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/lucky_actors> a cmo:Pub ;
+    rdfs:label "Lucky Actors" ;
+    cmo:latitude "45.4809224"^^xsd:float ;
+    cmo:localBusinessPostalCode "20124" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1887328"^^xsd:float ;
+    schema:address "Viale Monte Grappa" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/lucky_actors_1> a cmo:Pub ;
+    rdfs:label "Lucky Actors" ;
+    cmo:latitude "45.4809224"^^xsd:float ;
+    cmo:localBusinessPostalCode "20124" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1887328"^^xsd:float ;
+    schema:address "Viale Monte Grappa" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/madrigal_irish_pub> a cmo:Pub ;
+    rdfs:label "Madrigal Irish Pub" ;
+    cmo:latitude "45.5357949"^^xsd:float ;
+    cmo:localBusinessPostalCode "20099" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.2201308"^^xsd:float ;
+    schema:address "Via Giuseppe Rovani" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/madrigal_irish_pub_1> a cmo:Pub ;
+    rdfs:label "Madrigal Irish Pub" ;
+    cmo:latitude "45.5357949"^^xsd:float ;
+    cmo:localBusinessPostalCode "20099" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.2201308"^^xsd:float ;
+    schema:address "Via Giuseppe Rovani" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/maga_furla> a cmo:Pub ;
+    rdfs:label "Maga Furla" ;
+    cmo:latitude "45.5095876"^^xsd:float ;
+    cmo:localBusinessPostalCode "20125" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.2118674"^^xsd:float ;
+    schema:address "Via Roberto Cozzi" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/maga_furla_1> a cmo:Pub ;
+    rdfs:label "Maga Furla" ;
+    cmo:latitude "45.5095876"^^xsd:float ;
+    cmo:localBusinessPostalCode "20125" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.2118674"^^xsd:float ;
+    schema:address "Via Roberto Cozzi" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/marghera_37> a cmo:Pub ;
+    rdfs:label "Marghera 37" ;
+    cmo:latitude "45.466786"^^xsd:float ;
+    cmo:localBusinessPostalCode "20149" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1523306"^^xsd:float ;
+    schema:address "Via Marghera" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/marghera_37_1> a cmo:Pub ;
+    rdfs:label "Marghera 37" ;
+    cmo:latitude "45.466786"^^xsd:float ;
+    cmo:localBusinessPostalCode "20149" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1523306"^^xsd:float ;
+    schema:address "Via Marghera" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/matricola> a cmo:Pub ;
+    rdfs:label "Matricola" ;
+    cmo:latitude "45.4757092"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.2233689"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/matricola_1> a cmo:Pub ;
+    rdfs:label "Matricola" ;
+    cmo:latitude "45.4757092"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.2233689"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/mayflower_pub> a cmo:Pub ;
+    rdfs:label "Mayflower pub" ;
+    cmo:latitude "45.4456224"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1762958"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/mayflower_pub_1> a cmo:Pub ;
+    rdfs:label "Mayflower pub" ;
+    cmo:latitude "45.4456224"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1762958"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/meatball_family> a cmo:Pub ;
+    rdfs:label "Meatball Family" ;
+    cmo:latitude "45.4532032"^^xsd:float ;
+    cmo:localBusinessPostalCode "20144" ;
+    cmo:localBusinessWebsite "http://www.themeatballfamily.com/it/" ;
+    cmo:longitude "9.1722295"^^xsd:float ;
+    schema:address "Via Vigevano" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/meatball_family_1> a cmo:Pub ;
+    rdfs:label "Meatball Family" ;
+    cmo:latitude "45.4532032"^^xsd:float ;
+    cmo:localBusinessPostalCode "20144" ;
+    cmo:localBusinessWebsite "http://www.themeatballfamily.com/it/" ;
+    cmo:longitude "9.1722295"^^xsd:float ;
+    schema:address "Via Vigevano" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/mind_the_step> a cmo:Pub ;
+    rdfs:label "Mind the Step" ;
+    cmo:latitude "45.4742999"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.2234256"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/mind_the_step_1> a cmo:Pub ;
+    rdfs:label "Mind the Step" ;
+    cmo:latitude "45.456213"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.202606"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/mind_the_step_2> a cmo:Pub ;
+    rdfs:label "Mind the Step" ;
+    cmo:latitude "45.4742999"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.2234256"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/mind_the_step_3> a cmo:Pub ;
+    rdfs:label "Mind the Step" ;
+    cmo:latitude "45.456213"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.202606"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/molly_malone> a cmo:Pub ;
+    rdfs:label "Molly Malone" ;
+    cmo:latitude "45.5296174"^^xsd:float ;
+    cmo:localBusinessPostalCode "20099" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.2328474"^^xsd:float ;
+    schema:address "Via Felice Cavallotti" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/molly_malone_1> a cmo:Pub ;
+    rdfs:label "Molly Malone" ;
+    cmo:latitude "45.5296174"^^xsd:float ;
+    cmo:localBusinessPostalCode "20099" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.2328474"^^xsd:float ;
+    schema:address "Via Felice Cavallotti" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/mulberry_st> a cmo:Pub ;
+    rdfs:label "Mulberry St" ;
+    cmo:latitude "45.4232725"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.2652156"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/mulberry_st_1> a cmo:Pub ;
+    rdfs:label "Mulberry St" ;
+    cmo:latitude "45.4232725"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.2652156"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/mulligans> a cmo:Pub ;
+    rdfs:label "Mulligan's" ;
+    cmo:latitude "45.4894039"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1677301"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/mulligans_1> a cmo:Pub ;
+    rdfs:label "Mulligan's" ;
+    cmo:latitude "45.4894039"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1677301"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/murphys_pub> a cmo:Pub ;
+    rdfs:label "Murphy's Pub" ;
+    cmo:latitude "45.4696964"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.2280645"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/murphys_pub_1> a cmo:Pub ;
+    rdfs:label "Murphy's Pub" ;
+    cmo:latitude "45.4550413"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1666413"^^xsd:float ;
+    schema:address "Via Montevideo" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/murphys_pub_2> a cmo:Pub ;
+    rdfs:label "Murphy's Pub" ;
+    cmo:latitude "45.4696964"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.2280645"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/murphys_pub_3> a cmo:Pub ;
+    rdfs:label "Murphy's Pub" ;
+    cmo:latitude "45.4550413"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1666413"^^xsd:float ;
+    schema:address "Via Montevideo" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/nibida_theatre> a cmo:Pub ;
+    rdfs:label "Nibida Theatre" ;
+    cmo:latitude "45.4490246"^^xsd:float ;
+    cmo:localBusinessPostalCode "20143" ;
+    cmo:localBusinessWebsite "http://www.nidaba.it/" ;
+    cmo:longitude "9.1762839"^^xsd:float ;
+    schema:address "Via Emilio Gola" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/nibida_theatre_1> a cmo:Pub ;
+    rdfs:label "Nibida Theatre" ;
+    cmo:latitude "45.4490246"^^xsd:float ;
+    cmo:localBusinessPostalCode "20143" ;
+    cmo:localBusinessWebsite "http://www.nidaba.it/" ;
+    cmo:longitude "9.1762839"^^xsd:float ;
+    schema:address "Via Emilio Gola" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/niks_&_co> a cmo:Pub ;
+    rdfs:label "Nik's & Co" ;
+    cmo:latitude "45.4903659"^^xsd:float ;
+    cmo:localBusinessPostalCode "20125" ;
+    cmo:localBusinessWebsite "http://niksandco.it/" ;
+    cmo:longitude "9.2037822"^^xsd:float ;
+    schema:address "Via Giovanni Schiaparelli" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/niks_&_co_1> a cmo:Pub ;
+    rdfs:label "Nik's & Co" ;
+    cmo:latitude "45.4903659"^^xsd:float ;
+    cmo:localBusinessPostalCode "20125" ;
+    cmo:localBusinessWebsite "http://niksandco.it/" ;
+    cmo:longitude "9.2037822"^^xsd:float ;
+    schema:address "Via Giovanni Schiaparelli" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/nordest> a cmo:Pub ;
+    rdfs:label "Nordest" ;
+    cmo:latitude "45.4893238"^^xsd:float ;
+    cmo:localBusinessPostalCode "20159" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1888396"^^xsd:float ;
+    schema:address "Via Pietro Borsieri" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/nordest_1> a cmo:Pub ;
+    rdfs:label "Nordest" ;
+    cmo:latitude "45.5238074"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1925759"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/nordest_2> a cmo:Pub ;
+    rdfs:label "Nordest" ;
+    cmo:latitude "45.4893238"^^xsd:float ;
+    cmo:localBusinessPostalCode "20159" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1888396"^^xsd:float ;
+    schema:address "Via Pietro Borsieri" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/nordest_3> a cmo:Pub ;
+    rdfs:label "Nordest" ;
+    cmo:latitude "45.5238074"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1925759"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/nuova_milano_09> a cmo:Pub ;
+    rdfs:label "Nuova Milano 09" ;
+    cmo:latitude "45.4380288"^^xsd:float ;
+    cmo:localBusinessPostalCode "20138" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.2436236"^^xsd:float ;
+    schema:address "Via Bruno Cassinari" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/nuova_milano_09_1> a cmo:Pub ;
+    rdfs:label "Nuova Milano 09" ;
+    cmo:latitude "45.4380288"^^xsd:float ;
+    cmo:localBusinessPostalCode "20138" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.2436236"^^xsd:float ;
+    schema:address "Via Bruno Cassinari" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/o_connell_country_pub> a cmo:Pub ;
+    rdfs:label "O' Connell Country Pub" ;
+    cmo:latitude "45.4696072"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1879899"^^xsd:float ;
+    schema:address "Via Brera" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/o_connell_country_pub_1> a cmo:Pub ;
+    rdfs:label "O' Connell Country Pub" ;
+    cmo:latitude "45.4696072"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1879899"^^xsd:float ;
+    schema:address "Via Brera" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/octopus> a cmo:Pub ;
+    rdfs:label "Octopus" ;
+    cmo:latitude "45.4440412"^^xsd:float ;
+    cmo:localBusinessPostalCode "20143" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.152231"^^xsd:float ;
+    schema:address "Via Giacomo Watt" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/octopus_1> a cmo:Pub ;
+    rdfs:label "Octopus" ;
+    cmo:latitude "45.4440412"^^xsd:float ;
+    cmo:localBusinessPostalCode "20143" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.152231"^^xsd:float ;
+    schema:address "Via Giacomo Watt" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/officina_della_birra> a cmo:Pub ;
+    rdfs:label "Officina della Birra" ;
+    cmo:latitude "45.536514"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1980977"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/officina_della_birra_1> a cmo:Pub ;
+    rdfs:label "Officina della Birra" ;
+    cmo:latitude "45.536514"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1980977"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/osteria_delle_erbe> a cmo:Pub ;
+    rdfs:label "Osteria delle Erbe" ;
+    cmo:latitude "45.5146215"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.2111879"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/osteria_delle_erbe_1> a cmo:Pub ;
+    rdfs:label "Osteria delle Erbe" ;
+    cmo:latitude "45.5146215"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.2111879"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/outback_cafe> a cmo:Pub ;
+    rdfs:label "Outback café" ;
+    cmo:latitude "45.4803007"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.2016606"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/outback_cafe_1> a cmo:Pub ;
+    rdfs:label "Outback café" ;
+    cmo:latitude "45.4803007"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.2016606"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/paperoga> a cmo:Pub ;
+    rdfs:label "Paperoga" ;
+    cmo:latitude "45.4648651"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.2300155"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/paperoga_1> a cmo:Pub ;
+    rdfs:label "Paperoga" ;
+    cmo:latitude "45.4648651"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.2300155"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/pave__birra> a cmo:Pub ;
+    rdfs:label "Pavè - Birra" ;
+    cmo:latitude "45.4791943"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.2028058"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/pave__birra_1> a cmo:Pub ;
+    rdfs:label "Pavè - Birra" ;
+    cmo:latitude "45.4791943"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.2028058"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/places_pub> a cmo:Pub ;
+    rdfs:label "Place's Pub" ;
+    cmo:latitude "45.5484668"^^xsd:float ;
+    cmo:localBusinessPostalCode "20095" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1759075"^^xsd:float ;
+    schema:address "Via Omodei" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/places_pub_1> a cmo:Pub ;
+    rdfs:label "Place's Pub" ;
+    cmo:latitude "45.5484668"^^xsd:float ;
+    cmo:localBusinessPostalCode "20095" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1759075"^^xsd:float ;
+    schema:address "Via Omodei" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/pogue_mahones> a cmo:Pub ;
+    rdfs:label "Pogue Mahone's" ;
+    cmo:latitude "45.4506704"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.2037648"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/pogue_mahones_1> a cmo:Pub ;
+    rdfs:label "Pogue Mahone's" ;
+    cmo:latitude "45.4506704"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.2037648"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/pollicino> a cmo:Pub ;
+    rdfs:label "Pollicino" ;
+    cmo:latitude "45.5425071"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1874477"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/pollicino_1> a cmo:Pub ;
+    rdfs:label "Pollicino" ;
+    cmo:latitude "45.5425071"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1874477"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/ponte_vecchio_pub> a cmo:Pub ;
+    rdfs:label "Ponte Vecchio Pub" ;
+    cmo:latitude "45.4492053"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1771597"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/ponte_vecchio_pub_1> a cmo:Pub ;
+    rdfs:label "Ponte Vecchio Pub" ;
+    cmo:latitude "45.4492053"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1771597"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/pub24> a cmo:Pub ;
+    rdfs:label "Pub24" ;
+    cmo:latitude "45.488411"^^xsd:float ;
+    cmo:localBusinessPostalCode "20159" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1891153"^^xsd:float ;
+    schema:address "Via Pietro Borsieri" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/pub24_1> a cmo:Pub ;
+    rdfs:label "Pub24" ;
+    cmo:latitude "45.488411"^^xsd:float ;
+    cmo:localBusinessPostalCode "20159" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1891153"^^xsd:float ;
+    schema:address "Via Pietro Borsieri" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/radetzky_cafe> a cmo:Pub ;
+    rdfs:label "Radetzky Café" ;
+    cmo:latitude "45.4784549"^^xsd:float ;
+    cmo:localBusinessPostalCode "20121" ;
+    cmo:localBusinessWebsite "http://www.radetzky.it/" ;
+    cmo:longitude "9.1850601"^^xsd:float ;
+    schema:address "Largo La Foppa" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/radetzky_cafe_1> a cmo:Pub ;
+    rdfs:label "Radetzky Café" ;
+    cmo:latitude "45.4784549"^^xsd:float ;
+    cmo:localBusinessPostalCode "20121" ;
+    cmo:localBusinessWebsite "http://www.radetzky.it/" ;
+    cmo:longitude "9.1850601"^^xsd:float ;
+    schema:address "Largo La Foppa" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/ralphs> a cmo:Pub ;
+    rdfs:label "Ralph's" ;
+    cmo:latitude "45.4578194"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1807356"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/ralphs_1> a cmo:Pub ;
+    rdfs:label "Ralph's" ;
+    cmo:latitude "45.4578194"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1807356"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/red_dragon> a cmo:Pub ;
+    rdfs:label "Red Dragon" ;
+    cmo:latitude "45.4532362"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1751395"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/red_dragon_1> a cmo:Pub ;
+    rdfs:label "Red Dragon" ;
+    cmo:latitude "45.4532362"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1751395"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/rocknroll_milano> a cmo:Pub ;
+    rdfs:label "Rock'n'Roll Milano" ;
+    cmo:latitude "45.4925338"^^xsd:float ;
+    cmo:localBusinessPostalCode "20125" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.2075644"^^xsd:float ;
+    schema:address "Via Giuseppe Bruschetti" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/rocknroll_milano_1> a cmo:Pub ;
+    rdfs:label "Rock'n'Roll Milano" ;
+    cmo:latitude "45.4925338"^^xsd:float ;
+    cmo:localBusinessPostalCode "20125" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.2075644"^^xsd:float ;
+    schema:address "Via Giuseppe Bruschetti" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/rosso_borsieri> a cmo:Pub ;
+    rdfs:label "Rosso Borsieri" ;
+    cmo:latitude "45.4869267"^^xsd:float ;
+    cmo:localBusinessPostalCode "20159" ;
+    cmo:localBusinessWebsite "http://www.rossoborsieri.it/" ;
+    cmo:longitude "9.188807"^^xsd:float ;
+    schema:address "Via Pietro Borsieri" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/rosso_borsieri_1> a cmo:Pub ;
+    rdfs:label "Rosso Borsieri" ;
+    cmo:latitude "45.4869267"^^xsd:float ;
+    cmo:localBusinessPostalCode "20159" ;
+    cmo:localBusinessWebsite "http://www.rossoborsieri.it/" ;
+    cmo:longitude "9.188807"^^xsd:float ;
+    schema:address "Via Pietro Borsieri" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/sacrestia> a cmo:Pub ;
+    rdfs:label "Sacrestia" ;
+    cmo:latitude "45.445785"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1768673"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/sacrestia_1> a cmo:Pub ;
+    rdfs:label "Sacrestia" ;
+    cmo:latitude "45.4891069"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "http://sacrestia.com/" ;
+    cmo:longitude "9.1892051"^^xsd:float ;
+    schema:address "Via Conchetta" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/sacrestia_2> a cmo:Pub ;
+    rdfs:label "Sacrestia" ;
+    cmo:latitude "45.445785"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1768673"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/sacrestia_3> a cmo:Pub ;
+    rdfs:label "Sacrestia" ;
+    cmo:latitude "45.4891069"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "http://sacrestia.com/" ;
+    cmo:longitude "9.1892051"^^xsd:float ;
+    schema:address "Via Conchetta" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/santeria_social_club> a cmo:Pub ;
+    rdfs:label "Santeria Social Club" ;
+    cmo:latitude "45.4891069"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "https://www.santeria.milano.it" ;
+    cmo:longitude "9.1892051"^^xsd:float ;
+    schema:address "Viale Toscana" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/santeria_social_club_1> a cmo:Pub ;
+    rdfs:label "Santeria Social Club" ;
+    cmo:latitude "45.4891069"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "https://www.santeria.milano.it" ;
+    cmo:longitude "9.1892051"^^xsd:float ;
+    schema:address "Viale Toscana" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/scott_duff> a cmo:Pub ;
+    rdfs:label "Scott Duff" ;
+    cmo:latitude "45.4799222"^^xsd:float ;
+    cmo:localBusinessPostalCode "20121" ;
+    cmo:localBusinessWebsite "http://www.scottduff.it" ;
+    cmo:longitude "9.1832687"^^xsd:float ;
+    schema:address "Via Alessandro Volta" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/scott_duff_1> a cmo:Pub ;
+    rdfs:label "Scott Duff" ;
+    cmo:latitude "45.4799222"^^xsd:float ;
+    cmo:localBusinessPostalCode "20121" ;
+    cmo:localBusinessWebsite "http://www.scottduff.it" ;
+    cmo:longitude "9.1832687"^^xsd:float ;
+    schema:address "Via Alessandro Volta" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/slice_cafe> a cmo:Pub ;
+    rdfs:label "Slice Cafè" ;
+    cmo:latitude "45.4507319"^^xsd:float ;
+    cmo:localBusinessPostalCode "20136" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1780228"^^xsd:float ;
+    schema:address "Via Ascanio Sforza" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/slice_cafe_1> a cmo:Pub ;
+    rdfs:label "Slice Cafè" ;
+    cmo:latitude "45.4507319"^^xsd:float ;
+    cmo:localBusinessPostalCode "20136" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1780228"^^xsd:float ;
+    schema:address "Via Ascanio Sforza" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/sporting_pub> a cmo:Pub ;
+    rdfs:label "Sporting Pub" ;
+    cmo:latitude "45.5111924"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.2006239"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/sporting_pub_1> a cmo:Pub ;
+    rdfs:label "Sporting Pub" ;
+    cmo:latitude "45.5111924"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.2006239"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/stalingrado> a cmo:Pub ;
+    rdfs:label "Stalingrado" ;
+    cmo:latitude "45.4867785"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1602382"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/stalingrado_1> a cmo:Pub ;
+    rdfs:label "Stalingrado" ;
+    cmo:latitude "45.4867785"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1602382"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/stoker> a cmo:Pub ;
+    rdfs:label "Stoker" ;
+    cmo:latitude "45.4190665"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.2543569"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/stoker_1> a cmo:Pub ;
+    rdfs:label "Stoker" ;
+    cmo:latitude "45.4523978"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "https://kkofler.com/milano-2/" ;
+    cmo:longitude "9.2146671"^^xsd:float ;
+    schema:address "Via Tito Livio" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/stoker_2> a cmo:Pub ;
+    rdfs:label "Stoker" ;
+    cmo:latitude "45.4190665"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.2543569"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/stoker_3> a cmo:Pub ;
+    rdfs:label "Stoker" ;
+    cmo:latitude "45.4523978"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "https://kkofler.com/milano-2/" ;
+    cmo:longitude "9.2146671"^^xsd:float ;
+    schema:address "Via Tito Livio" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/stranobar> a cmo:Pub ;
+    rdfs:label "Stranobar" ;
+    cmo:latitude "45.453058"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.2124913"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/stranobar_1> a cmo:Pub ;
+    rdfs:label "Stranobar" ;
+    cmo:latitude "45.453058"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.2124913"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/taxi_blues> a cmo:Pub ;
+    rdfs:label "Taxi Blues" ;
+    cmo:latitude "45.451173"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1897242"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/taxi_blues_1> a cmo:Pub ;
+    rdfs:label "Taxi Blues" ;
+    cmo:latitude "45.451173"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1897242"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/tempi_moderni> a cmo:Pub ;
+    rdfs:label "Tempi moderni" ;
+    cmo:latitude "45.5141993"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.208342"^^xsd:float ;
+    schema:address "Via Nicolò Fortiguerra" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/tempi_moderni_1> a cmo:Pub ;
+    rdfs:label "Tempi moderni" ;
+    cmo:latitude "45.5141993"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.208342"^^xsd:float ;
+    schema:address "Via Nicolò Fortiguerra" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/tequila> a cmo:Pub ;
+    rdfs:label "Tequila" ;
+    cmo:latitude "45.4950751"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.197087"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/tequila_1> a cmo:Pub ;
+    rdfs:label "Tequila" ;
+    cmo:latitude "45.4950751"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.197087"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/the_english_football_pub> a cmo:Pub ;
+    rdfs:label "The English Football Pub" ;
+    cmo:latitude "45.4620417"^^xsd:float ;
+    cmo:localBusinessPostalCode "20123" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1853897"^^xsd:float ;
+    schema:address "Via Valpetrosa" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/the_english_football_pub_1> a cmo:Pub ;
+    rdfs:label "The English Football Pub" ;
+    cmo:latitude "45.4620417"^^xsd:float ;
+    cmo:localBusinessPostalCode "20123" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1853897"^^xsd:float ;
+    schema:address "Via Valpetrosa" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/the_friends> a cmo:Pub ;
+    rdfs:label "The Friends" ;
+    cmo:latitude "45.4801903"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "https://www.thefriendspubmilano.it" ;
+    cmo:longitude "9.1934014"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/the_friends_1> a cmo:Pub ;
+    rdfs:label "The Friends" ;
+    cmo:latitude "45.4801903"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "https://www.thefriendspubmilano.it" ;
+    cmo:longitude "9.1934014"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/the_good_life> a cmo:Pub ;
+    rdfs:label "The Good Life" ;
+    cmo:latitude "45.4892647"^^xsd:float ;
+    cmo:localBusinessPostalCode "20159" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1831976"^^xsd:float ;
+    schema:address "Via Carlo Farini" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/the_good_life_1> a cmo:Pub ;
+    rdfs:label "The Good Life" ;
+    cmo:latitude "45.4892647"^^xsd:float ;
+    cmo:localBusinessPostalCode "20159" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1831976"^^xsd:float ;
+    schema:address "Via Carlo Farini" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/the_grey_cat_pub> a cmo:Pub ;
+    rdfs:label "The Grey Cat Pub" ;
+    cmo:latitude "45.4739416"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.3057401"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/the_grey_cat_pub_1> a cmo:Pub ;
+    rdfs:label "The Grey Cat Pub" ;
+    cmo:latitude "45.4739416"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.3057401"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/the_manhattan> a cmo:Pub ;
+    rdfs:label "The Manhattan" ;
+    cmo:latitude "45.4790873"^^xsd:float ;
+    cmo:localBusinessPostalCode "20121" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1841339"^^xsd:float ;
+    schema:address "Via Alessandro Volta" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/the_manhattan_1> a cmo:Pub ;
+    rdfs:label "The Manhattan" ;
+    cmo:latitude "45.4790873"^^xsd:float ;
+    cmo:localBusinessPostalCode "20121" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1841339"^^xsd:float ;
+    schema:address "Via Alessandro Volta" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/the_old_fox_pub> a cmo:Pub ;
+    rdfs:label "The Old Fox Pub" ;
+    cmo:latitude "45.4588109"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1707677"^^xsd:float ;
+    schema:address "Via Cesare da Sesto" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/the_old_fox_pub_1> a cmo:Pub ;
+    rdfs:label "The Old Fox Pub" ;
+    cmo:latitude "45.4588109"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1707677"^^xsd:float ;
+    schema:address "Via Cesare da Sesto" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/the_saints_and_the_scholars> a cmo:Pub ;
+    rdfs:label "The Saints and the Scholars" ;
+    cmo:latitude "45.4890802"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1675217"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/the_saints_and_the_scholars_1> a cmo:Pub ;
+    rdfs:label "The Saints and the Scholars" ;
+    cmo:latitude "45.4890802"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1675217"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/the_white_flag> a cmo:Pub ;
+    rdfs:label "The White Flag" ;
+    cmo:latitude "45.4446317"^^xsd:float ;
+    cmo:localBusinessPostalCode "20139" ;
+    cmo:localBusinessWebsite "http://www.thewhiteflag.it" ;
+    cmo:longitude "9.2105485"^^xsd:float ;
+    schema:address "Via Brembo" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/the_white_flag_1> a cmo:Pub ;
+    rdfs:label "The White Flag" ;
+    cmo:latitude "45.4446317"^^xsd:float ;
+    cmo:localBusinessPostalCode "20139" ;
+    cmo:localBusinessWebsite "http://www.thewhiteflag.it" ;
+    cmo:longitude "9.2105485"^^xsd:float ;
+    schema:address "Via Brembo" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/tin_whistle> a cmo:Pub ;
+    rdfs:label "Tin Whistle" ;
+    cmo:latitude "45.4451996"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1446995"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/tin_whistle_1> a cmo:Pub ;
+    rdfs:label "Tin Whistle" ;
+    cmo:latitude "45.4451996"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1446995"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/tipota_pub> a cmo:Pub ;
+    rdfs:label "Tipota Pub" ;
+    cmo:latitude "45.4452563"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "http://www.tipota.net/" ;
+    cmo:longitude "9.180703"^^xsd:float ;
+    schema:address "Via Francesco Brioschi" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/tipota_pub_1> a cmo:Pub ;
+    rdfs:label "Tipota Pub" ;
+    cmo:latitude "45.4452563"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "http://www.tipota.net/" ;
+    cmo:longitude "9.180703"^^xsd:float ;
+    schema:address "Via Francesco Brioschi" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/tir_na_nog> a cmo:Pub ;
+    rdfs:label "Tir Na Nog" ;
+    cmo:latitude "45.5317335"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1942523"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/tir_na_nog_1> a cmo:Pub ;
+    rdfs:label "Tir Na Nog" ;
+    cmo:latitude "45.5317335"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1942523"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/vinyl> a cmo:Pub ;
+    rdfs:label "Vinyl" ;
+    cmo:latitude "45.4877272"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1875031"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/vinyl_1> a cmo:Pub ;
+    rdfs:label "Vinyl" ;
+    cmo:latitude "45.4507167"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1704697"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/vinyl_2> a cmo:Pub ;
+    rdfs:label "Vinyl" ;
+    cmo:latitude "45.4877272"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1875031"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/vinyl_3> a cmo:Pub ;
+    rdfs:label "Vinyl" ;
+    cmo:latitude "45.4507167"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1704697"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/whisky_bar> a cmo:Pub ;
+    rdfs:label "Whisky Bar" ;
+    cmo:latitude "45.4831171"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1640946"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/whisky_bar_1> a cmo:Pub ;
+    rdfs:label "Whisky Bar" ;
+    cmo:latitude "45.4831171"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1640946"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/wizard> a cmo:Pub ;
+    rdfs:label "Wizard" ;
+    cmo:latitude "45.450409"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1692728"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/wizard_1> a cmo:Pub ;
+    rdfs:label "Wizard" ;
+    cmo:latitude "45.4896876"^^xsd:float ;
+    cmo:localBusinessPostalCode "20159" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.187804"^^xsd:float ;
+    schema:address "Via Antonio Pollaiuolo" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/wizard_2> a cmo:Pub ;
+    rdfs:label "Wizard" ;
+    cmo:latitude "45.5405486"^^xsd:float ;
+    cmo:localBusinessPostalCode "20091" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1892575"^^xsd:float ;
+    schema:address "Via Vittorio Veneto" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/wizard_3> a cmo:Pub ;
+    rdfs:label "Wizard" ;
+    cmo:latitude "45.450409"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1692728"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/wizard_4> a cmo:Pub ;
+    rdfs:label "Wizard" ;
+    cmo:latitude "45.4896876"^^xsd:float ;
+    cmo:localBusinessPostalCode "20159" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.187804"^^xsd:float ;
+    schema:address "Via Antonio Pollaiuolo" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/wizard_5> a cmo:Pub ;
+    rdfs:label "Wizard" ;
+    cmo:latitude "45.5405486"^^xsd:float ;
+    cmo:localBusinessPostalCode "20091" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1892575"^^xsd:float ;
+    schema:address "Via Vittorio Veneto" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/woodstock> a cmo:Pub ;
+    rdfs:label "Woodstock" ;
+    cmo:latitude "45.4474586"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1553746"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/woodstock_1> a cmo:Pub ;
+    rdfs:label "Woodstock" ;
+    cmo:latitude "45.4474586"^^xsd:float ;
+    cmo:localBusinessPostalCode "void" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1553746"^^xsd:float ;
+    schema:address "void" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/zhizun_pub> a cmo:Pub ;
+    rdfs:label "Zhizun Pub" ;
+    cmo:latitude "45.4914095"^^xsd:float ;
+    cmo:localBusinessPostalCode "20159" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1847285"^^xsd:float ;
+    schema:address "Via Alserio" ;
+    schema:email "void" .
+
+<http://comune.milano.it/resource/pub/zhizun_pub_1> a cmo:Pub ;
+    rdfs:label "Zhizun Pub" ;
+    cmo:latitude "45.4914095"^^xsd:float ;
+    cmo:localBusinessPostalCode "20159" ;
+    cmo:localBusinessWebsite "void" ;
+    cmo:longitude "9.1847285"^^xsd:float ;
+    schema:address "Via Alserio" ;
+    schema:email "void" .
+

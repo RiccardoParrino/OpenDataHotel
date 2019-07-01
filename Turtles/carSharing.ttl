@@ -1,0 +1,91 @@
+@prefix cmo: <http://www.comune.milano.it/ontology/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://comune.milano.it/resource/carSharing/carsharing_milano_tibaldi_via_pietro_pomponazzi_quartiere_stadera_chiesa_rossa_milano_mi_lom_20136_italia> a cmo:CarSharing ;
+    rdfs:label "Carsharing Milano, Tibaldi, Via Pietro Pomponazzi, Quartiere Stadera, Chiesa Rossa, Milano, MI, LOM, 20136, Italia" ;
+    cmo:addressOfTransportSystemStation "Tibaldi, Via Pietro Pomponazzi, Quartiere Stadera, Chiesa Rossa, Milano, MI, LOM, 20136, Italia" ;
+    cmo:latitude "45.438561"^^xsd:float ;
+    cmo:longitude "9.1818061"^^xsd:float ;
+    cmo:organizationOfTransportSystem "Carsharing Milano" .
+
+<http://comune.milano.it/resource/carSharing/carsharing_milano_tibaldi_via_pietro_pomponazzi_quartiere_stadera_chiesa_rossa_milano_mi_lom_20136_italia_1> a cmo:CarSharing ;
+    rdfs:label "Carsharing Milano, Tibaldi, Via Pietro Pomponazzi, Quartiere Stadera, Chiesa Rossa, Milano, MI, LOM, 20136, Italia" ;
+    cmo:addressOfTransportSystemStation "Tibaldi, Via Pietro Pomponazzi, Quartiere Stadera, Chiesa Rossa, Milano, MI, LOM, 20136, Italia" ;
+    cmo:latitude "45.438561"^^xsd:float ;
+    cmo:longitude "9.1818061"^^xsd:float ;
+    cmo:organizationOfTransportSystem "Carsharing Milano" .
+
+<http://comune.milano.it/resource/carSharing/e_vai_derganino_municipio_9_milano_mi_lom_italia> a cmo:CarSharing ;
+    rdfs:label "e-vai, Derganino, Municipio 9, Milano, MI, LOM, Italia" ;
+    cmo:addressOfTransportSystemStation "Derganino, Municipio 9, Milano, MI, LOM, Italia" ;
+    cmo:latitude "45.5020581"^^xsd:float ;
+    cmo:longitude "9.1596153"^^xsd:float ;
+    cmo:organizationOfTransportSystem "e-vai" .
+
+<http://comune.milano.it/resource/carSharing/e_vai_derganino_municipio_9_milano_mi_lom_italia_1> a cmo:CarSharing ;
+    rdfs:label "e-vai, Derganino, Municipio 9, Milano, MI, LOM, Italia" ;
+    cmo:addressOfTransportSystemStation "Derganino, Municipio 9, Milano, MI, LOM, Italia" ;
+    cmo:latitude "45.5020581"^^xsd:float ;
+    cmo:longitude "9.1596153"^^xsd:float ;
+    cmo:organizationOfTransportSystem "e-vai" .
+
+<http://comune.milano.it/resource/carSharing/enjoy_piazza_primo_maggio_baraggia_sesto_san_giovanni_mi_lom_20099_italia> a cmo:CarSharing ;
+    rdfs:label "Enjoy, Piazza Primo Maggio, Baraggia, Sesto San Giovanni, MI, LOM, 20099, Italia" ;
+    cmo:addressOfTransportSystemStation "Enjoy, Piazza Primo Maggio, Baraggia, Sesto San Giovanni, MI, LOM, 20099, Italia" ;
+    cmo:latitude "45.5411315"^^xsd:float ;
+    cmo:longitude "9.2386318"^^xsd:float ;
+    cmo:organizationOfTransportSystem "Enjoy" .
+
+<http://comune.milano.it/resource/carSharing/enjoy_piazza_primo_maggio_baraggia_sesto_san_giovanni_mi_lom_20099_italia_1> a cmo:CarSharing ;
+    rdfs:label "Enjoy, Piazza Primo Maggio, Baraggia, Sesto San Giovanni, MI, LOM, 20099, Italia" ;
+    cmo:addressOfTransportSystemStation "Enjoy, Piazza Primo Maggio, Baraggia, Sesto San Giovanni, MI, LOM, 20099, Italia" ;
+    cmo:latitude "45.5411315"^^xsd:float ;
+    cmo:longitude "9.2386318"^^xsd:float ;
+    cmo:organizationOfTransportSystem "Enjoy" .
+
+<http://comune.milano.it/resource/carSharing/guidami_citta_studi_via_giovanni_celoria_citta_studi_milano_mi_lom_20133_italia> a cmo:CarSharing ;
+    rdfs:label "GuidaMi, Città Studi, Via Giovanni Celoria, Città Studi, Milano, MI, LOM, 20133, Italia" ;
+    cmo:addressOfTransportSystemStation "Città Studi, Via Giovanni Celoria, Città Studi, Milano, MI, LOM, 20133, Italia" ;
+    cmo:latitude "45.4768008"^^xsd:float ;
+    cmo:longitude "9.2262483"^^xsd:float ;
+    cmo:organizationOfTransportSystem "GuidaMi" .
+
+<http://comune.milano.it/resource/carSharing/guidami_citta_studi_via_giovanni_celoria_citta_studi_milano_mi_lom_20133_italia_1> a cmo:CarSharing ;
+    rdfs:label "GuidaMi, Città Studi, Via Giovanni Celoria, Città Studi, Milano, MI, LOM, 20133, Italia" ;
+    cmo:addressOfTransportSystemStation "Città Studi, Via Giovanni Celoria, Città Studi, Milano, MI, LOM, 20133, Italia" ;
+    cmo:latitude "45.4768008"^^xsd:float ;
+    cmo:longitude "9.2262483"^^xsd:float ;
+    cmo:organizationOfTransportSystem "GuidaMi" .
+
+<http://comune.milano.it/resource/carSharing/guidami_viale_andrea_doria_loreto_milano_mi_lom_2014_italia> a cmo:CarSharing ;
+    rdfs:label "GuidaMi, Viale Andrea Doria, Loreto, Milano, MI, LOM, 2014, Italia" ;
+    cmo:addressOfTransportSystemStation "GuidaMi, Viale Andrea Doria, Loreto, Milano, MI, LOM, 2014, Italia" ;
+    cmo:latitude "45.486178"^^xsd:float ;
+    cmo:longitude "9.2152697"^^xsd:float ;
+    cmo:organizationOfTransportSystem "GuidaMi" .
+
+<http://comune.milano.it/resource/carSharing/guidami_viale_andrea_doria_loreto_milano_mi_lom_2014_italia_1> a cmo:CarSharing ;
+    rdfs:label "GuidaMi, Viale Andrea Doria, Loreto, Milano, MI, LOM, 2014, Italia" ;
+    cmo:addressOfTransportSystemStation "GuidaMi, Viale Andrea Doria, Loreto, Milano, MI, LOM, 2014, Italia" ;
+    cmo:latitude "45.486178"^^xsd:float ;
+    cmo:longitude "9.2152697"^^xsd:float ;
+    cmo:organizationOfTransportSystem "GuidaMi" .
+
+<http://comune.milano.it/resource/carSharing/sharengo_enjoy_piazza_primo_maggio_baraggia_sesto_san_giovanni_mi_lom_20099_italia> a cmo:CarSharing ;
+    rdfs:label "Share'ngo, Enjoy, Piazza Primo Maggio, Baraggia, Sesto San Giovanni, MI, LOM, 20099, Italia" ;
+    cmo:addressOfTransportSystemStation "Enjoy, Piazza Primo Maggio, Baraggia, Sesto San Giovanni, MI, LOM, 20099, Italia" ;
+    cmo:latitude "45.5411315"^^xsd:float ;
+    cmo:longitude "9.2386318"^^xsd:float ;
+    cmo:organizationOfTransportSystem "Share'ngo" .
+
+<http://comune.milano.it/resource/carSharing/sharengo_enjoy_piazza_primo_maggio_baraggia_sesto_san_giovanni_mi_lom_20099_italia_1> a cmo:CarSharing ;
+    rdfs:label "Share'ngo, Enjoy, Piazza Primo Maggio, Baraggia, Sesto San Giovanni, MI, LOM, 20099, Italia" ;
+    cmo:addressOfTransportSystemStation "Enjoy, Piazza Primo Maggio, Baraggia, Sesto San Giovanni, MI, LOM, 20099, Italia" ;
+    cmo:latitude "45.5411315"^^xsd:float ;
+    cmo:longitude "9.2386318"^^xsd:float ;
+    cmo:organizationOfTransportSystem "Share'ngo" .
+

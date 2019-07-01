@@ -1,0 +1,42 @@
+[out:json][timeout:25];
+nwr(around:10000,45.4637901,9.1895511)["tourism"="hotel"];
+out center;
+
+[out:json][timeout:25];
+nwr(around:10000,45.4637901,9.1895511)["amenity"="fast_food"];
+out center;
+
+[out:json][timeout:25];
+nwr(around:10000,45.4637901,9.1895511)["amenity"="restaurant"];
+out center;
+
+[out:json][timeout:25];
+nwr(around:10000,45.4637901,9.1895511)["amenity"="car_rental"];
+out center;
+
+[out:json][timeout:25];
+nwr(around:10000,45.4637901,9.1895511)["amenity"="car_sharing"];
+out center;
+
+[out:json][timeout:25];
+nwr(around:10000,45.4637901,9.1895511)["amenity"="parking"];
+out center;
+
+[out:json][timeout:25];
+nwr(around:10000,45.4637901,9.1895511)["amenity"="bar"];
+out center;
+
+[out:json][timeout:25];
+nwr(around:10000,45.4637901,9.1895511)["amenity"="pub"];
+out center;
+
+[out:json][timeout:25];
+nwr(around:10000,45.4637901,9.1895511)["amenity"="bicycle_rental"];
+out center;
+
+tpl_metroFermate = http://dati.comune.milano.it/dataset/ds535_atm-fermate-linee-metropolitane/resource/dd6a770a-b321-44f0-b58c-9725d84409bb
+tpl_fermateBus = http://dati.comune.milano.it/dataset/ds534-atm-fermate-linee-di-superficie-urbane/resource/7d21bd77-3ad1-4235-9a40-8a8cdfeb65a0
+
+Query Location: http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&query=select%20distinct%20%3Furi%20%3Flabel%0Awhere%20%7B%20%0A%09%3Furi%20dbo%3Alocation%20dbr%3AMilan.%0A%09%3Furi%20rdfs%3Alabel%20%3Flabel.%0A%7D%20&format=json
+
+GeoQuery: http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&query=select%20distinct%20%3Furi%20%3Flabel%0Awhere%20%7B%20%0A%09dbr%3AMilan%20geo%3Ageometry%20%3Fsourcegeo%20.%0A%09%3Furi%20geo%3Ageometry%20%3Flocation%20%3B%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20rdfs%3Alabel%20%3Flabel%20.%0A%20%09FILTER%28%20bif%3Ast_intersects%28%20%3Flocation%2C%20%3Fsourcegeo%2C%2020%20%29%20%29%20.%0A%7D%20

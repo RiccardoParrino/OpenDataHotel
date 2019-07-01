@@ -1,0 +1,140 @@
+@prefix cmo: <http://www.comune.milano.it/ontology/> .
+@prefix ns1: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://comune.milano.it/resource/railwayStation/bruzzano> a schema:TrainStation ;
+    rdfs:label "BRUZZANO" ;
+    cmo:latitude "45.52967913978634"^^xsd:float ;
+    cmo:longitude "9.171788665844945"^^xsd:float ;
+    cmo:organizationOfTransportSystem "FNM"@it .
+
+<http://comune.milano.it/resource/railwayStation/mi_affori> a schema:TrainStation ;
+    rdfs:label "MI-AFFORI" ;
+    cmo:latitude "45.519902667880906"^^xsd:float ;
+    cmo:longitude "9.166747218173587"^^xsd:float ;
+    cmo:organizationOfTransportSystem "FNM"@it .
+
+<http://comune.milano.it/resource/railwayStation/mi_bovisa> a schema:TrainStation ;
+    rdfs:label "MI-BOVISA" ;
+    cmo:latitude "45.501845483213806"^^xsd:float ;
+    cmo:longitude "9.15889513837008"^^xsd:float ;
+    cmo:organizationOfTransportSystem "FNM-FS"@it ;
+    ns1:seeAlso <http://dbpedia.org/resource/Bovisa> .
+
+<http://comune.milano.it/resource/railwayStation/mi_bullona> a schema:TrainStation ;
+    rdfs:label "MI-BULLONA" ;
+    cmo:latitude "45.486602364633406"^^xsd:float ;
+    cmo:longitude "9.160680791935318"^^xsd:float ;
+    cmo:organizationOfTransportSystem "FNM"@it .
+
+<http://comune.milano.it/resource/railwayStation/mi_cadorna> a schema:TrainStation ;
+    rdfs:label "MI-CADORNA" ;
+    cmo:latitude "45.468399840269"^^xsd:float ;
+    cmo:longitude "9.17544651289856"^^xsd:float ;
+    cmo:organizationOfTransportSystem "FNM"@it .
+
+<http://comune.milano.it/resource/railwayStation/mi_certosa> a schema:TrainStation ;
+    rdfs:label "MI-CERTOSA" ;
+    cmo:latitude "45.50689232983893"^^xsd:float ;
+    cmo:longitude "9.134348133149187"^^xsd:float ;
+    cmo:organizationOfTransportSystem "FS"@it .
+
+<http://comune.milano.it/resource/railwayStation/mi_dateo> a schema:TrainStation ;
+    rdfs:label "MI-DATEO" ;
+    cmo:latitude "45.46809976373131"^^xsd:float ;
+    cmo:longitude "9.217279706877758"^^xsd:float ;
+    cmo:organizationOfTransportSystem "FNM-FS"@it .
+
+<http://comune.milano.it/resource/railwayStation/mi_greco_pirelli> a schema:TrainStation ;
+    rdfs:label "MI-GRECO PIRELLI" ;
+    cmo:latitude "45.51321668352468"^^xsd:float ;
+    cmo:longitude "9.214848144100861"^^xsd:float ;
+    cmo:organizationOfTransportSystem "FS"@it .
+
+<http://comune.milano.it/resource/railwayStation/mi_lambrate> a schema:TrainStation ;
+    rdfs:label "MI-LAMBRATE" ;
+    cmo:latitude "45.4862052978261"^^xsd:float ;
+    cmo:longitude "9.236154855442066"^^xsd:float ;
+    cmo:organizationOfTransportSystem "FS"@it ;
+    ns1:seeAlso <http://dbpedia.org/resource/Lambrate_(Milan_Metro)> .
+
+<http://comune.milano.it/resource/railwayStation/mi_lancetti> a schema:TrainStation ;
+    rdfs:label "MI-LANCETTI" ;
+    cmo:latitude "45.49461391029668"^^xsd:float ;
+    cmo:longitude "9.172717278864825"^^xsd:float ;
+    cmo:organizationOfTransportSystem "FNM-FS"@it .
+
+<http://comune.milano.it/resource/railwayStation/mi_pta_garibaldi> a schema:TrainStation ;
+    rdfs:label "MI-P.TA GARIBALDI" ;
+    cmo:latitude "45.48466125679104"^^xsd:float ;
+    cmo:longitude "9.186749668329547"^^xsd:float ;
+    cmo:organizationOfTransportSystem "FNM-FS"@it .
+
+<http://comune.milano.it/resource/railwayStation/mi_pta_genova> a schema:TrainStation ;
+    rdfs:label "MI-P.TA GENOVA" ;
+    cmo:latitude "45.45283697740459"^^xsd:float ;
+    cmo:longitude "9.169452570883896"^^xsd:float ;
+    cmo:organizationOfTransportSystem "FS"@it .
+
+<http://comune.milano.it/resource/railwayStation/mi_pta_genova_1> a schema:TrainStation ;
+    rdfs:label "MI-P.TA GENOVA" ;
+    cmo:latitude "45.47598781942515"^^xsd:float ;
+    cmo:longitude "9.208201004822593"^^xsd:float ;
+    cmo:organizationOfTransportSystem "FNM-FS"@it .
+
+<http://comune.milano.it/resource/railwayStation/mi_pta_romana> a schema:TrainStation ;
+    rdfs:label "MI-P.TA ROMANA" ;
+    cmo:latitude "45.445338168314485"^^xsd:float ;
+    cmo:longitude "9.200883397550292"^^xsd:float ;
+    cmo:organizationOfTransportSystem "FS"@it .
+
+<http://comune.milano.it/resource/railwayStation/mi_pta_vittoria> a schema:TrainStation ;
+    rdfs:label "MI-P.TA VITTORIA" ;
+    cmo:latitude "45.45936389864208"^^xsd:float ;
+    cmo:longitude "9.219996272975944"^^xsd:float ;
+    cmo:organizationOfTransportSystem "FS"@it .
+
+<http://comune.milano.it/resource/railwayStation/mi_quarto_oggiaro> a schema:TrainStation ;
+    rdfs:label "MI-QUARTO OGGIARO" ;
+    cmo:latitude "45.51971380608423"^^xsd:float ;
+    cmo:longitude "9.144904489041068"^^xsd:float ;
+    cmo:organizationOfTransportSystem "FNM"@it .
+
+<http://comune.milano.it/resource/railwayStation/mi_repubblica> a schema:TrainStation ;
+    rdfs:label "MI-REPUBBLICA" ;
+    cmo:latitude "45.48066849017109"^^xsd:float ;
+    cmo:longitude "9.197966778474125"^^xsd:float ;
+    cmo:organizationOfTransportSystem "FNM-FS"@it ;
+    ns1:seeAlso <http://dbpedia.org/resource/Repubblica_(Milan_Metro)> .
+
+<http://comune.milano.it/resource/railwayStation/mi_rogoredo> a schema:TrainStation ;
+    rdfs:label "MI-ROGOREDO" ;
+    cmo:latitude "45.43432094778678"^^xsd:float ;
+    cmo:longitude "9.23841001782537"^^xsd:float ;
+    cmo:organizationOfTransportSystem "FS"@it ;
+    ns1:seeAlso <http://dbpedia.org/resource/Rogoredo_(Milan_Metro)> .
+
+<http://comune.milano.it/resource/railwayStation/mi_villapizzone> a schema:TrainStation ;
+    rdfs:label "MI-VILLAPIZZONE" ;
+    cmo:latitude "45.502190478919346"^^xsd:float ;
+    cmo:longitude "9.150620893606174"^^xsd:float ;
+    cmo:organizationOfTransportSystem "FNM-FS"@it ;
+    ns1:seeAlso <http://dbpedia.org/resource/Villapizzone> .
+
+<http://comune.milano.it/resource/railwayStation/milano_centrale> a schema:TrainStation ;
+    rdfs:label "MILANO CENTRALE" ;
+    cmo:latitude "45.485386703204504"^^xsd:float ;
+    cmo:longitude "9.203481359012224"^^xsd:float ;
+    cmo:organizationOfTransportSystem "FS"@it ;
+    ns1:seeAlso <http://dbpedia.org/resource/Centrale_(Milan_Metro)> .
+
+<http://comune.milano.it/resource/railwayStation/scristoforo> a schema:TrainStation ;
+    rdfs:label "S.CRISTOFORO" ;
+    cmo:latitude "45.44245240999985"^^xsd:float ;
+    cmo:longitude "9.130101087982014"^^xsd:float ;
+    cmo:organizationOfTransportSystem "FS"@it .
+

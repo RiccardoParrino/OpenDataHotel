@@ -1,0 +1,1 @@
+curl -l dati.comune.milano.it/dataset/8920bbea-fe1a-4061-8c6e-0746d95316c1/resource/7cba11e7-c236-49a7-aef4-4db6329eec5d/download/parchi.geojson > "./Park/Park.geojson"

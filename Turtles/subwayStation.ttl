@@ -1,0 +1,728 @@
+@prefix cmo: <http://www.comune.milano.it/ontology/> .
+@prefix ns1: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://comune.milano.it/resource/subwayStation/abbiategrasso> a schema:SubwayStation ;
+    rdfs:label "ABBIATEGRASSO" ;
+    cmo:latitude "45.429994901035116"^^xsd:float ;
+    cmo:lineOfPublicTransportSystemStation "2" ;
+    cmo:longitude "9.177322807882318"^^xsd:float .
+
+<http://comune.milano.it/resource/subwayStation/affori_centro> a schema:SubwayStation ;
+    rdfs:label "AFFORI CENTRO" ;
+    cmo:latitude "45.51355430102783"^^xsd:float ;
+    cmo:lineOfPublicTransportSystemStation "3" ;
+    cmo:longitude "9.173979907894779"^^xsd:float .
+
+<http://comune.milano.it/resource/subwayStation/affori_fn> a schema:SubwayStation ;
+    rdfs:label "AFFORI FN" ;
+    cmo:latitude "45.52168180102753"^^xsd:float ;
+    cmo:lineOfPublicTransportSystemStation "3" ;
+    cmo:longitude "9.168251607898183"^^xsd:float .
+
+<http://comune.milano.it/resource/subwayStation/amendola> a schema:SubwayStation ;
+    rdfs:label "AMENDOLA" ;
+    cmo:latitude "45.47367890103308"^^xsd:float ;
+    cmo:lineOfPublicTransportSystemStation "1" ;
+    cmo:longitude "9.150969307898771"^^xsd:float .
+
+<http://comune.milano.it/resource/subwayStation/assago_milanofiori_nord> a schema:SubwayStation ;
+    rdfs:label "ASSAGO MILANOFIORI NORD" ;
+    cmo:latitude "45.40945450103896"^^xsd:float ;
+    cmo:lineOfPublicTransportSystemStation "2" ;
+    cmo:longitude "9.150046307890616"^^xsd:float ;
+    ns1:sameAs <http://dbpedia.org/resource/Assago_Milanofiori_Nord_(Milan_Metro)> .
+
+<http://comune.milano.it/resource/subwayStation/assago_milanofiori_nord_1> a schema:SubwayStation ;
+    rdfs:label "ASSAGO MILANOFIORI NORD" ;
+    cmo:latitude "45.40174850103996"^^xsd:float ;
+    cmo:lineOfPublicTransportSystemStation "2" ;
+    cmo:longitude "9.145538807891409"^^xsd:float ;
+    ns1:sameAs <http://dbpedia.org/resource/Assago_Milanofiori_Nord_(Milan_Metro)> .
+
+<http://comune.milano.it/resource/subwayStation/bande_nere> a schema:SubwayStation ;
+    rdfs:label "BANDE NERE" ;
+    cmo:latitude "45.46150400103524"^^xsd:float ;
+    cmo:lineOfPublicTransportSystemStation "1" ;
+    cmo:longitude "9.136484507903"^^xsd:float .
+
+<http://comune.milano.it/resource/subwayStation/bicocca> a schema:SubwayStation ;
+    rdfs:label "BICOCCA" ;
+    cmo:latitude "45.51473390102549"^^xsd:float ;
+    cmo:lineOfPublicTransportSystemStation "5" ;
+    cmo:longitude "9.20536990788226"^^xsd:float ;
+    ns1:sameAs <http://dbpedia.org/resource/Bicocca_(Milan_Metro)> .
+
+<http://comune.milano.it/resource/subwayStation/bignami> a schema:SubwayStation ;
+    rdfs:label "BIGNAMI" ;
+    cmo:latitude "45.52678420102389"^^xsd:float ;
+    cmo:lineOfPublicTransportSystemStation "5" ;
+    cmo:longitude "9.212180507881111"^^xsd:float .
+
+<http://comune.milano.it/resource/subwayStation/bisceglie> a schema:SubwayStation ;
+    rdfs:label "BISCEGLIE" ;
+    cmo:latitude "45.455380401037516"^^xsd:float ;
+    cmo:lineOfPublicTransportSystemStation "1" ;
+    cmo:longitude "9.11292550791171"^^xsd:float .
+
+<http://comune.milano.it/resource/subwayStation/buonarroti> a schema:SubwayStation ;
+    rdfs:label "BUONARROTI" ;
+    cmo:latitude "45.47040200103309"^^xsd:float ;
+    cmo:lineOfPublicTransportSystemStation "1" ;
+    cmo:longitude "9.15529230789659"^^xsd:float .
+
+<http://comune.milano.it/resource/subwayStation/bussero> a schema:SubwayStation ;
+    rdfs:label "BUSSERO" ;
+    cmo:latitude "45.525301662545225"^^xsd:float ;
+    cmo:lineOfPublicTransportSystemStation "2" ;
+    cmo:longitude "9.375896921658327"^^xsd:float .
+
+<http://comune.milano.it/resource/subwayStation/ca_granda> a schema:SubwayStation ;
+    rdfs:label "CA GRANDA" ;
+    cmo:latitude "45.507242501026454"^^xsd:float ;
+    cmo:lineOfPublicTransportSystemStation "5" ;
+    cmo:longitude "9.201110307882976"^^xsd:float ;
+    ns1:sameAs <http://dbpedia.org/resource/Cà_Granda_(Milan_Metro)> .
+
+<http://comune.milano.it/resource/subwayStation/cadorna_fn_m2> a schema:SubwayStation ;
+    rdfs:label "CADORNA FN M2" ;
+    cmo:latitude "45.46815510103172"^^xsd:float ;
+    cmo:lineOfPublicTransportSystemStation "2" ;
+    cmo:longitude "9.177102407887476"^^xsd:float .
+
+<http://comune.milano.it/resource/subwayStation/cadorna_fn_m2_1> a schema:SubwayStation ;
+    rdfs:label "CADORNA FN M2" ;
+    cmo:latitude "45.46819530103174"^^xsd:float ;
+    cmo:lineOfPublicTransportSystemStation "1" ;
+    cmo:longitude "9.176426307887759"^^xsd:float .
+
+<http://comune.milano.it/resource/subwayStation/cairoli> a schema:SubwayStation ;
+    rdfs:label "CAIROLI" ;
+    cmo:latitude "45.468367201031334"^^xsd:float ;
+    cmo:lineOfPublicTransportSystemStation "1" ;
+    cmo:longitude "9.182025007885516"^^xsd:float ;
+    ns1:sameAs <http://dbpedia.org/resource/Cairoli_(Milan_Metro)> .
+
+<http://comune.milano.it/resource/subwayStation/cairoli_1> a schema:SubwayStation ;
+    rdfs:label "CAIROLI" ;
+    cmo:latitude "45.48531820102785"^^xsd:float ;
+    cmo:lineOfPublicTransportSystemStation "2" ;
+    cmo:longitude "9.209409407876711"^^xsd:float ;
+    ns1:sameAs <http://dbpedia.org/resource/Cairoli_(Milan_Metro)> .
+
+<http://comune.milano.it/resource/subwayStation/cascina_antonietta> a schema:SubwayStation ;
+    rdfs:label "CASCINA ANTONIETTA" ;
+    cmo:latitude "45.542079477549514"^^xsd:float ;
+    cmo:lineOfPublicTransportSystemStation "2" ;
+    cmo:longitude "9.423500191490108"^^xsd:float .
+
+<http://comune.milano.it/resource/subwayStation/cascina_burrona> a schema:SubwayStation ;
+    rdfs:label "CASCINA BURRONA" ;
+    cmo:latitude "45.51736435688754"^^xsd:float ;
+    cmo:lineOfPublicTransportSystemStation "2" ;
+    cmo:longitude "9.297835424210906"^^xsd:float ;
+    ns1:sameAs <http://dbpedia.org/resource/Cascina_Burrona_(Milan_Metro)> .
+
+<http://comune.milano.it/resource/subwayStation/cascina_gobba> a schema:SubwayStation ;
+    rdfs:label "CASCINA GOBBA" ;
+    cmo:latitude "45.51144240102178"^^xsd:float ;
+    cmo:lineOfPublicTransportSystemStation "2" ;
+    cmo:longitude "9.260510207859536"^^xsd:float ;
+    ns1:sameAs <http://dbpedia.org/resource/Cascina_Gobba_(Milan_Metro)> .
+
+<http://comune.milano.it/resource/subwayStation/cassina_de_pecchi> a schema:SubwayStation ;
+    rdfs:label "CASSINA DE PECCHI" ;
+    cmo:latitude "45.521864033702954"^^xsd:float ;
+    cmo:lineOfPublicTransportSystemStation "2" ;
+    cmo:longitude "9.363121602131166"^^xsd:float .
+
+<http://comune.milano.it/resource/subwayStation/centrale_fs> a schema:SubwayStation ;
+    rdfs:label "CENTRALE FS" ;
+    cmo:latitude "45.484439701028414"^^xsd:float ;
+    cmo:lineOfPublicTransportSystemStation "2" ;
+    cmo:longitude "9.202612807879335"^^xsd:float ;
+    ns1:sameAs <http://dbpedia.org/resource/Centrale_(Milan_Metro)> .
+
+<http://comune.milano.it/resource/subwayStation/centrale_fs_1> a schema:SubwayStation ;
+    rdfs:label "CENTRALE FS" ;
+    cmo:latitude "45.484439701028414"^^xsd:float ;
+    cmo:lineOfPublicTransportSystemStation "3" ;
+    cmo:longitude "9.202612807879335"^^xsd:float ;
+    ns1:sameAs <http://dbpedia.org/resource/Centrale_(Milan_Metro)> .
+
+<http://comune.milano.it/resource/subwayStation/cernusco_sul_naviglio> a schema:SubwayStation ;
+    rdfs:label "CERNUSCO SUL NAVIGLIO" ;
+    cmo:latitude "45.521069011199316"^^xsd:float ;
+    cmo:lineOfPublicTransportSystemStation "2" ;
+    cmo:longitude "9.331377713029685"^^xsd:float ;
+    ns1:sameAs <http://dbpedia.org/resource/Cernusco_sul_Naviglio> .
+
+<http://comune.milano.it/resource/subwayStation/cologno_centro> a schema:SubwayStation ;
+    rdfs:label "COLOGNO CENTRO" ;
+    cmo:latitude "45.527478201018724"^^xsd:float ;
+    cmo:lineOfPublicTransportSystemStation "2" ;
+    cmo:longitude "9.282964207852595"^^xsd:float .
+
+<http://comune.milano.it/resource/subwayStation/cologno_sud> a schema:SubwayStation ;
+    rdfs:label "COLOGNO SUD" ;
+    cmo:latitude "45.52021310101994"^^xsd:float ;
+    cmo:lineOfPublicTransportSystemStation "2" ;
+    cmo:longitude "9.274927107854877"^^xsd:float .
+
+<http://comune.milano.it/resource/subwayStation/cologno_sud_1> a schema:SubwayStation ;
+    rdfs:label "COLOGNO SUD" ;
+    cmo:latitude "45.53430280101753"^^xsd:float ;
+    cmo:lineOfPublicTransportSystemStation "2" ;
+    cmo:longitude "9.291094107850226"^^xsd:float .
+
+<http://comune.milano.it/resource/subwayStation/comasina> a schema:SubwayStation ;
+    rdfs:label "COMASINA" ;
+    cmo:latitude "45.52813260102725"^^xsd:float ;
+    cmo:lineOfPublicTransportSystemStation "3" ;
+    cmo:longitude "9.163729107900874"^^xsd:float .
+
+<http://comune.milano.it/resource/subwayStation/conciliazione> a schema:SubwayStation ;
+    rdfs:label "CONCILIAZIONE" ;
+    cmo:latitude "45.46753410103253"^^xsd:float ;
+    cmo:lineOfPublicTransportSystemStation "1" ;
+    cmo:longitude "9.16648700789168"^^xsd:float ;
+    ns1:sameAs <http://dbpedia.org/resource/Conciliazione_(Milan_Metro)> .
+
+<http://comune.milano.it/resource/subwayStation/crescenzago> a schema:SubwayStation ;
+    rdfs:label "CRESCENZAGO" ;
+    cmo:latitude "45.50525440102323"^^xsd:float ;
+    cmo:lineOfPublicTransportSystemStation "2" ;
+    cmo:longitude "9.248193307863687"^^xsd:float ;
+    ns1:sameAs <http://dbpedia.org/resource/Crescenzago> .
+
+<http://comune.milano.it/resource/subwayStation/de_angeli> a schema:SubwayStation ;
+    rdfs:label "DE ANGELI" ;
+    cmo:latitude "45.466430601033856"^^xsd:float ;
+    cmo:lineOfPublicTransportSystemStation "1" ;
+    cmo:longitude "9.149565807898375"^^xsd:float .
+
+<http://comune.milano.it/resource/subwayStation/dergano> a schema:SubwayStation ;
+    rdfs:label "DERGANO" ;
+    cmo:latitude "45.46828080103287"^^xsd:float ;
+    cmo:lineOfPublicTransportSystemStation "1" ;
+    cmo:longitude "9.161095207893961"^^xsd:float ;
+    ns1:sameAs <http://dbpedia.org/resource/Dergano> .
+
+<http://comune.milano.it/resource/subwayStation/dergano_1> a schema:SubwayStation ;
+    rdfs:label "DERGANO" ;
+    cmo:latitude "45.505537001028145"^^xsd:float ;
+    cmo:lineOfPublicTransportSystemStation "3" ;
+    cmo:longitude "9.179603107891445"^^xsd:float ;
+    ns1:sameAs <http://dbpedia.org/resource/Dergano> .
+
+<http://comune.milano.it/resource/subwayStation/dergano_2> a schema:SubwayStation ;
+    rdfs:label "DERGANO" ;
+    cmo:latitude "45.5000415010242"^^xsd:float ;
+    cmo:lineOfPublicTransportSystemStation "2" ;
+    cmo:longitude "9.241425707865732"^^xsd:float ;
+    ns1:sameAs <http://dbpedia.org/resource/Dergano> .
+
+<http://comune.milano.it/resource/subwayStation/domodossola> a schema:SubwayStation ;
+    rdfs:label "DOMODOSSOLA" ;
+    cmo:latitude "45.48161902612322"^^xsd:float ;
+    cmo:lineOfPublicTransportSystemStation "5" ;
+    cmo:longitude "9.16226040292661"^^xsd:float .
+
+<http://comune.milano.it/resource/subwayStation/duomo_m3> a schema:SubwayStation ;
+    rdfs:label "DUOMO M3" ;
+    cmo:latitude "45.46390371771966"^^xsd:float ;
+    cmo:lineOfPublicTransportSystemStation "3" ;
+    cmo:longitude "9.188611010053185"^^xsd:float ;
+    ns1:sameAs <http://dbpedia.org/resource/Duomo_(Milan_Metro)> .
+
+<http://comune.milano.it/resource/subwayStation/duomo_m3_1> a schema:SubwayStation ;
+    rdfs:label "DUOMO M3" ;
+    cmo:latitude "45.46462205639821"^^xsd:float ;
+    cmo:lineOfPublicTransportSystemStation "1" ;
+    cmo:longitude "9.189596064235388"^^xsd:float ;
+    ns1:sameAs <http://dbpedia.org/resource/Duomo_(Milan_Metro)> .
+
+<http://comune.milano.it/resource/subwayStation/famagosta> a schema:SubwayStation ;
+    rdfs:label "FAMAGOSTA" ;
+    cmo:latitude "45.43689500103518"^^xsd:float ;
+    cmo:lineOfPublicTransportSystemStation "2" ;
+    cmo:longitude "9.168012607886999"^^xsd:float ;
+    ns1:sameAs <http://dbpedia.org/resource/Famagosta_(Milan_Metro)> .
+
+<http://comune.milano.it/resource/subwayStation/garibaldi_fs> a schema:SubwayStation ;
+    rdfs:label "GARIBALDI FS" ;
+    cmo:latitude "45.48363970102961"^^xsd:float ;
+    cmo:lineOfPublicTransportSystemStation "2" ;
+    cmo:longitude "9.186742407885646"^^xsd:float ;
+    ns1:sameAs <http://dbpedia.org/resource/Garibaldi_FS_(Milan_Metro)> .
+
+<http://comune.milano.it/resource/subwayStation/garibaldi_fs_1> a schema:SubwayStation ;
+    rdfs:label "GARIBALDI FS" ;
+    cmo:latitude "45.48363970102961"^^xsd:float ;
+    cmo:lineOfPublicTransportSystemStation "5" ;
+    cmo:longitude "9.186742407885646"^^xsd:float ;
+    ns1:sameAs <http://dbpedia.org/resource/Garibaldi_FS_(Milan_Metro)> .
+
+<http://comune.milano.it/resource/subwayStation/gerusalemme> a schema:SubwayStation ;
+    rdfs:label "GERUSALEMME" ;
+    cmo:latitude "45.48452175220638"^^xsd:float ;
+    cmo:lineOfPublicTransportSystemStation "5" ;
+    cmo:longitude "9.166777787248627"^^xsd:float .
+
+<http://comune.milano.it/resource/subwayStation/gessate> a schema:SubwayStation ;
+    rdfs:label "GESSATE" ;
+    cmo:latitude "45.54528723127597"^^xsd:float ;
+    cmo:lineOfPublicTransportSystemStation "2" ;
+    cmo:longitude "9.436625130131508"^^xsd:float .
+
+<http://comune.milano.it/resource/subwayStation/gorgonzola> a schema:SubwayStation ;
+    rdfs:label "GORGONZOLA" ;
+    cmo:latitude "45.53674100100932"^^xsd:float ;
+    cmo:lineOfPublicTransportSystemStation "2" ;
+    cmo:longitude "9.403454107805153"^^xsd:float .
+
+<http://comune.milano.it/resource/subwayStation/inganni> a schema:SubwayStation ;
+    rdfs:label "INGANNI" ;
+    cmo:latitude "45.45756300103666"^^xsd:float ;
+    cmo:lineOfPublicTransportSystemStation "1" ;
+    cmo:longitude "9.122262907908226"^^xsd:float .
+
+<http://comune.milano.it/resource/subwayStation/lambrate_fs> a schema:SubwayStation ;
+    rdfs:label "LAMBRATE FS" ;
+    cmo:latitude "45.4842475010261"^^xsd:float ;
+    cmo:lineOfPublicTransportSystemStation "2" ;
+    cmo:longitude "9.234829807866294"^^xsd:float ;
+    ns1:sameAs <http://dbpedia.org/resource/Lambrate_(Milan_Metro)> .
+
+<http://comune.milano.it/resource/subwayStation/lampugnano> a schema:SubwayStation ;
+    rdfs:label "LAMPUGNANO" ;
+    cmo:latitude "45.48940170103338"^^xsd:float ;
+    cmo:lineOfPublicTransportSystemStation "1" ;
+    cmo:longitude "9.127319207910416"^^xsd:float .
+
+<http://comune.milano.it/resource/subwayStation/lodi_tibb> a schema:SubwayStation ;
+    rdfs:label "LODI T.I.B.B." ;
+    cmo:latitude "45.44676360103117"^^xsd:float ;
+    cmo:lineOfPublicTransportSystemStation "3" ;
+    cmo:longitude "9.210816407871011"^^xsd:float ;
+    ns1:sameAs <http://dbpedia.org/resource/Lodi_T.I.B.B._(Milan_Metro)> .
+
+<http://comune.milano.it/resource/subwayStation/lotto_fieramilanocity> a schema:SubwayStation ;
+    rdfs:label "LOTTO FIERAMILANOCITY" ;
+    cmo:latitude "45.479145401033136"^^xsd:float ;
+    cmo:lineOfPublicTransportSystemStation "1" ;
+    cmo:longitude "9.143748807902412"^^xsd:float .
+
+<http://comune.milano.it/resource/subwayStation/lotto_m5> a schema:SubwayStation ;
+    rdfs:label "LOTTO M5" ;
+    cmo:latitude "45.47978187279056"^^xsd:float ;
+    cmo:lineOfPublicTransportSystemStation "5" ;
+    cmo:longitude "9.143668721517452"^^xsd:float .
+
+<http://comune.milano.it/resource/subwayStation/lotto_m5_1> a schema:SubwayStation ;
+    rdfs:label "LOTTO M5" ;
+    cmo:latitude "45.48459430102747"^^xsd:float ;
+    cmo:lineOfPublicTransportSystemStation "2" ;
+    cmo:longitude "9.215166007874288"^^xsd:float .
+
+<http://comune.milano.it/resource/subwayStation/lotto_m5_2> a schema:SubwayStation ;
+    rdfs:label "LOTTO M5" ;
+    cmo:latitude "45.486240110985705"^^xsd:float ;
+    cmo:lineOfPublicTransportSystemStation "1" ;
+    cmo:longitude "9.216981578369202"^^xsd:float .
+
+<http://comune.milano.it/resource/subwayStation/maciachini> a schema:SubwayStation ;
+    rdfs:label "MACIACHINI" ;
+    cmo:latitude "45.49770170102845"^^xsd:float ;
+    cmo:lineOfPublicTransportSystemStation "3" ;
+    cmo:longitude "9.1850425078882"^^xsd:float .
+
+<http://comune.milano.it/resource/subwayStation/molino_dorino> a schema:SubwayStation ;
+    rdfs:label "MOLINO DORINO" ;
+    cmo:latitude "45.50521160103447"^^xsd:float ;
+    cmo:lineOfPublicTransportSystemStation "1" ;
+    cmo:longitude "9.0929661079264"^^xsd:float .
+
+<http://comune.milano.it/resource/subwayStation/montenapoleone> a schema:SubwayStation ;
+    rdfs:label "MONTENAPOLEONE" ;
+    cmo:latitude "45.470005501030386"^^xsd:float ;
+    cmo:lineOfPublicTransportSystemStation "3" ;
+    cmo:longitude "9.19284790788136"^^xsd:float ;
+    ns1:sameAs <http://dbpedia.org/resource/Montenapoleone_(Milan_Metro)> .
+
+<http://comune.milano.it/resource/subwayStation/monumentale> a schema:SubwayStation ;
+    rdfs:label "MONUMENTALE" ;
+    cmo:latitude "45.48481477633973"^^xsd:float ;
+    cmo:lineOfPublicTransportSystemStation "5" ;
+    cmo:longitude "9.179793124404807"^^xsd:float .
+
+<http://comune.milano.it/resource/subwayStation/moscova> a schema:SubwayStation ;
+    rdfs:label "MOSCOVA" ;
+    cmo:latitude "45.47743950103035"^^xsd:float ;
+    cmo:lineOfPublicTransportSystemStation "2" ;
+    cmo:longitude "9.184475707885735"^^xsd:float ;
+    ns1:sameAs <http://dbpedia.org/resource/Moscova_(Milan_Metro)> .
+
+<http://comune.milano.it/resource/subwayStation/moscova_1> a schema:SubwayStation ;
+    rdfs:label "MOSCOVA" ;
+    cmo:latitude "45.46010860103157"^^xsd:float ;
+    cmo:lineOfPublicTransportSystemStation "3" ;
+    cmo:longitude "9.189027107881591"^^xsd:float ;
+    ns1:sameAs <http://dbpedia.org/resource/Moscova_(Milan_Metro)> .
+
+<http://comune.milano.it/resource/subwayStation/palestro> a schema:SubwayStation ;
+    rdfs:label "PALESTRO" ;
+    cmo:latitude "45.47142500102961"^^xsd:float ;
+    cmo:lineOfPublicTransportSystemStation "1" ;
+    cmo:longitude "9.20194900787787"^^xsd:float .
+
+<http://comune.milano.it/resource/subwayStation/porta_romana> a schema:SubwayStation ;
+    rdfs:label "PORTA ROMANA" ;
+    cmo:latitude "45.45143410103132"^^xsd:float ;
+    cmo:lineOfPublicTransportSystemStation "3" ;
+    cmo:longitude "9.203400207874633"^^xsd:float ;
+    ns1:sameAs <http://dbpedia.org/resource/Porta_Romana_(Milan_Metro)> .
+
+<http://comune.milano.it/resource/subwayStation/portello> a schema:SubwayStation ;
+    rdfs:label "PORTELLO" ;
+    cmo:latitude "45.48079954792554"^^xsd:float ;
+    cmo:lineOfPublicTransportSystemStation "5" ;
+    cmo:longitude "9.151499440899116"^^xsd:float ;
+    ns1:sameAs <http://dbpedia.org/resource/Portello_(district_of_Milan)> .
+
+<http://comune.milano.it/resource/subwayStation/portello_1> a schema:SubwayStation ;
+    rdfs:label "PORTELLO" ;
+    cmo:latitude "45.440410901030866"^^xsd:float ;
+    cmo:lineOfPublicTransportSystemStation "3" ;
+    cmo:longitude "9.223469507865063"^^xsd:float ;
+    ns1:sameAs <http://dbpedia.org/resource/Portello_(district_of_Milan)> .
+
+<http://comune.milano.it/resource/subwayStation/porto_di_mare> a schema:SubwayStation ;
+    rdfs:label "PORTO DI MARE" ;
+    cmo:latitude "45.437127901030664"^^xsd:float ;
+    cmo:lineOfPublicTransportSystemStation "3" ;
+    cmo:longitude "9.230311107861862"^^xsd:float ;
+    ns1:sameAs <http://dbpedia.org/resource/Porto_di_Mare_(Milan_Metro)> .
+
+<http://comune.milano.it/resource/subwayStation/precotto> a schema:SubwayStation ;
+    rdfs:label "PRECOTTO" ;
+    cmo:latitude "45.512029501024315"^^xsd:float ;
+    cmo:lineOfPublicTransportSystemStation "1" ;
+    cmo:longitude "9.22449910787417"^^xsd:float ;
+    ns1:sameAs <http://dbpedia.org/resource/Precotto_(Milan_Metro)> .
+
+<http://comune.milano.it/resource/subwayStation/precotto_1> a schema:SubwayStation ;
+    rdfs:label "PRECOTTO" ;
+    cmo:latitude "45.456550801031455"^^xsd:float ;
+    cmo:lineOfPublicTransportSystemStation "3" ;
+    cmo:longitude "9.195103407878662"^^xsd:float ;
+    ns1:sameAs <http://dbpedia.org/resource/Precotto_(Milan_Metro)> .
+
+<http://comune.milano.it/resource/subwayStation/primaticcio> a schema:SubwayStation ;
+    rdfs:label "PRIMATICCIO" ;
+    cmo:latitude "45.45941360103596"^^xsd:float ;
+    cmo:lineOfPublicTransportSystemStation "1" ;
+    cmo:longitude "9.129259707905643"^^xsd:float .
+
+<http://comune.milano.it/resource/subwayStation/pta_genova_fs> a schema:SubwayStation ;
+    rdfs:label "P.TA GENOVA F.S." ;
+    cmo:latitude "45.452378201033675"^^xsd:float ;
+    cmo:lineOfPublicTransportSystemStation "2" ;
+    cmo:longitude "9.169606107888411"^^xsd:float .
+
+<http://comune.milano.it/resource/subwayStation/pta_venezia> a schema:SubwayStation ;
+    rdfs:label "P.TA VENEZIA" ;
+    cmo:latitude "45.47441870102913"^^xsd:float ;
+    cmo:lineOfPublicTransportSystemStation "1" ;
+    cmo:longitude "9.20504640787702"^^xsd:float .
+
+<http://comune.milano.it/resource/subwayStation/repubblica> a schema:SubwayStation ;
+    rdfs:label "REPUBBLICA" ;
+    cmo:latitude "45.48008960102905"^^xsd:float ;
+    cmo:lineOfPublicTransportSystemStation "3" ;
+    cmo:longitude "9.198856407880275"^^xsd:float ;
+    ns1:sameAs <http://dbpedia.org/resource/Repubblica_(Milan_Metro)> .
+
+<http://comune.milano.it/resource/subwayStation/rho_fieramilano> a schema:SubwayStation ;
+    rdfs:label "RHO FIERAMILANO" ;
+    cmo:latitude "45.51983980103358"^^xsd:float ;
+    cmo:lineOfPublicTransportSystemStation "1" ;
+    cmo:longitude "9.087107307930722"^^xsd:float .
+
+<http://comune.milano.it/resource/subwayStation/rogoredo_fs> a schema:SubwayStation ;
+    rdfs:label "ROGOREDO FS" ;
+    cmo:latitude "45.43358620103042"^^xsd:float ;
+    cmo:lineOfPublicTransportSystemStation "3" ;
+    cmo:longitude "9.238089107858249"^^xsd:float ;
+    ns1:sameAs <http://dbpedia.org/resource/Rogoredo_(Milan_Metro)> .
+
+<http://comune.milano.it/resource/subwayStation/romolo> a schema:SubwayStation ;
+    rdfs:label "ROMOLO" ;
+    cmo:latitude "45.443733301034555"^^xsd:float ;
+    cmo:lineOfPublicTransportSystemStation "2" ;
+    cmo:longitude "9.167676807888038"^^xsd:float ;
+    ns1:sameAs <http://dbpedia.org/resource/Milano_Romolo_railway_station> .
+
+<http://comune.milano.it/resource/subwayStation/romolo_1> a schema:SubwayStation ;
+    rdfs:label "ROMOLO" ;
+    cmo:latitude "45.52199450102447"^^xsd:float ;
+    cmo:lineOfPublicTransportSystemStation "5" ;
+    cmo:longitude "9.209473607881565"^^xsd:float ;
+    ns1:sameAs <http://dbpedia.org/resource/Milano_Romolo_railway_station> .
+
+<http://comune.milano.it/resource/subwayStation/romolo_2> a schema:SubwayStation ;
+    rdfs:label "ROMOLO" ;
+    cmo:latitude "45.49700260103394"^^xsd:float ;
+    cmo:lineOfPublicTransportSystemStation "1" ;
+    cmo:longitude "9.11014780791837"^^xsd:float ;
+    ns1:sameAs <http://dbpedia.org/resource/Milano_Romolo_railway_station> .
+
+<http://comune.milano.it/resource/subwayStation/rovereto> a schema:SubwayStation ;
+    rdfs:label "ROVERETO" ;
+    cmo:latitude "45.49553310102617"^^xsd:float ;
+    cmo:lineOfPublicTransportSystemStation "1" ;
+    cmo:longitude "9.21950580787399"^^xsd:float .
+
+<http://comune.milano.it/resource/subwayStation/sagostino> a schema:SubwayStation ;
+    rdfs:label "S.AGOSTINO" ;
+    cmo:latitude "45.458620101033084"^^xsd:float ;
+    cmo:lineOfPublicTransportSystemStation "2" ;
+    cmo:longitude "9.16981440788915"^^xsd:float .
+
+<http://comune.milano.it/resource/subwayStation/sambrogio> a schema:SubwayStation ;
+    rdfs:label "S.AMBROGIO" ;
+    cmo:latitude "45.46162390103256"^^xsd:float ;
+    cmo:lineOfPublicTransportSystemStation "2" ;
+    cmo:longitude "9.173168007888199"^^xsd:float .
+
+<http://comune.milano.it/resource/subwayStation/san_babila> a schema:SubwayStation ;
+    rdfs:label "SAN BABILA" ;
+    cmo:latitude "45.46652140103037"^^xsd:float ;
+    cmo:lineOfPublicTransportSystemStation "1" ;
+    cmo:longitude "9.197528607879002"^^xsd:float ;
+    ns1:sameAs <http://dbpedia.org/resource/San_Babila_(Milan_Metro)> .
+
+<http://comune.milano.it/resource/subwayStation/san_donato> a schema:SubwayStation ;
+    rdfs:label "SAN DONATO" ;
+    cmo:latitude "45.42920640102951"^^xsd:float ;
+    cmo:lineOfPublicTransportSystemStation "3" ;
+    cmo:longitude "9.256233907850342"^^xsd:float ;
+    ns1:sameAs <http://dbpedia.org/resource/San_Donato_(Milan_Metro)> .
+
+<http://comune.milano.it/resource/subwayStation/san_siro_ippodromo> a schema:SubwayStation ;
+    rdfs:label "SAN SIRO IPPODROMO" ;
+    cmo:latitude "45.47620897248482"^^xsd:float ;
+    cmo:lineOfPublicTransportSystemStation "5" ;
+    cmo:longitude "9.129012446413247"^^xsd:float ;
+    ns1:sameAs <http://dbpedia.org/resource/San_Siro> .
+
+<http://comune.milano.it/resource/subwayStation/san_siro_stadio> a schema:SubwayStation ;
+    rdfs:label "SAN SIRO STADIO" ;
+    cmo:latitude "45.47625889461679"^^xsd:float ;
+    cmo:lineOfPublicTransportSystemStation "5" ;
+    cmo:longitude "9.11831543256738"^^xsd:float ;
+    ns1:sameAs <http://dbpedia.org/resource/San_Siro> .
+
+<http://comune.milano.it/resource/subwayStation/segesta> a schema:SubwayStation ;
+    rdfs:label "SEGESTA" ;
+    cmo:latitude "45.47635873874508"^^xsd:float ;
+    cmo:lineOfPublicTransportSystemStation "5" ;
+    cmo:longitude "9.137893993682969"^^xsd:float .
+
+<http://comune.milano.it/resource/subwayStation/segesta_1> a schema:SubwayStation ;
+    rdfs:label "SEGESTA" ;
+    cmo:latitude "45.442810701030986"^^xsd:float ;
+    cmo:lineOfPublicTransportSystemStation "3" ;
+    cmo:longitude "9.218481407867397"^^xsd:float .
+
+<http://comune.milano.it/resource/subwayStation/sesto_1_maggio_fs> a schema:SubwayStation ;
+    rdfs:label "SESTO 1 MAGGIO FS" ;
+    cmo:latitude "45.541691201020654"^^xsd:float ;
+    cmo:lineOfPublicTransportSystemStation "1" ;
+    cmo:longitude "9.23833340787253"^^xsd:float .
+
+<http://comune.milano.it/resource/subwayStation/sesto_marelli> a schema:SubwayStation ;
+    rdfs:label "SESTO MARELLI" ;
+    cmo:latitude "45.52347710102303"^^xsd:float ;
+    cmo:lineOfPublicTransportSystemStation "1" ;
+    cmo:longitude "9.22796150787429"^^xsd:float .
+
+<http://comune.milano.it/resource/subwayStation/sesto_rondo> a schema:SubwayStation ;
+    rdfs:label "SESTO RONDO" ;
+    cmo:latitude "45.53415930102185"^^xsd:float ;
+    cmo:lineOfPublicTransportSystemStation "1" ;
+    cmo:longitude "9.23124580787439"^^xsd:float .
+
+<http://comune.milano.it/resource/subwayStation/sleonardo> a schema:SubwayStation ;
+    rdfs:label "S.LEONARDO" ;
+    cmo:latitude "45.50115550103422"^^xsd:float ;
+    cmo:lineOfPublicTransportSystemStation "1" ;
+    cmo:longitude "9.101481207922426"^^xsd:float .
+
+<http://comune.milano.it/resource/subwayStation/sondrio> a schema:SubwayStation ;
+    rdfs:label "SONDRIO" ;
+    cmo:latitude "45.48999020102804"^^xsd:float ;
+    cmo:lineOfPublicTransportSystemStation "3" ;
+    cmo:longitude "9.200558407880905"^^xsd:float .
+
+<http://comune.milano.it/resource/subwayStation/sondrio_1> a schema:SubwayStation ;
+    rdfs:label "SONDRIO" ;
+    cmo:latitude "45.46553190103127"^^xsd:float ;
+    cmo:lineOfPublicTransportSystemStation "1" ;
+    cmo:longitude "9.18623540788344"^^xsd:float .
+
+<http://comune.milano.it/resource/subwayStation/sondrio_2> a schema:SubwayStation ;
+    rdfs:label "SONDRIO" ;
+    cmo:latitude "45.487490000608666"^^xsd:float ;
+    cmo:lineOfPublicTransportSystemStation "5" ;
+    cmo:longitude "9.171946839180348"^^xsd:float .
+
+<http://comune.milano.it/resource/subwayStation/tre_torri> a schema:SubwayStation ;
+    rdfs:label "TRE TORRI" ;
+    cmo:latitude "45.47814018467403"^^xsd:float ;
+    cmo:lineOfPublicTransportSystemStation "5" ;
+    cmo:longitude "9.156675327340007"^^xsd:float .
+
+<http://comune.milano.it/resource/subwayStation/uruguay> a schema:SubwayStation ;
+    rdfs:label "URUGUAY" ;
+    cmo:latitude "45.49371690103352"^^xsd:float ;
+    cmo:lineOfPublicTransportSystemStation "1" ;
+    cmo:longitude "9.120545907913728"^^xsd:float .
+
+<http://comune.milano.it/resource/subwayStation/villa_fiorita> a schema:SubwayStation ;
+    rdfs:label "VILLA FIORITA" ;
+    cmo:latitude "45.52073979973284"^^xsd:float ;
+    cmo:lineOfPublicTransportSystemStation "2" ;
+    cmo:longitude "9.345971366778144"^^xsd:float .
+
+<http://comune.milano.it/resource/subwayStation/villa_pompea> a schema:SubwayStation ;
+    rdfs:label "VILLA POMPEA" ;
+    cmo:latitude "45.52784851866394"^^xsd:float ;
+    cmo:lineOfPublicTransportSystemStation "2" ;
+    cmo:longitude "9.38497435183026"^^xsd:float .
+
+<http://comune.milano.it/resource/subwayStation/villa_sg> a schema:SubwayStation ;
+    rdfs:label "VILLA S.G." ;
+    cmo:latitude "45.517454501023714"^^xsd:float ;
+    cmo:lineOfPublicTransportSystemStation "1" ;
+    cmo:longitude "9.22613020787423"^^xsd:float .
+
+<http://comune.milano.it/resource/subwayStation/vimodrone> a schema:SubwayStation ;
+    rdfs:label "VIMODRONE" ;
+    cmo:latitude "45.51578330101957"^^xsd:float ;
+    cmo:lineOfPublicTransportSystemStation "2" ;
+    cmo:longitude "9.285989107849822"^^xsd:float ;
+    ns1:sameAs <http://dbpedia.org/resource/Vimodrone> .
+
+<http://comune.milano.it/resource/subwayStation/wagner> a schema:SubwayStation ;
+    rdfs:label "WAGNER" ;
+    cmo:latitude "45.46795010103326"^^xsd:float ;
+    cmo:lineOfPublicTransportSystemStation "1" ;
+    cmo:longitude "9.15591440789601"^^xsd:float .
+
+<http://comune.milano.it/resource/subwayStation/wagner_1> a schema:SubwayStation ;
+    rdfs:label "WAGNER" ;
+    cmo:latitude "45.4912044010253"^^xsd:float ;
+    cmo:lineOfPublicTransportSystemStation "2" ;
+    cmo:longitude "9.236996407866346"^^xsd:float .
+
+<http://comune.milano.it/resource/subwayStation/wagner_2> a schema:SubwayStation ;
+    rdfs:label "WAGNER" ;
+    cmo:latitude "45.49106920102666"^^xsd:float ;
+    cmo:lineOfPublicTransportSystemStation "1" ;
+    cmo:longitude "9.218180107873929"^^xsd:float .
+
+<http://comune.milano.it/resource/subwayStation/zara> a schema:SubwayStation ;
+    rdfs:label "ZARA" ;
+    cmo:latitude "45.492664401028385"^^xsd:float ;
+    cmo:lineOfPublicTransportSystemStation "3" ;
+    cmo:longitude "9.192601107884476"^^xsd:float .
+
+<http://comune.milano.it/resource/subwayStation/zara_1> a schema:SubwayStation ;
+    rdfs:label "ZARA" ;
+    cmo:latitude "45.492664401028385"^^xsd:float ;
+    cmo:lineOfPublicTransportSystemStation "5" ;
+    cmo:longitude "9.192601107884476"^^xsd:float .
+
+<http://comune.milano.it/resource/subwayStation/zara_10> a schema:SubwayStation ;
+    rdfs:label "ZARA" ;
+    cmo:latitude "45.501626201027186"^^xsd:float ;
+    cmo:lineOfPublicTransportSystemStation "5" ;
+    cmo:longitude "9.197920007883518"^^xsd:float .
+
+<http://comune.milano.it/resource/subwayStation/zara_11> a schema:SubwayStation ;
+    rdfs:label "ZARA" ;
+    cmo:latitude "45.48760830102892"^^xsd:float ;
+    cmo:lineOfPublicTransportSystemStation "5" ;
+    cmo:longitude "9.191263407884342"^^xsd:float .
+
+<http://comune.milano.it/resource/subwayStation/zara_12> a schema:SubwayStation ;
+    rdfs:label "ZARA" ;
+    cmo:latitude "45.50673430102494"^^xsd:float ;
+    cmo:lineOfPublicTransportSystemStation "1" ;
+    cmo:longitude "9.222738807874173"^^xsd:float .
+
+<http://comune.milano.it/resource/subwayStation/zara_13> a schema:SubwayStation ;
+    rdfs:label "ZARA" ;
+    cmo:latitude "45.48489990102891"^^xsd:float ;
+    cmo:lineOfPublicTransportSystemStation "2" ;
+    cmo:longitude "9.194857407882534"^^xsd:float .
+
+<http://comune.milano.it/resource/subwayStation/zara_14> a schema:SubwayStation ;
+    rdfs:label "ZARA" ;
+    cmo:latitude "45.46489630103445"^^xsd:float ;
+    cmo:lineOfPublicTransportSystemStation "1" ;
+    cmo:longitude "9.143028007900806"^^xsd:float .
+
+<http://comune.milano.it/resource/subwayStation/zara_2> a schema:SubwayStation ;
+    rdfs:label "ZARA" ;
+    cmo:latitude "45.500445501025595"^^xsd:float ;
+    cmo:lineOfPublicTransportSystemStation "1" ;
+    cmo:longitude "9.221004707874036"^^xsd:float .
+
+<http://comune.milano.it/resource/subwayStation/zara_3> a schema:SubwayStation ;
+    rdfs:label "ZARA" ;
+    cmo:latitude "45.475040701029805"^^xsd:float ;
+    cmo:lineOfPublicTransportSystemStation "3" ;
+    cmo:longitude "9.194706707881283"^^xsd:float .
+
+<http://comune.milano.it/resource/subwayStation/zara_4> a schema:SubwayStation ;
+    rdfs:label "ZARA" ;
+    cmo:latitude "45.48595810103299"^^xsd:float ;
+    cmo:lineOfPublicTransportSystemStation "1" ;
+    cmo:longitude "9.137182307905976"^^xsd:float .
+
+<http://comune.milano.it/resource/subwayStation/zara_5> a schema:SubwayStation ;
+    rdfs:label "ZARA" ;
+    cmo:latitude "45.48114500102702"^^xsd:float ;
+    cmo:lineOfPublicTransportSystemStation "2" ;
+    cmo:longitude "9.225916807869481"^^xsd:float .
+
+<http://comune.milano.it/resource/subwayStation/zara_6> a schema:SubwayStation ;
+    rdfs:label "ZARA" ;
+    cmo:latitude "45.50879970103467"^^xsd:float ;
+    cmo:lineOfPublicTransportSystemStation "1" ;
+    cmo:longitude "9.085806707929775"^^xsd:float .
+
+<http://comune.milano.it/resource/subwayStation/zara_7> a schema:SubwayStation ;
+    rdfs:label "ZARA" ;
+    cmo:latitude "45.496145601027884"^^xsd:float ;
+    cmo:lineOfPublicTransportSystemStation "5" ;
+    cmo:longitude "9.19482360788404"^^xsd:float .
+
+<http://comune.milano.it/resource/subwayStation/zara_8> a schema:SubwayStation ;
+    rdfs:label "ZARA" ;
+    cmo:latitude "45.48034590102817"^^xsd:float ;
+    cmo:lineOfPublicTransportSystemStation "1" ;
+    cmo:longitude "9.210982707875413"^^xsd:float .
+
+<http://comune.milano.it/resource/subwayStation/zara_9> a schema:SubwayStation ;
+    rdfs:label "ZARA" ;
+    cmo:latitude "45.472229501030945"^^xsd:float ;
+    cmo:lineOfPublicTransportSystemStation "2" ;
+    cmo:longitude "9.18254810788582"^^xsd:float .
+
