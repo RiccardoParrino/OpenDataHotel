@@ -1,0 +1,11 @@
+SELECT ?label
+WHERE
+{
+?resource geo:lat ?resLat ;
+          geo:long ?resLong ;
+          rdfs:label ?label .
+<http://dbpedia.org/resource/Milan> geo:lat ?lat .
+<http://dbpedia.org/resource/Milan> geo:long ?long .
+FILTER ( bif:st_intersects ( bif:st_point( ?resLong, ?resLat ), bif:st_point( ?long,?lat ), 5 ) )
+FILTER ( lang( ?label ) = "en" )
+}
