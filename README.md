@@ -1,2 +1,3 @@
 # OpenDataHotel
-Trasformazione dati hotel di Milano da 3 a 5 stelle.
+
+Open Data project that offers a processing of data on hotels in Milan, considering the local city structures. The result is a ranking of the hotels distributed as a 5 stars Linked Open Data.
