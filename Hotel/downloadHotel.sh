@@ -1,0 +1,3 @@
+curl -l https://dati.lombardia.it/api/views/2p47-g7cn/rows.csv?accessType=DOWNLOAD > hotel_milano_2018.csv
+curl -l http://dati.comune.milano.it/dataset/fd725151-da06-4973-b4a9-6c41717e7db0/resource/d5edc7e1-557e-42ee-9123-5a0b30da6387/download/ds48_turismotempolibero_strutture-ricettive-alberghiere_2015.json > ds48_turismotempolibero_strutture-ricettive-alberghiere_2015.json
+python downloadMilanHotel.py

@@ -1,0 +1,1 @@
+curl -l http://dati.comune.milano.it/dataset/802a1d1f-4203-44c9-b9f5-dd8aa1f6bc3c/resource/7a07abfb-6a0d-458d-9a91-e6eb5b1ba703/download/ferrovie_stazioni_milano.geojson  -o "/home/riccardo/Desktop/ProgettoFinitoWhatsapp2.0/RailwayStation/RailwayStation.geojson"
