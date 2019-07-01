@@ -1,0 +1,8 @@
+echo "HotelTriple"
+python "./Programmi Python Creazione Triple/HotelTriple.py"
+echo "HasClose"
+python "./Programmi Python Creazione Triple/hasClose.py"
+echo "Has hasValutation"
+python "./Programmi Python Creazione Triple/hasValutation.py"
+echo "add Valutation"
+python "./Programmi Python Creazione Triple/AddValutation.py"
